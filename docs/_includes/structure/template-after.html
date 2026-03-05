@@ -1,0 +1,16 @@
+{% assign template="layouts/template-after.html" %}
+{% include structure/debug.html %}
+{% assign p="_lang" %}{% assign v=_lang %}{% include structure/r.html %}
+{% assign p="_data" %}{% assign v=_data %}{% include structure/r.html %}
+
+{% if _data.template %}
+  {% assign template = _data.template %}
+  {% for section in site.data.templates[template].after %}
+    {% assign _block = section %}
+    {% include structure/section.html %}
+    {% assign previous_section = section.structure %}
+  {% endfor %}
+{% endif %}
+
+{% assign template="layouts/template-after.html" %}
+{% include structure/debug.html %}

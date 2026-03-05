@@ -1,0 +1,28 @@
+locale: 'fr'
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
+backend:
+  name: github
+  repo: biothermica/biothermica-2026
+  branch: main
+  base_url: https://app.staticauth.com
+  auth_endpoint: /auth/github/repo/699c9420577b4a4efbac731a
+  # base_url: https://suresh-issue-82.dcycleproject.org
+  # auth_endpoint: /auth/github/repo/69854552314079e1b66d994f
+
+media_folder: "docs/media"
+public_folder: "/media"
+
+collections:
+  - name: 'articles'
+    create: true
+    label: 'Articles'
+    folder: 'docs/_articles/_posts/'
+    slug: '{{slug}}'
+    fields:
+      - label: 'Titre en français'
+        name: 'title'
+        widget: 'string'

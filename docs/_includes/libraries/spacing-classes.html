@@ -1,0 +1,10 @@
+{% capture _lib %}
+{% if lib_phase == 'build' %}
+  {% assign lib_sections_spacing_classes = 'true' %}
+{% else if lib_phase == 'css' %}
+  {% if lib_sections_spacing_classes == 'true' %}
+    <style>{% include structure/spacing_classes.css %}</style>
+  {% endif %}
+{% endif %}
+{% endcapture %}
+{{ _lib | strip_newlines | replace: "  ", " " | replace: "  ", " " }}

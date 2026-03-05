@@ -1,0 +1,33 @@
+{% assign template="structure/section.html" %}
+{% include structure/debug.html %}
+{% assign p="_block" %}{% assign v=_block %}{% include structure/r.html %}
+
+{% if _block.debug_bookend && _block.structure != 'sectionbookend' %}
+  {% include sections/sectionbookend.html %}
+{% endif %}
+
+{% assign _text = _block.text[_lang] %}
+
+{% include libraries/spacing-classes.html %}
+{% capture spacing_classes %}
+  my-previous-section-{{ previous_section }} my-current-section-{{ _block.structure }}
+{% endcapture %}
+
+{% if _block.structure == 'awards' %}
+  {% include sections/awards.html %}
+{% elsif _block.structure == 'banner' %}
+  {% include sections/banner.html %}
+{% elsif _block.structure == 'header' %}
+  {% include sections/header.html %}
+{% elsif _block.structure == 'three-featured' %}
+  {% include sections/three-featured.html %}
+{% else %}
+  <p>Block structure "{{ _block.structure }}" not recognized.</p>
+{% endif %}
+
+{% if _block.debug_bookend && _block.structure != 'sectionbookend' %}
+  {% include sections/sectionbookend.html %}
+{% endif %}
+
+{% assign template="structure/section.html" %}
+{% include structure/enddebug.html %}

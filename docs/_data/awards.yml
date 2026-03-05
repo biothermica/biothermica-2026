@@ -1,0 +1,8 @@
+- name:
+    en: Energia
+    fr: Energia
+  media:
+    path: /media/awards_energia.png
+    alt:
+      en: Energia
+      fr: Energia

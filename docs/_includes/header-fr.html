@@ -1,0 +1,85 @@
+<header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">
+    <div id="zone-branding" class="zone zone-branding clearfix container-12">
+      <div class="grid-12 region region-branding" id="region-branding">
+        <div class="region-inner region-branding-inner">
+          <div class="branding-data clearfix">
+            <div class="logo-img">
+              <a href="/index.html" rel="home" title="{{ site.title }}" class="active"><img
+                  src="/sites/biothermica.com/files/logo_biothermica_med2.png" alt="{{ site.title }}" id="logo" /></a>
+            </div>
+            <hgroup class="site-name-slogan">
+
+              <h1 class="site-name"><a href="/index.html" title="Accueil" class="active">{{ site.title }}</a></h1>
+              <h6 class="site-slogan">{{ site.site-slogan-fr }}</h6>
+            </hgroup>
+          </div>
+          <div class="block block-locale block-language block-locale-language odd block-without-title"
+            id="block-locale-language">
+            <div class="block-inner clearfix">
+
+              <div class="content clearfix">
+                {% include language-switcher.html %}
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">
+    <div id="zone-menu" class="zone zone-menu clearfix container-12">
+      <div class="grid-12 region region-menu" id="region-menu">
+        <div class="region-inner region-menu-inner">
+          <div class="block block-superfish block-2 block-superfish-2 odd block-without-title" id="block-superfish-2">
+            <div class="block-inner clearfix">
+              <div class="content clearfix">
+                <ul id="superfish-1"
+                  class="sf-menu menu-menu-principal-fran-ais- sf-horizontal sf-style-none sf-total-items-{{ site.data.navigation_fr.size }} sf-parent-items-7 sf-single-items-1">
+
+                  {% assign nav = site.data.navigation_fr %}
+
+                  {% for item in nav %}
+                  {% assign parent_index = forloop.index %}
+                  {% assign has_children = item.children %}
+
+                  <li class="
+                sf-item-{{ parent_index }}
+                sf-depth-1
+                {% if has_children %}sf-total-children-{{ item.children.size }} menuparent{% else %}sf-no-children{% endif %}
+            ">
+
+                    <a href="/{{ item.url }}" class="sf-depth-1 {% if has_children %}menuparent{% endif %}">
+                      {{ item.title }}
+                    </a>
+
+                    {% if has_children %}
+                    <ul>
+                      {% for child in item.children %}
+                      {% assign child_index = forloop.index %}
+                      <li class="
+                      sf-item-{{ child_index }}
+                      sf-depth-2
+                      sf-no-children
+                  ">
+                        <a href="/{{ child.url }}" class="sf-depth-2">
+                          {{ child.title }}
+                        </a>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                    {% endif %}
+
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

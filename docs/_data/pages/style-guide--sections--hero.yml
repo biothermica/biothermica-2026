@@ -1,0 +1,12 @@
+---
+id: /app/docs/_includes/sections/hero.html
+paths:
+  en: /style-guide/sections/hero/
+  fr: /fr/guide-style/sections/hero/
+titles:
+  en: Section hero
+  fr: Section hero
+template: style-guide--sections
+categories:
+- style-guide--sections
+...

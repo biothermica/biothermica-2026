@@ -1,0 +1,80 @@
+- title: "Home"
+  url: index.html
+
+- title: "About us"
+  url: content/about-us.html
+  children:
+    - title: "The Company"
+      url: content/about-us.html
+    - title: "History"
+      url: history.html
+    - title: "Board of Directors"
+      url: content/board-directors.html
+    - title: "Awards & Honors"
+      url: content/awards-and-honors.html
+    - title: "Video - Corporate"
+      url: content/video-corporate.html
+    - title: "Video - Gazmont LFG Power Plant"
+      url: content/video-gazmont-lfg-power-plant.html
+
+- title: "Air Pollution Control"
+  url: air-pollution-control.html
+  children:
+    - title: "BIOTOX® RTO"
+      url: air-pollution-control.html
+    - title: "RTO Projects"
+      url: air-pollution-control/projects.html
+
+- title: "VAMOX®"
+  url: content/vamox.html
+  children:
+    - title: "The VAMOX® RTO Solution"
+      url: content/vamox-rto-solution.html
+    - title: "Creating Value From Methane"
+      url: content/creating-value-methane.html
+    - title: "Business Approach"
+      url: content/business-approach.html
+    - title: "First Vamox Project"
+      url: content/first-vamox-project.html
+
+- title: "Landfill Gas Services"
+  url: landfill-Gas.html
+  children:
+    - title: "Expertise"
+      url: landfill-Gas.html
+    - title: "Biogaz Projects"
+      url: content/projects-0.html
+
+- title: "Carbon and Energy"
+  url: content/carbon-and-energy.html
+  children:
+    - title: "Business Approach"
+      url: content/carbon-and-energy.html
+    - title: "Gazmont Power Plant"
+      url: content/carbon-and-energy-0.html
+    - title: "Nejapa CDM Project"
+      url: content/nejapa-landfill-and-biogas.html
+    - title: "BioEnergy Haiti"
+      url: content/bioenergy-haiti.html
+    - title: "BioEnergy Togo"
+      url: content/carbon-and-energy/bioenergy-togo.html
+
+- title: "Documents"
+  url: documents.html
+  children:
+    - title: "Press Releases"
+      url: documents/1.html
+    - title: "Presentations"
+      url: documents/2.html
+    - title: "Publications"
+      url: documents/3.html
+    - title: "Brochures"
+      url: documents/4.html
+    - title: "Internal policies"
+      url: documents/66.html
+
+- title: "Contact"
+  url: content/contact.html
+  children:
+    - title: "Work Together"
+      url: content/work-together.html

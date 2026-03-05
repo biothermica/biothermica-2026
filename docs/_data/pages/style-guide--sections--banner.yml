@@ -1,0 +1,12 @@
+---
+id: /app/docs/_includes/sections/banner.html
+paths:
+  en: /style-guide/sections/banner/
+  fr: /fr/guide-style/sections/banner/
+titles:
+  en: Section banner
+  fr: Section banner
+template: style-guide--sections
+categories:
+- style-guide--sections
+...

@@ -1,0 +1,49 @@
+{% comment %}
+sections:
+  - structure: three-featured
+    text:
+      en: |
+        E Phasellus *quam* turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper
+        bibendum ipsum, et tristique augue fringilla eu. Vivamus id risus vel dolor auctor euismod
+        quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus mattis lectus sit
+        amet pulvinar. Nam nec turpis.
+      fr: |
+        F Phasellus *quam* turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper
+        bibendum ipsum, et tristique augue fringilla eu. Vivamus id risus vel dolor auctor euismod
+        quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus mattis lectus sit
+        amet pulvinar. Nam nec turpis.
+    debug_bookend: true
+{% endcomment %}
+{% assign template="sections/three-featured.html" %}
+{% include structure/debug.html %}
+{% assign p="_lang" %}{% assign v=_lang %}{% include structure/r.html %}
+<div class="wrapper style1">
+  <div class="inner">
+    <!-- Feature 1 -->
+      <section class="container box feature1">
+        <div class="row">
+          {% for item in site.data.divisions %}
+          <div class="col-4 col-12-medium">
+            <section>
+              <a href="#" class="image featured"><img src="{{ item.media.path }}" alt="{{ item.media.alt[_lang] }} " /></a>
+              <header class="second icon solid {{ item.faicon }}">
+              </header>
+              <header>
+                <h3>{{ item.name[_lang] }}</h3>
+                <p>{{ item.subtitle[_lang] }}</p>
+              </header>
+            </section>
+          </div>
+          {% endfor %}
+          {% if _text %}
+          <div class="col-12">
+            <p>{{ _text | markdownify }}</p>
+          </div>
+          {% endif %}
+        </div>
+      </section>
+
+  </div>
+</div>
+{% assign template="sections/three-featured.html" %}
+{% include structure/enddebug.html %}

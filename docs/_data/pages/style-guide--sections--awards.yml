@@ -1,0 +1,15 @@
+---
+id: /app/docs/_includes/sections/awards.html
+paths:
+  en: /style-guide/sections/awards/
+  fr: /fr/guide-style/sections/awards/
+titles:
+  en: Section awards
+  fr: Section awards
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: awards
+  debug_bookend: true
+...

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /no-robots/*
+Disallow: /beta/*
