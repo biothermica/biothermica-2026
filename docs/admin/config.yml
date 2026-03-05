@@ -21,7 +21,7 @@ collections:
     create: true
     label: 'Articles'
     folder: 'docs/_articles/_posts/'
-    slug: '{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - label: 'Titre en français'
         name: 'title'
