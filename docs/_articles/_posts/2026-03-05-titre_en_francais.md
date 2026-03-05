@@ -1,3 +1,6 @@
 ---
-title: titre en français
+title: Mise en service d’une unité BIOTOX® d’oxydation thermique régénérative à
+  l’usine de bardeaux d’asphalte de North American Felt (NAF) à Joliette, Canada
+title_en: Commissioning of a BIOTOX® regenerative thermal oxidation (RTO) unit
+  at the North American Felt (NAF) asphalt shingles plant in Joliette, Canada
 ---
