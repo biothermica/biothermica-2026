@@ -5,4 +5,6 @@ title: Premier projet Kyoto de réduction des émissions de GES assuré par la
 title_en: First Kyoto GHG emission reduction project to be insured by the
   Multilateral Investment Guarantee Agency of the World Bank in Nejapa, El
   Salvador
+documents:
+  - /media/eee_ecom_miga_06-07-06_0.pdf
 ---
