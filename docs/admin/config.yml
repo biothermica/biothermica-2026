@@ -9,7 +9,7 @@ backend:
   repo: biothermica/biothermica-2026
   branch: main
   base_url: https://app.staticauth.com
-  auth_endpoint: /auth/github/repo/699c9420577b4a4efbac731a
+  auth_endpoint: /auth/github/repo/69a8ca192824f5bdecb860ee
   # base_url: https://suresh-issue-82.dcycleproject.org
   # auth_endpoint: /auth/github/repo/69854552314079e1b66d994f
 
