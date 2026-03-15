@@ -22,7 +22,8 @@ concurrency:
 
 jobs:
   run-script-job:
-    runs-on: shinsenter/symfony:php8.4-alpine # The type of runner machine to use
+    runs-on: ubuntu-latest
+    container: shinsenter/symfony:php8.4-alpine # The type of runner machine to use
 
     steps:
       - name: Check out the repository
