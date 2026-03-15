@@ -30,7 +30,7 @@ jobs:
         uses: actions/checkout@v4 # This step is essential to access your script files
 
       - name: Run your script
-        run: php /app/scripts/build-pages/run.php # Executes the script from your repository
+        run: php ./scripts/build-pages/run.php # Executes the script from your repository
 
   # # Build job
   # build:
