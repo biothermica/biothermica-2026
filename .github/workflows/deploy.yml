@@ -22,7 +22,7 @@ concurrency:
 
 jobs:
   run-script-job:
-    runs-on: docker
+    runs-on: ubuntu-latest
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4 # This step is essential to access your script files
