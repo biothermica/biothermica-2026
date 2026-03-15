@@ -1,0 +1,14 @@
+name: Run Script on Push
+
+on: [push] # This triggers the workflow on every push event
+
+jobs:
+  run-script-job:
+    runs-on: ubuntu-latest # The type of runner machine to use
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4 # This step is essential to access your script files
+
+      - name: Run your script
+        run: ./scripts/build-pages.sh # Executes the script from your repository

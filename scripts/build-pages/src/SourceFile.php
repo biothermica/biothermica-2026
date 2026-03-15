@@ -29,7 +29,12 @@ class SourceFile {
       'layout' => 'march2026',
       'lang' => $lang,
       'data' => $id,
+      'title' => $this->title($lang),
     ]);
+  }
+  public function title(string $lang) {
+    $structure = $this->structure();
+    return $structure['titles'][$lang] ?? '';
   }
   public function paths() {
     $structure = $this->structure();

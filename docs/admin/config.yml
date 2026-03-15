@@ -10,8 +10,6 @@ backend:
   branch: master
   base_url: https://app.staticauth.com
   auth_endpoint: /auth/github/repo/69a8ca192824f5bdecb860ee
-  # base_url: https://suresh-issue-82.dcycleproject.org
-  # auth_endpoint: /auth/github/repo/69854552314079e1b66d994f
 
 media_folder: "docs/media"
 public_folder: "/media"
@@ -26,3 +24,37 @@ collections:
       - label: 'Titre en français'
         name: 'title'
         widget: 'string'
+      - label: 'Titre en anglais'
+        name: 'title_en'
+        widget: 'string'
+        required: false
+      - label: 'Contenu en français'
+        name: 'body'
+        widget: 'markdown'
+        required: false
+      - label: 'Contenu en anglais'
+        name: 'body_en'
+        widget: 'markdown'
+        required: false
+      - label: 'Documents en français'
+        name: 'documents'
+        widget: 'list'
+        required: false
+        field: {label: Document, name: document, widget: file, required: false}
+      - label: 'Documents en anglais'
+        name: 'documents_en'
+        widget: 'list'
+        required: false
+        field: {label: Document, name: document, widget: file, required: false}
+      - label: 'Redirects en français'
+        description: "Ajouter des redirections pour les anciennes URL de cet article. Par exemple: /fr/ancien-article"
+        name: 'redirects'
+        widget: 'list'
+        required: false
+        field: {label: Redirect, name: redirect, widget: string, required: false}
+      - label: 'Redirects en anglais'
+        description: "Ajouter des redirections pour les anciennes URL de cet article. Par exemple: /en/old-article"
+        name: 'redirects_en'
+        widget: 'list'
+        required: false
+        field: {label: Redirect, name: redirect, widget: string, required: false}

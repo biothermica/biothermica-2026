@@ -1,0 +1,40 @@
+paths:
+  en: /content/about-us/
+  fr: /fr/content/entreprise/
+titles:
+  en: About Us
+  fr: Entreprise
+sections_header:
+  - structure: header
+  - structure: banner
+sections:
+  - structure: text
+    text:
+      en: |
+        Founded in 1987, Biothermica is a climate mitigation infrastructure company focused on three main lines of business: Carbon and Energy Project Development, Landfill Gas Services, and Air Pollution Control Solutions.
+
+        ## Carbon and Energy Project Development
+
+        Biothermica develops, finances and implements carbon and energy projects based on the destruction and utilization of methane emissions emitted by landfill sites and underground coal mine ventilation systems. Carbon and energy revenues are generated based on Biothermica’s own proprietary technologies, such as the VAMOX® technology, applied to the destruction of coal mine ventilation air methane (VAM).
+
+        ## Landfill Gas Services
+
+        Biothermica provides the full array of landfill gas services to landfill site owners, including the evaluation and monitoring of landfill gas emissions as well as the design, construction and operation of landfill gas collection, destruction and utilization systems.
+
+        ## Air Pollution Control Solutions
+
+        Biothermica offers turn-key air pollution control solutions, based on its patented BIOTOX® technology, a regenerative thermal oxidation (RTO) process applied to the destruction of non-conventional emissions such as Condensable Organic Compounds (COCs), Volatile Organic Compounds (VOCs), Total Reduced Sulphurs (TRS), Polycyclic Aromatic Hydrocarbons (PAHs), as well as dioxins and furans emitted by various industries.
+      fr: |
+        Fondée en 1987, Biothermica est une entreprise d'infrastructures de mitigation climatique, spécialisée dans trois domaines d'activité : Développement de projets carbone et énergie, Services biogaz et Assainissement de l'air.
+
+        ## Développement de projets carbone et énergie
+
+        Biothermica développe, finance et opère des projets carbone et énergie fondés sur la destruction et la valorisation du méthane émis par les sites d'enfouissement et les mines de charbon souterraines. Ces projets sont basés sur les technologies développées par l'entreprise, telles que la technologie VAMOX® appliquée à la destruction du méthane contenu dans les systèmes de ventilation des mines de charbon.
+
+        ## Services biogaz
+
+        Biothermica offre aux propriétaires de site d'enfouissement un large éventail de services couvrant toute la chaîne du biogaz : évaluation des émissions et suivi environnemental, ingénierie, construction et opération de systèmes de captage, de destruction et de valorisation du biogaz.
+
+        ## Assainissement de l'air
+
+        Biothermica offre des solutions clé en main basées sur sa technologie brevêtée BIOTOX® d'oxydation thermique régénérative (OTR) appliquée à la destruction d'émissions non conventionnelles telles que les composés organiques condensables (COC), composés organiques volatils (COV), soufres réduits totaux (SRT), hydrocarbures aromatiques polycycliques (HAP) ainsi que les dioxines et furanes émis par différentes industries.

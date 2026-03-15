@@ -1,0 +1,98 @@
+{% assign template="layouts/simplepagenolang.html" %}
+{% include structure/debug.html %}
+
+{% assign lib_phase = 'css' %}
+
+<!DOCTYPE HTML>
+<!--
+	ZeroFour by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+{% include structure/htmllang.html %}
+	{% include structure/htmlhead.html %}
+	<body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header Wrapper -->
+				<div id="header-wrapper">
+					<div class="container">
+
+						<!-- Header -->
+							<header id="header">
+								<div class="inner">
+
+									<!-- Logo -->
+										{% include structure/logo.html %}
+
+								</div>
+							</header>
+
+					</div>
+				</div>
+
+			<!-- Main Wrapper -->
+				<div id="main-wrapper">
+					<div class="wrapper style2">
+						<div class="inner">
+							<div class="container">
+								<div id="content">
+
+									<!-- Content -->
+
+										<article>
+											<header class="major">
+												<h2>{{ page.title }}</h2>
+											</header>
+
+											{{ content | markdownify }}
+										</article>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="wrapper style3">
+						<div class="inner">
+							<div class="container">
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer Wrapper -->
+				<div id="footer-wrapper">
+					<footer id="footer" class="container">
+						<div class="row">
+							<div class="col-3 col-6-medium col-12-small">
+
+							</div>
+							<div class="col-3 col-6-medium col-12-small">
+
+							</div>
+							<div class="col-6 col-12-medium imp-medium">
+
+							</div>
+							<div class="col-12">
+								<div id="copyright">
+									<ul class="menu">
+										<li>{% include structure/copyright.html %}</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</footer>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/jquery.min.js"></script>
+			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/jquery.dropotron.min.js"></script>
+			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/browser.min.js"></script>
+			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/breakpoints.min.js"></script>
+			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/util.js"></script>
+			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/main.js"></script>
+
+	</body>
+</html>

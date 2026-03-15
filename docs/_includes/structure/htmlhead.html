@@ -1,0 +1,11 @@
+<head>
+  {% if page.title %}
+    <title>{{ page.title }} | {{ site.data.config.title }}</title>
+  {% else %}
+    <title>{{ site.data.config.title }}</title>
+  {% endif %}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="{{ site.data.config.betaTemplatePath }}/assets/css/main.css?token={{ site.time | date: '%s' }}" />
+  {% include libraries/all.html %}
+</head>

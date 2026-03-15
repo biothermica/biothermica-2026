@@ -1,3 +1,4 @@
 # Should be the same as in ./scripts/build-pages/config.php
 betaBasePath: ""
 betaTemplatePath: /beta
+siteName: Biothermica

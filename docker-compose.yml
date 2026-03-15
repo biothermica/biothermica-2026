@@ -8,4 +8,4 @@ services:
       - ./docs:/srv/jekyll
 networks:
   default:
-    name: biothermica-site
+    name: biothermica-site-2026

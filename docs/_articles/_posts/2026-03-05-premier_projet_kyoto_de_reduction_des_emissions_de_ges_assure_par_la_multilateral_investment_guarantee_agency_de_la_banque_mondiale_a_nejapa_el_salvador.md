@@ -14,9 +14,11 @@ body_en: >-
 
   MIGA is supporting the project by providing $2 million in guarantee coverage (insurance) to Canadian company Biothermica Energy Inc. The guarantee assures the investor of reimbursement in the event that a harmful political event-including expropriation, war and civil disturbance (including terrorism), and breach of contract-puts a stop to operations. MIGA's coverage also guarantees the Salvadoran government's certification (or letter of approval) of the carbon reduction, issued under the Clean Development Mechanism of the Kyoto Protocol.
 documents:
-  - /media/eee_ecom_miga_06-07-06_0.pdf
+  - /media/miga_06-07-06_0.pdf
+documents_en:
+  - /media/miga_06-07-06_0.pdf
 redirects:
   - /sites/biothermica.com/files/Com%20MIGA_06-07-06_0.pdf
 redirects_en:
-  - /content/first-kyoto-ghg-emission-reduction-project-be-insured-multilateral-investment-guarantee.html
+  - /content/first-kyoto-ghg-emission-reduction-project-be-insured-multilateral-investment-guarantee
 ---

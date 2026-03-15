@@ -1,22 +1,3 @@
-- title: "Home"
-  url: index.html
-
-- title: "About us"
-  url: content/about-us.html
-  children:
-    - title: "The Company"
-      url: content/about-us.html
-    - title: "History"
-      url: history.html
-    - title: "Board of Directors"
-      url: content/board-directors.html
-    - title: "Awards & Honors"
-      url: content/awards-and-honors.html
-    - title: "Video - Corporate"
-      url: content/video-corporate.html
-    - title: "Video - Gazmont LFG Power Plant"
-      url: content/video-gazmont-lfg-power-plant.html
-
 - title: "Air Pollution Control"
   url: air-pollution-control.html
   children:

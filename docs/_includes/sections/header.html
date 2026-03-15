@@ -2,12 +2,15 @@
   <div class="inner">
 
     <!-- Logo -->
-      <h1><a href="index.html" id="logo">Biothermica</a></h1>
+      {% include structure/logo.html %}
 
     <!-- Nav -->
       <nav id="nav">
         <ul>
-          <li class="current_page_item"><a href="index.html">Home</a></li>
+          {% for item in site.data.nav %}
+            {% assign _navitem = item %}
+            {% include structure/navitem.html %}
+          {% endfor %}
           <li>
             <a href="#">Dropdown</a>
             <ul>

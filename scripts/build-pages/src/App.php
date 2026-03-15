@@ -12,6 +12,7 @@ class App {
     $this->sections()->build($betaBasePath);
     // Make sure each multilingual page has its translations built.
     $this->multilingualPages()->build($betaBasePath);
+    $this->articles()->build();
   }
 
   public function multilingualPages() {
@@ -21,4 +22,8 @@ class App {
   public function sections() {
     return new Sections();
   }
+  public function articles() {
+    return new Articles();
+  }
+
 }

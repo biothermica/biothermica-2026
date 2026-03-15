@@ -1,0 +1,15 @@
+---
+id: /app/docs/_includes/sections/sectionbookend.html
+paths:
+  en: /style-guide/sections/sectionbookend/
+  fr: /fr/guide-style/sections/sectionbookend/
+titles:
+  en: Section sectionbookend
+  fr: Section sectionbookend
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: sectionbookend
+  debug_bookend: true
+...

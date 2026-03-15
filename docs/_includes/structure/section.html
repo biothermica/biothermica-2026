@@ -13,7 +13,10 @@
   my-previous-section-{{ previous_section }} my-current-section-{{ _block.structure }}
 {% endcapture %}
 
-{% if _block.structure == 'awards' %}
+{% if _block.structure == '' %}
+{% elsif _block.structure == 'text' %}
+  {% include sections/text.html %}
+{% elsif _block.structure == 'awards' %}
   {% include sections/awards.html %}
 {% elsif _block.structure == 'banner' %}
   {% include sections/banner.html %}

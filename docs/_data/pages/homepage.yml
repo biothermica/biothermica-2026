@@ -9,5 +9,4 @@ sections_header:
   - structure: banner
 sections:
   - structure: three-featured
-sections:
   - structure: awards

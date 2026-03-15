@@ -31,14 +31,8 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
-	<head>
-		<title>ZeroFour by HTML5 UP</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="{{ site.data.config.betaTemplatePath }}/assets/css/main.css?token={{ site.time | date: '%s' }}" />
-    {% include libraries/all.html %}
-	</head>
+{% include structure/htmllang.html %}
+	{% include structure/htmlhead.html %}
 	<body class="homepage is-preload">
 		<div id="page-wrapper">
 
@@ -299,4 +293,3 @@
 </html>
 {% assign template="layouts/page.html" %}
 {% include structure/enddebug.html %}
-}}
