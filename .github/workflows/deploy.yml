@@ -40,6 +40,8 @@ jobs:
         run: ./scripts/build-site-folder.sh # Executes the script from your repository
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs'
 
   # Deployment job
   deploy:
