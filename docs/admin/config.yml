@@ -20,6 +20,11 @@ collections:
     label: 'Articles'
     folder: 'docs/_articles/_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    # I'd like the summary to show the date, but I can't because of
+    # https://github.com/decaporg/decap-cms/issues/7753
+    # This does not work:
+    # summary: '{{year}}-{{month}}-{{day}} - {{title}}'
+    summary: '{{title}}'
     fields:
       - label: 'Titre en français'
         name: 'title'
@@ -58,3 +63,25 @@ collections:
         widget: 'list'
         required: false
         field: {label: Redirect, name: redirect, widget: string, required: false}
+  - name: 'projects'
+    create: true
+    label: 'Projets'
+    folder: 'docs/_projects/_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{projectyear}} {{title}}'
+    fields:
+      - label: 'Lieu en français'
+        name: 'title'
+        widget: 'string'
+      - label: 'Lieu en anglais'
+        name: 'title_en'
+        widget: 'string'
+        required: false
+      - label: 'Année'
+        name: 'projectyear'
+        widget: 'string'
+        required: false
+      - label: 'Image'
+        name: 'image'
+        widget: 'image'
+        required: false
