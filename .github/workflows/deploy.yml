@@ -38,7 +38,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup ./docs/_site
-        uses: Makdir -p ./docs/_site
+        run: mkdir -p ./docs/_site
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
