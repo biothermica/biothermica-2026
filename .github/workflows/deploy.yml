@@ -21,14 +21,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  run-script-job:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out the repository
-        uses: actions/checkout@v5 # This step is essential to access your script files
-      - name: Run your script
-        run: ./scripts/build-pages.sh # Executes the script from your repository
-
   # Build job
   build:
     runs-on: ubuntu-latest
@@ -36,6 +28,8 @@ jobs:
     steps:
       - name: Check out the repository
         uses: actions/checkout@v5 # This step is essential to access your script files
+      - name: Create pages from multilignual yaml files
+        run: ./scripts/build-pages.sh # Executes the script from your repository
       - name: Run your script
         run: ./scripts/build-site-folder.sh # Executes the script from your repository
       - name: Upload artifact
