@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repository
-        uses: actions/checkout@v4 # This step is essential to access your script files
+        uses: actions/checkout@v5 # This step is essential to access your script files
 
       - name: Run your script
         run: ./scripts/build-pages.sh # Executes the script from your repository
@@ -36,7 +36,7 @@ jobs:
     needs: run-script-job
     steps:
       - name: Check out the repository
-        uses: actions/checkout@v4 # This step is essential to access your script files
+        uses: actions/checkout@v5 # This step is essential to access your script files
 
       - name: Run your script
         run: ./scripts/build-site-folder.sh # Executes the script from your repository
