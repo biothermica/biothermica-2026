@@ -70,10 +70,10 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{projectyear}} {{title}}'
     fields:
-      - label: 'Lieu en français'
+      - label: 'Titre en français'
         name: 'title'
         widget: 'string'
-      - label: 'Lieu en anglais'
+      - label: 'Titre en anglais'
         name: 'title_en'
         widget: 'string'
         required: false
@@ -84,4 +84,12 @@ collections:
       - label: 'Image'
         name: 'image'
         widget: 'image'
+        required: false
+      - label: 'Description en français'
+        name: 'description'
+        widget: 'markdown'
+        required: false
+      - label: 'Description en anglais'
+        name: 'description_en'
+        widget: 'markdown'
         required: false
