@@ -93,3 +93,33 @@ collections:
         name: 'description_en'
         widget: 'markdown'
         required: false
+  - name: "awards"
+    label: "Awards"
+    files:
+      - file: "docs/_data/awards.yml"
+        label: "Awards List"
+        name: "awards_list"
+        fields:
+          - label: "Awards"
+            name: ""
+            widget: "list"
+            fields:
+              - label: "Name"
+                name: "name"
+                widget: "object"
+                fields:
+                  - { label: "English", name: "en", widget: "string" }
+                  - { label: "French", name: "fr", widget: "string" }
+
+              - label: "Media"
+                name: "media"
+                widget: "object"
+                fields:
+                  - { label: "Image", name: "path", widget: "image" }
+
+                  - label: "Alt Text"
+                    name: "alt"
+                    widget: "object"
+                    fields:
+                      - { label: "English", name: "en", widget: "string" }
+                      - { label: "French", name: "fr", widget: "string" }
