@@ -6,26 +6,24 @@ sections:
 {% assign template="sections/awards.html" %}
 {% include structure/debug.html %}
 {% assign p="_lang" %}{% assign v=_lang %}{% include structure/r.html %}
+
 <div class="wrapper style1">
   <div class="inner">
-    <!-- Feature 1 -->
-      <section class="container box feature1">
-        <div class="row">
-          <div class="col-4 col-12-medium">
-            <h2>{{ _t['Awards'][_lang] }}</h2>
-            <div style="display:flex;flex-wrap:wrap">
-              {% for item in site.data.awards %}
-              <div style="flex:1 0 200px;margin:10px;">
-                <a href="#" class="image featured"><img src="{{ item.media.path }}" alt="{{ item.media.alt[_lang] }} " /></a>
-                <header>
-                  <h3>{{ item.name[_lang] }}</h3>
-                </header>
-              </div>
-              {% endfor %}
-            </div>
-          </div>
+
+    <section class="container box feature1">
+      <header class="major">
+        <h2>{{ _t['Awards'][_lang] }}</h2>
+      </header>
+
+      <div class="awards-logos">
+        {% for item in site.data.awards.items %}
+        <div class="award-item">
+          <img src="{{ item.media.path }}" alt="{{ item.media.alt[_lang] }}" loading="lazy" />
         </div>
-      </section>
+        {% endfor %}
+      </div>
+    </section>
+
   </div>
 </div>
 {% assign template="sections/awards.html" %}

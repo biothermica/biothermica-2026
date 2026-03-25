@@ -2427,3 +2427,26 @@ input, select, textarea {
 			}
 
 	}
+
+	.awards-logos {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;   /* center nicely */
+		align-items: center;
+		gap: 30px;                 /* space between logos */
+	}
+
+	.award-item {
+		flex: 0 1 auto;            /* natural width */
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.award-item img {
+		max-height: 150px;          /* control size */
+		width: auto;
+		object-fit: contain;
+		opacity: 0.8;
+		transition: all 0.3s ease;
+	}

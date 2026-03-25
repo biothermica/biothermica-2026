@@ -93,6 +93,8 @@ collections:
         name: 'description_en'
         widget: 'markdown'
         required: false
+
+
   - name: "awards"
     label: "Awards"
     files:
@@ -101,7 +103,7 @@ collections:
         name: "awards_list"
         fields:
           - label: "Awards"
-            name: ""
+            name: "items"
             widget: "list"
             fields:
               - label: "Name"
@@ -110,7 +112,6 @@ collections:
                 fields:
                   - { label: "English", name: "en", widget: "string" }
                   - { label: "French", name: "fr", widget: "string" }
-
               - label: "Media"
                 name: "media"
                 widget: "object"
