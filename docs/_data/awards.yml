@@ -3,7 +3,7 @@ items:
       en: Energia
       fr: Energia
     media:
-      path: /media/awards_energia.png
+      path: /media/awards-energia.png
       alt:
         en: Energia
         fr: Energia
@@ -12,7 +12,7 @@ items:
       en: GCCA Award - Best of bioenergy
       fr: GCCA Award - Best of bioenergy
     media:
-      path: /media/Logo%20GCCA%20Award_09c28.png
+      path: /media/logo-gcca-award-09c28.png
       alt:
         en: GCCA Award - Best of bioenergy
         fr: GCCA Award - Best of bioenergy
@@ -21,7 +21,7 @@ items:
       en: Phénix de l'environnement - Lauréat 2010
       fr: Phénix de l'environnement - Lauréat 2010
     media:
-      path: /media/Phénix-Logo 2010-Couleur_01d50.png
+      path: /media/phenix-logo-2010-couleur-01d50.png
       alt:
         en: Phénix de l'environnement - Lauréat 2010
         fr: Phénix de l'environnement - Lauréat 2010
@@ -30,7 +30,7 @@ items:
       en: Prix Mercuriades
       fr: Prix Mercuriades
     media:
-      path: /media/Mercuriadese4e3.png
+      path: /media/mercuriadese4e3.png
       alt:
         en: Prix Mercuriades
         fr: Prix Mercuriades
@@ -39,7 +39,7 @@ items:
       en: Prix Air & Waste Management Association
       fr: Prix Air & Waste Management Association
     media:
-      path: /media/AWMA2e9c.png
+      path: /media/awma2e9c.png
       alt:
         en: Prix Air & Waste Management Association
         fr: Prix Air & Waste Management Association
@@ -66,7 +66,7 @@ items:
       en: clean50_2019
       fr: clean50_2019
     media:
-      path: /media/clean50_2019_header_logo7156.png
+      path: /media/clean50-2019-header-logo7156.png
       alt:
         en: clean50_2019
         fr: clean50_2019
