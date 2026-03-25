@@ -23,8 +23,7 @@ collections:
     # I'd like the summary to show the date, but I can't because of
     # https://github.com/decaporg/decap-cms/issues/7753
     # This does not work:
-    # summary: '{{year}}-{{month}}-{{day}} - {{title}}'
-    summary: '{{title}}'
+    summary: "{{fields.mydate}} -C {{title_en}}"
     fields:
       - label: 'Titre en français'
         name: 'title'
@@ -36,6 +35,10 @@ collections:
       - label: 'Contenu en français'
         name: 'body'
         widget: 'markdown'
+        required: false
+      - label: 'Date (yyyy-mm-dd)'
+        name: 'mydate'
+        widget: 'string'
         required: false
       - label: 'Contenu en anglais'
         name: 'body_en'
