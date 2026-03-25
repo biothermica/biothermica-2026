@@ -21,16 +21,20 @@ collections:
     folder: 'docs/_articles/_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # I'd like the summary to show the date, but I can't because of
-    # https://github.com/decaporg/decap-cms/issues/7753
-    # This does not work:
-    # summary: '{{year}}-{{month}}-{{day}} - {{title}}'
-    summary: '{{title}}'
+    # https://github.com/decaporg/decap-cms/issues/7753, so I have to
+    # use a mydate field.
+    summary: "{{fields.mydate}} - {{title}}"
+    sortableFields: ["mydate"]
     fields:
       - label: 'Titre en français'
         name: 'title'
         widget: 'string'
       - label: 'Titre en anglais'
         name: 'title_en'
+        widget: 'string'
+        required: false
+      - label: 'Date (yyyy-mm-dd)'
+        name: 'mydate'
         widget: 'string'
         required: false
       - label: 'Contenu en français'
@@ -68,17 +72,22 @@ collections:
     label: 'Projets'
     folder: 'docs/_projects/_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{projectyear}} {{title}}'
+    summary: '{{title}} (ordre: {{ordre}})'
+    sortableFields: ["ordre"]
     fields:
-      - label: 'Titre en français'
+      - label: 'Titre administratif (non affiché sur le site)'
         name: 'title'
         widget: 'string'
-      - label: 'Titre en anglais'
-        name: 'title_en'
+      - label: 'Ordre (par exemple arbre est affiché avant zèbre)'
+        name: 'ordre'
         widget: 'string'
         required: false
-      - label: 'Année'
-        name: 'projectyear'
+      - label: 'Titre en français'
+        name: 'title_fr'
+        widget: 'string'
+        required: false
+      - label: 'Titre en anglais'
+        name: 'title_en'
         widget: 'string'
         required: false
       - label: 'Image'
