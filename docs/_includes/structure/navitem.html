@@ -1,3 +1,14 @@
-{% assign _path = site.data.pages[_navitem.page].paths[_lang] %}
-{% assign _label = site.data.pages[_navitem.page].titles[_lang] %}
-<li class="current_page_item"><a href="{{ _path }}">{{ _label }}</a></li>
+{% assign _path = _navitem.url %}
+{% assign _label = _navitem.title %}
+<li>
+  <a href="{{ _path }}">{{ _label }}</a>
+  {% if _navitem.children %}
+  <ul>
+  {% for child in _navitem.children %}
+    {% assign _childpath = child.url %}
+    {% assign _childlabel = child.title %}
+    <li><a href="{{ _childpath }}">{{ _childlabel }}</a></li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+</li>

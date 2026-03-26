@@ -1,0 +1,51 @@
+#titleBar {
+  background: white !important;
+}
+/** mobile logo */
+#titleBar .title {
+  width: 215px;
+  height: 34px;
+  background: url(/media/biothermica-logo-and-text-360x57.png) no-repeat;
+  background-size: 215px 34px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+/** desktop logo */
+#logo {
+  width: 360px;
+  height: 57px;
+  display: block;
+  background: url(/media/biothermica-logo-and-text-360x57.png) no-repeat;
+}
+/** header taller to accomodate logo */
+#header .inner {
+  height: 120px;
+}
+#nav {
+  top: 60px !important;
+  /** center nav */
+  left: 0 !important;
+  right: 0 !important;
+  margin-inline: auto !important;
+  width: fit-content !important;
+}
+@media (min-width: 981px) {
+  #header .inner {
+    background: white !important;
+  }
+  #header h1 {
+    top: 35px !important;
+    /** center logo */
+    left: 0 !important;
+    right: 0 !important;
+    margin-inline: auto !important;
+    width: fit-content !important;
+  }
+  #logo {
+    background: url(/media/biothermica-logo-and-text-360x57.png) no-repeat;
+    width: 270px;
+    height: 43px;
+    background-size: 270px 43px;
+  }
+}

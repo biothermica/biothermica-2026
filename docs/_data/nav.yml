@@ -1,15 +1,136 @@
-- page: homepage
-- page: about-us
-  children:
-    - title: "The Company"
-      url: content/about-us.html
-    - title: "History"
-      url: history.html
-    - title: "Board of Directors"
-      url: content/board-directors.html
-    - title: "Awards & Honors"
-      url: content/awards-and-honors.html
-    - title: "Video - Corporate"
-      url: content/video-corporate.html
-    - title: "Video - Gazmont LFG Power Plant"
-      url: content/video-gazmont-lfg-power-plant.html
+en:
+  - url: /content/about-us.html
+    title: About
+    children:
+      - url: /content/about-us.html
+        title: The Company
+      - url: /history.html
+        title: History
+      - url: /content/board-directors.html
+        title: Board of Directors
+      - url: /content/awards-and-honors.html
+        title: Awards & Honors
+      - url: /content/video-corporate.html
+        title: Video - Corporate
+      - url: /content/video-gazmont-lfg-power-plant.html
+        title: Video - Gazmont LFG Power Plant
+      - url: /documents/1.html
+        title: Press Releases
+      - url: /documents/2.html
+        title: Presentations
+      - url: /documents/3.html
+        title: Publications
+      - url: /documents/4.html
+        title: Brochures
+      - url: /documents/66.html
+        title: Internal policies
+  - url: /air-pollution-control.html
+    title: Air Pollution
+    children:
+      - url: /air-pollution-control.html
+        title: BIOTOX® RTO
+      - url: /air-pollution-control/projects.html
+        title: RTO Projects
+  - url: /content/vamox.html
+    title: VAMOX®
+    children:
+      - url: /content/vamox-rto-solution.html
+        title: The VAMOX® RTO Solution
+      - url: /content/creating-value-methane.html
+        title: Creating Value From Methane
+      - url: /content/business-approach.html
+        title: Business Approach
+      - url: /content/first-vamox-project.html
+        title: First Vamox Project
+  - url: /landfill-Gas.html
+    title: Landfill Gas
+    children:
+      - url: /landfill-Gas.html
+        title: Expertise
+      - url: /content/projects-0.html
+        title: Biogaz Projects
+  - url: /content/carbon-and-energy.html
+    title: Carbon & Energy
+    children:
+      - url: /content/carbon-and-energy.html
+        title: Business Approach
+      - url: /content/carbon-and-energy-0.html
+        title: Gazmont Power Plant
+      - url: /content/nejapa-landfill-and-biogas.html
+        title: Nejapa CDM Project
+      - url: /content/bioenergy-haiti.html
+        title: BioEnergy Haiti
+      - url: /content/carbon-and-energy/bioenergy-togo.html
+        title: BioEnergy Togo
+  - url: /content/contact.html
+    title: Contact
+    children:
+      - url: /content/work-together.html
+        title: Work Together
+fr:
+  - url: /fr/content/entreprise.html
+    title: À propos
+    children:
+      - url: /fr/content/entreprise.html
+        title: À propos de nous
+      - url: /fr/content/historique.html
+        title: Historique
+      - url: /fr/content/conseil-dadministration.html
+        title: Conseil d'administration
+      - url: /fr/content/prix-distinctions.html
+        title: Prix et distinctions
+      - url: /fr/content/vidéo-corporative.html
+        title: Vidéo Corporative
+      - url: /fr/content/vidéo-centrale-gazmont.html
+        title: Vidéo - Centrale Gazmont
+      - url: /fr/documents/53.html
+        title: Communiqués de presse
+      - url: /fr/documents/9.html
+        title: Présentations
+      - url: /fr/documents/10.html
+        title: Publications
+      - url: /fr/documents/11.html
+        title: Brochures
+      - url: /fr/documents/67.html
+        title: Politiques internes
+  - url: /fr/content/oxydation-thermique-regenerative.html
+    title: Assainissement de l'air
+    children:
+      - url: /fr/content/oxydation-thermique-regenerative.html
+        title: BIOTOX® OTR
+      - url: /fr/assainissement/projets.html
+        title: Projets OTR
+  - url: /fr/content/methane-minier.html
+    title: Méthane Minier
+    children:
+      - url: /fr/content/methane-minier.html
+        title: Modèle d'affaires
+      - url: /fr/content/vamox-rto.html
+        title: VAMOX® OTR
+      - url: /fr/content/ventilation-du-méthane-états-unis.html
+        title: Ventilation du méthane, É.-U.
+  - url: /fr/content/services-biogaz.html
+    title: Biogaz
+    children:
+      - url: /fr/content/services-biogaz.html
+        title: Expertise
+      - url: /fr/content/projets.html
+        title: Projets biogaz
+  - url: /fr/content/carbone-et-energie.html
+    title: Carbone et Énergie
+    children:
+      - url: /fr/content/carbone-et-energie.html
+        title: Étapes d'un projet
+      - url: /fr/content/carbone-energie.html
+        title: Centrale Gazmont
+      - url: /fr/content/nejapa-projet-biogaz.html
+        title: Projet Nejapa
+      - url: /fr/content/bioenergie-haiti.html
+        title: BioEnergie Haiti
+      - url: /fr/content/carbone-et-energie/bioenergie-togo.html
+        title: BioÉnergie Togo
+  - url: /fr/contactez.html
+    title: Contact
+    children:
+      - url: /fr/content/contactez/travailler-ensemble.html
+        title: Travailler ensemble
