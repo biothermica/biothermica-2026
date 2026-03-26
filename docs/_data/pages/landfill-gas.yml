@@ -1,0 +1,71 @@
+paths:
+  en: /landfill-Gas/
+  fr: /fr/content/services-biogaz/
+titles:
+  en: Landfill Gas Services
+  fr: Services Biogaz
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /media/landfill-gas-header.png
+        alt: A clean landfill with a truck
+      fr:
+        image: /media/landfill-gas-header.png
+        alt: Un site d'enfouissement propre avec un camion
+sections:
+  - structure: subsections
+    sections:
+      en:
+      - title: Evaluation
+        url: /landfill-Gas.html
+      - title: Management
+        url: /content/landfill-gas-services.html
+      - title: Utilization
+        url: /content/landfill-gas-services-0.html
+      fr:
+      - title: Évaluation
+        url: /fr/content/services-biogaz.html
+      - title: Gestion
+        url: /fr/content/services-biogaz-0.html
+      - title: Valorisation
+        url: /fr/content/services-biogaz-1.html
+  - structure: text
+    text:
+      en: |
+        A precise evaluation of landfill gas emissions is essential for any project aiming for environmental control or landfill gas utilization. It enables the determination of appropriate dimensions for gas recovery and energy production equipment. An accurate evaluation ensures the long-term financial success derived from landfill gas utilization. Biothermica’s expertise covers the following aspects:
+
+        ## Evaluation of landfill gas generation
+
+        Using a georeferenced surface sampling technique developed by Biothermica in the early 1990s, the actual quantity of landfill gas being emitted into the atmosphere can be evaluated. If a substantial landfill gas presence is found, a dynamic pumping test is performed in order to determine the precise quantity and quality of landfill gas produced.
+
+        ## Characterization of landfill gas
+
+        Landfill gas samples are collected and sent to specialized laboratories to identify all chemical compounds in the landfill gas (organochlorines, sulfur compounds, chlorofluorocarbon, siloxanes etc…). This analysis is essential for preventing any corrosion in the landfill gas treatment system.
+
+        ## Evaluation of the potential for future generation of methane
+
+        Mathematical models developed by Biothermica are used to simulate future generation of landfill gas based on various parameters calibrated according to data measured on site. Moreover, during dynamic pumping tests, samples of organic matter can be collected and analyzed in a laboratory to determine organic matter content and, as a result, the future landfill gas generating potential.
+
+        ## Evaluation of future potential for energy production and greenhouse gas reduction
+
+        Based on estimates of landfill gas generation and the market price of energy, Biothermica selects the best technology for utilizing the landfill gas (diesel plant, gas turbine, purification of the landfill gas into pipeline-quality gas) and forecasts potential greenhouse gas emission reductions.
+      fr: |
+        Une évaluation rigoureuse de la ressource biogaz est essentielle pour tout projet visant son contrôle environnemental ou sa valorisation. L’évaluation de la ressource est garante du succès financier à long terme de son exploitation. Elle permet d’optimiser les paramètres de dimensionnement des différents équipements pour le captage du biogaz et la production d’énergie. L’expertise développée par Biothermica couvre les aspects suivants:
+
+        ## Évaluation de la génération de biogaz
+
+        Grâce à la technique d’échantillonnage de surface géoréférencée mise au point par Biothermica au début des années 90, nous pouvons évaluer les quantités réelles de biogaz émis à l’atmosphère. Si une présence intéressante de biogaz est mesurée, alors un test de pompage dynamique est réalisé afin de mesurer avec précision la quantité de biogaz produit et sa qualité.
+
+        ## Caractérisation du biogaz
+
+        Des échantillons de biogaz sont collectés et envoyés dans des laboratoires spécialisés afin d’identifier tous les composants chimiques du biogaz (organochlorés, composés soufrés, chlorofluorocarbonne, siloxannes etc..). Cette analyse est essentielle pour prévenir toute corrosion dans les ouvrages de traitement du biogaz.
+
+        ## Évaluation du potentiel de génération future de méthane
+
+        La génération future du biogaz est simulée grâce à des modèles mathématiques développés par Biothermica selon différents paramètres calibrés en fonction des données mesurées sur le terrain. De plus, lors des tests de pompage dynamique, des échantillons de matières organiques peuvent être collectés et analysés en laboratoire afin de déterminer la teneur en matière organique et, par conséquent le potentiel futur de génération de biogaz.
+
+        ## Évaluation du potentiel futur de production énergétique et de réduction des gaz à effet de serre
+
+        Selon les estimations de génération de biogaz et les prix d’énergie sur le marché, Biothermica sélectionne les technologies de valorisation optimale du biogaz (centrale diesel, turbine à gaz, purification du biogaz en gaz de qualité pipe-line) et évalue les réductions potentielles de gaz à effet de serre.

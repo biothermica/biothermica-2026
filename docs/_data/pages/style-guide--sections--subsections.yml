@@ -1,0 +1,29 @@
+---
+id: /app/docs/_includes/sections/subsections.html
+paths:
+  en: /style-guide/sections/subsections/
+  fr: /fr/guide-style/sections/subsections/
+titles:
+  en: Section subsections
+  fr: Section subsections
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: subsections
+  sections:
+    en:
+    - title: Evaluation
+      url: /landfill-Gas.html
+    - title: Management
+      url: /content/landfill-gas-services.html
+    - title: Utilization
+      url: /content/landfill-gas-services-0.html
+    fr:
+    - title: "\xC9valuation"
+      url: /fr/content/services-biogaz.html
+    - title: Gestion
+      url: /fr/content/services-biogaz-0.html
+    - title: Valorisation
+      url: /fr/content/services-biogaz-1.html
+...

@@ -1,0 +1,11 @@
+---
+title: Vente des actifs de Gazmont au Groupe Helios
+permalink: /fr/nouvelles/2016-05-19/vente-des-actifs/
+...
+---
+
+Montréal, le 24 février 2016 — Biothermica annonce la vente au Groupe Helios de sa participation dans la société en commandite Gazmont, propriétaire de la centrale au biogaz située sur le site de l'ancienne carrière Miron à Montréal. Opérateur de la centrale Gazmont depuis 1996, le Groupe Helios est spécialisé en gestion d'infrastructures urbaines.
+«C'est une page marquante de notre histoire que nous tournons aujourd'hui», explique M. Guy Drouin, président de Biothermica. Dès 1987, Biothermica et ses partenaires ont développé et mis en place le projet de valorisation des biogaz provenant du site d'enfouissement de Montréal, qui s'est concrétisé par la mise en service d'une centrale électrique de 25 MW en juin 1996, la plus importante du genre au Canada.
+«Nous sommes fiers de ce projet novateur qui s'est avéré une véritable vitrine technologique en plein cœur de Montréal. Nous avons choisi de nous départir de cet actif afin de nous concentrer sur des projets éligibles au marché du carbone, tel que prévu dans notre plan d'affaires 2016-2020. En effet, comme le marché du carbone est appelé à se développer de manière considérable suite à l'Accord de Paris sur les changements climatiques, il représente une opportunité d'affaires à saisir», a déclaré M. Guy Drouin.
+Rappelons que Biothermica a été la première entreprise québécoise à générer la vente de crédits carbone sur le marché du carbone Québec-Californie. Ces crédits proviennent d'un projet de destruction de méthane dans une mine de charbon de la compagnie Jim Walter Resources (JWR) à Brookwood, en Alabama. Cette première ouvre la voie à plusieurs autres projets similaires au Canada.
+Biothermica compte prioriser son action dans ce secteur au Canada, aux États-Unis, en Australie, en Chine et au Kazakhstan afin de contribuer aux efforts de réduction des GES tels que souhaités par l'Accord de Paris sur les changements climatiques.

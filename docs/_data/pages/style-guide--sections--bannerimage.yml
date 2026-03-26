@@ -1,0 +1,21 @@
+---
+id: /app/docs/_includes/sections/bannerimage.html
+paths:
+  en: /style-guide/sections/bannerimage/
+  fr: /fr/guide-style/sections/bannerimage/
+titles:
+  en: Section bannerimage
+  fr: Section bannerimage
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: bannerimage
+  img:
+    en:
+      image: /media/landfill-gas-header.png
+      alt: A clean landfill with a truck
+    fr:
+      image: /media/landfill-gas-header.png
+      alt: Un site d'enfouissement propre avec un camion
+...
