@@ -1,8 +1,72 @@
-- name:
-    en: Energia
-    fr: Energia
-  media:
-    path: /media/awards_energia.png
-    alt:
+items:
+  - name:
       en: Energia
       fr: Energia
+    media:
+      path: /media/awards-energia.png
+      alt:
+        en: Energia
+        fr: Energia
+
+  - name:
+      en: GCCA Award - Best of bioenergy
+      fr: GCCA Award - Best of bioenergy
+    media:
+      path: /media/logo-gcca-award-09c28.png
+      alt:
+        en: GCCA Award - Best of bioenergy
+        fr: GCCA Award - Best of bioenergy
+
+  - name:
+      en: Phénix de l'environnement - Lauréat 2010
+      fr: Phénix de l'environnement - Lauréat 2010
+    media:
+      path: /media/phenix-logo-2010-couleur-01d50.png
+      alt:
+        en: Phénix de l'environnement - Lauréat 2010
+        fr: Phénix de l'environnement - Lauréat 2010
+
+  - name:
+      en: Prix Mercuriades
+      fr: Prix Mercuriades
+    media:
+      path: /media/mercuriadese4e3.png
+      alt:
+        en: Prix Mercuriades
+        fr: Prix Mercuriades
+
+  - name:
+      en: Prix Air & Waste Management Association
+      fr: Prix Air & Waste Management Association
+    media:
+      path: /media/awma2e9c.png
+      alt:
+        en: Prix Air & Waste Management Association
+        fr: Prix Air & Waste Management Association
+
+  - name:
+      en: Excellence Canada Award
+      fr: Excellence Canada Award
+    media:
+      path: /media/logoc484.png
+      alt:
+        en: Excellence Canada Award
+        fr: Excellence Canada Award
+
+  - name:
+      en: Prix du Réseau Environnement
+      fr: Prix du Réseau Environnement
+    media:
+      path: /media/logod217.png
+      alt:
+        en: Prix du Réseau Environnement
+        fr: Prix du Réseau Environnement
+
+  - name:
+      en: clean50_2019
+      fr: clean50_2019
+    media:
+      path: /media/clean50-2019-header-logo7156.png
+      alt:
+        en: clean50_2019
+        fr: clean50_2019
