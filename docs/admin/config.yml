@@ -102,8 +102,6 @@ collections:
         name: 'description_en'
         widget: 'markdown'
         required: false
-
-
   - name: "awards"
     label: "Awards"
     files:

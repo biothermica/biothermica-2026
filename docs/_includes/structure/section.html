@@ -7,6 +7,8 @@
 {% endif %}
 
 {% assign _text = _block.text[_lang] %}
+{% assign _sections = _block.sections[_lang] %}
+{% assign _img = _block.img[_lang] %}
 
 {% include libraries/spacing-classes.html %}
 {% capture spacing_classes %}
@@ -16,8 +18,12 @@
 {% if _block.structure == '' %}
 {% elsif _block.structure == 'text' %}
   {% include sections/text.html %}
+{% elsif _block.structure == 'bannerimage' %}
+  {% include sections/bannerimage.html %}
 {% elsif _block.structure == 'awards' %}
   {% include sections/awards.html %}
+{% elsif _block.structure == 'subsections' %}
+  {% include sections/subsections.html %}
 {% elsif _block.structure == 'banner' %}
   {% include sections/banner.html %}
 {% elsif _block.structure == 'header' %}

@@ -42,10 +42,10 @@ en:
         title: Business Approach
       - url: /content/first-vamox-project.html
         title: First Vamox Project
-  - url: /landfill-Gas.html
+  - url: /landfill-Gas/
     title: Landfill Gas
     children:
-      - url: /landfill-Gas.html
+      - url: /landfill-Gas/
         title: Expertise
       - url: /content/projects-0.html
         title: Biogaz Projects
@@ -109,10 +109,10 @@ fr:
         title: VAMOX® OTR
       - url: /fr/content/ventilation-du-méthane-états-unis.html
         title: Ventilation du méthane, É.-U.
-  - url: /fr/content/services-biogaz.html
+  - url: /fr/content/services-biogaz/
     title: Biogaz
     children:
-      - url: /fr/content/services-biogaz.html
+      - url: /fr/content/services-biogaz/
         title: Expertise
       - url: /fr/content/projets.html
         title: Projets biogaz
