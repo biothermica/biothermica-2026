@@ -4,7 +4,7 @@ en:
     children:
       - url: /content/about-us.html
         title: The Company
-      - url: /history.html
+      - url: /history/
         title: History
       - url: /content/board-directors.html
         title: Board of Directors
@@ -73,7 +73,7 @@ fr:
     children:
       - url: /fr/content/entreprise.html
         title: À propos de nous
-      - url: /fr/content/historique.html
+      - url: /fr/content/historique/
         title: Historique
       - url: /fr/content/conseil-dadministration.html
         title: Conseil d'administration
