@@ -1,0 +1,41 @@
+paths:
+  en: /board-directors/
+  fr: /fr/content/conseil-dadministration/
+titles:
+  en: Board of Directors
+  fr: Conseil d'administration
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_184f4.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_184f4.jpg
+        alt:
+sections:
+  - structure: text
+    text:
+      en: |
+        ![Guy Drouin](/sites/biothermica.com/files/photo_pres.jpg)
+
+        **Guy Drouin, P.Eng., MBA**  
+        President and Chief Executive Officer (CEO)
+
+        Guy is the founder and owner of the Biothermica group since 1987. Over the past 30 years, he has participated in the design, development, and commercialization of numerous technologies and projects in the fields of air pollution control, greenhouse gas (GHG) and methane mitigation, and renewable energy.
+
+        Guy is the President of the Gazmont Limited Partnership, a subsidiary of Biothermica, which has owned and operated a 25 MW landfill gas power plant in Montreal since 1996. He also financed and managed the development and implementation of the first coal mine ventilation air methane (VAM) abatement plant at an active underground coal mine operated by Walter Energy (WLT:NYSE) in Alabama. He also supervised the registration of the carbon credits under the Climate Action Reserve standard, based in California.
+
+        Guy holds an engineering degree from the Polytechnic School of Montreal (1972) and a Master's degree in Business Administration from McGill University (1974).
+      fr: |
+        ![Guy Drouin](/sites/biothermica.com/files/photo_pres.jpg)
+
+        **Guy Drouin, ing., MBA**
+        Président et chef de la direction
+
+        Guy est le fondateur et propriétaire du groupe Biothermica depuis 1987. Au cours des 30 dernières années, il a participé à la conception, au développement et à la commercialisation de nombreuses technologies et projets dans les domaines du contrôle de la pollution de l’air, la réduction des émissions de méthane et de gaz à effet de serre et la production d’énergie renouvelable.
+
+        M. Drouin est également Président de la société en commandite Gazmont, qui est propriétaire et opérateur depuis 1996 d’une centrale au biogaz d’une capacité de 25 MW, située sur l’ancien site d’enfouissement de la Ville de Montréal. M. Drouin fut également responsable du développement et de l’implantation du premier projet nord-américain de destruction du méthane contenu dans l’air de ventilation d’une mine de charbon souterraine active (Groupe Walter Energy, WLT:NYSE). M. Drouin a également supervisé l'enregistrement de ce projet sous le standard Climate Action Reserve (CAR), basé en Californie.
+
+        M. Drouin détient un diplôme en ingénierie de l’École Polytechnique de Montréal (1972) et une maîtrise en administration des affaires (MBA) de l’Université McGill (1974).

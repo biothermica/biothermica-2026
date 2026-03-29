@@ -1,0 +1,73 @@
+paths:
+  en: /air-pollution-control/
+  fr: /fr/content/oxydation-thermique-regenerative/
+titles:
+  en: Air Pollution Control
+  fr: Biotox® OTR
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/4-1_0aa5c.png
+        alt: Usine avec traitement de l'air et technologie Biotox
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/4-1_0aa5c.png
+        alt:
+
+sections:
+  - structure: subsections
+    sections:
+      en:
+      - title: Operating Principle
+        url: /air-pollution-control/
+      - title: Applications
+        url: /content/air-pollution-control/
+      - title: Advantages
+        url: /content/air-pollution-control-0/
+  - structure: text
+    text:
+      en: |
+        The BIOTOX® regenerative thermal oxidizer (RTO) process consists of oxidizing in a combustion chamber the volatile or condensable organic compounds (VOCs and COCs) contained in the industrial emissions being treated, while recovering sensible heat from combustion gases by means of ceramic beds. The recovered heat is then used to preheat entry gases thanks to an efficient heat transfer between entry and exit gases. The typical combustion temperature is 800 °C while the residence time is one second. The combustion gases, mainly composed of water (H2O) and carbon dioxide (CO2), are then released into the atmosphere.
+
+        ### VOC treatment
+
+        A patented system for recirculating hot gases is installed in order to always maintain the COCs at a sufficient temperature to avoid condensation in the bottom of the beds.
+
+        ![Plan for the treatment of Volatile Organic Compounds](/sites/biothermica.com/files/diagram1.jpg){: width="450" height="251" style="display:block; margin:auto;" }
+
+        ### COC treatment
+
+        ![Plan for the treatment of Organic Compounds](/sites/biothermica.com/files/diagram2.jpg){: width="450" height="251" style="display:block; margin:auto;" }
+
+        Visualize the operation of the BIOTOX® with the following video:
+
+      fr: |
+        Le procédé d’oxydation thermique régénérative (OTR) BIOTOX® consiste à oxyder dans une chambre de combustion les composés organiques volatiles et condensables (COV & COC) contenus dans les émissions industrielles à traiter, pour ensuite récupérer la chaleur sensible des gaz de combustion au moyen de lits de céramique. La chaleur ainsi récupérée sert à préchauffer les gaz d’entrée grâce au transfert thermique efficace entre les gaz d’entrée et les gaz de sortie. La température typique de combustion est de 800 °C alors que le temps de résidence est d’une seconde. Les gaz de combustion, composés essentiellement d’eau (H2O) et de gaz carbonique (CO2), sont par la suite évacués à l’atmosphère.
+
+        ### Traitement des COV
+
+        Un système breveté de recirculation des gaz chauds est installé afin de maintenir en tout temps les COC à une température suffisante pour éviter leur condensation dans le bas des lits.
+
+        ![Plan pour le traitement des composés organiques volatiles](/sites/biothermica.com/files/diagram1.jpg){: width="450" height="251" style="display:block; margin:auto;" }
+
+        ### Traitement des COC
+
+        ![Plan pour le traitement des composés organiques](/sites/biothermica.com/files/diagram2.jpg){: width="450" height="251" style="display:block; margin:auto;" }
+
+        Visualiser l'opération du BIOTOX® avec la vidéo suivante:
+
+  - structure: iframe
+    url:
+      en:
+        url: http://www.youtube.com/embed/5N-m9VAQURI
+        frameborder: "0"
+        width: "560"
+        height: "315"
+        allowfullscreen: "allowfullscreen"        
+      en:
+        url: http://www.youtube.com/embed/5N-m9VAQURI
+        frameborder: "0"
+        width: "560"
+        height: "315"
+        allowfullscreen: "allowfullscreen"
