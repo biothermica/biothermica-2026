@@ -1,5 +1,5 @@
 paths:
-  en: /air-pollution-control/-0/
+  en: /air-pollution-control-0/
   fr: /fr/content/assainissement-lair-0/
 titles:
   en: Air Pollution Control
@@ -24,7 +24,7 @@ sections:
       - title: Applications
         url: /content/air-pollution-control/
       - title: Advantages
-        url: /content/air-pollution-control/-0/
+        url: /content/air-pollution-control-0/
   - structure: text
     text:
       en: |

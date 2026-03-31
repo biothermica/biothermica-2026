@@ -14,16 +14,16 @@ sections:
   sections:
     en:
     - title: Evaluation
-      url: /landfill-gas/.html
+      url: /landfill-gas/
     - title: Management
-      url: /content/landfill-gas/-services.html
+      url: /content/landfill-gas-services.html
     - title: Utilization
-      url: /content/landfill-gas/-services-0.html
+      url: /content/landfill-gas-services-0.html
     fr:
     - title: "\xC9valuation"
-      url: /fr/content/services-biogaz/.html
+      url: /fr/content/services-biogaz/
     - title: Gestion
-      url: /fr/content/services-biogaz/-0.html
+      url: /fr/content/services-biogaz-0.html
     - title: Valorisation
-      url: /fr/content/services-biogaz/-1.html
+      url: /fr/content/services-biogaz-1.html
 ...
