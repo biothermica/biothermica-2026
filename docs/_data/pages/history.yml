@@ -1,0 +1,74 @@
+paths:
+  en: /history/
+  fr: /fr/content/historique/
+titles:
+  en: History
+  fr: Historique
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+sections:
+  - structure: text
+    text:
+      en: |
+        Since its inception in 1987, Biothermica has evolved from an environmental technology company to a fully
+        integrated carbon project developer, managing all aspects of the development, financing and implementation
+        of its carbon and energy projects.
+
+        Biothermica has completed transactions amounting to more than $US 100 million in turn-key projects in the
+        fields of air pollution control and landfill gas recovery, more than $US 45 million as an equity sponsor
+        with regard to landfill gas collection and power generation systems in Canada and in Central America, as
+        well as more than $US 50 million in carbon credit transactions in both the regulated (Kyoto) and voluntary
+        carbon markets.
+
+        #### Important dates in Biothermica’s history
+
+        - **2011:** Acquisition of full ownership of the Gazmont landfill gas power plant (25 MW)
+        - **2010:** Registration with the Climate Action Reserve of first VAMOX® carbon project
+        - **2009:** Commissioning of first VAMOX® carbon project, first-of-its-kind in the Americas
+        - **2008:** Sale of major interest in the El Salvador landfill gas CDM project
+        - **2007:** Forward sale of 325,000 CERs for the El Salvador landfill gas CDM project
+        - **2006:** Commissioning of first landfill gas CDM project in El Salvador
+        - **2004:** Installation of the first BIOTOX® unit applied to printing plant fumes
+        - **2002:** Installation of a gas filtration unit at a coal power plant in China
+        - **2000:** Installation of the first BIOTOX® unit for treating dioxins
+        - **1998:** Installation of first BIOTOX® unit for treating pitch fumes
+        - **1996:** Commissioning of first landfill gas power plant project – Gazmont (25 MW)
+        - **1995:** Installation of first electrostatic precipitator on a bark boiler
+        - **1992:** Installation of the first CLINOX® high-temperature gas filtration unit
+        - **1990:** Installation of the first BIOTOX® regenerative thermal oxidation (RTO) unit (Roofing paper plant)
+
+      fr: |
+        Depuis sa fondation en 1987, Biothermica a évolué d'une compagnie purement technologique vers un positionnement de développeur intégré, couvrant tous les aspects liés au développement, au financement et la mise en oeuvre de ses projets carbone et énergie.
+
+        Biothermica a complété des transactions s'élevant à plus de $100 millions en projets clé en main dans les domaines de l'assainissement de l'air et de la récupération du biogaz de site d'enfouissement, plus de $45 millions en tant qu'investisseur et développeur de systèmes de destruction et de valorisation du biogaz au Canada et en Amérique centrale, et enfin plus de $50 millions en transactions sur le marché du carbone réglementé (Kyoto) ou volontaire.
+
+        #### Dates importantes dans l'histoire de Biothermica
+
+        - **2011:**   Biothermica acquiert le contrôle de la centrale Gazmont (25 MW)
+        - **2010:**   Enregistrement sous le standard Climate Action Reserve du 1er projet VAMOX®
+        - **2009:**   Mise en service du premier projet carbone VAMOX®, une première en Amérique du Nord
+        - **2008:**   Vente d'une participation majeure dans le projet MDP de Biothermica au El Salvador
+
+        - **2007:**   Vente de 325,000 CERs, à être générés par le projet MDP de Biothermica au El Salvador
+
+        - **2006:**   Mise en service du 1er projet biogaz au El Salvador, développé sous Kyoto (MDP)
+        - **2004:**   Mise en service d'une première unité BIOTOX® pour traiter les fumées d'une imprimerie
+
+        - **2002:**   Mise en service d'une unité de filtration des gaz d'une centrale au charbon en Chine
+
+        - **2000:**   Mise en service d'une première unité BIOTOX® unit pour traiter les dioxines
+        - **1998:**   Mise en service d'une première unité BIOTOX® unit pour traiter les vapeurs de brais
+        - **1996:**   Mise en service de la centrale au biogaz Gazmont (25 MW)
+        - **1995:**   Mise en service du premier précipitateur électrostatique sur une chaudière à écorces
+
+        - **1992:**   Mise en service de la première unité CLINOX® de filtration des gaz à haute température
+        - **1990:**   Mise en service de la première unité BIOTOX® d'oxydation thermique régénérative 
+                  (Usine de bardeaux d'asphalte)

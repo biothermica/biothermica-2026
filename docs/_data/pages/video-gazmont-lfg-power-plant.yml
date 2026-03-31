@@ -1,0 +1,31 @@
+paths:
+  en: /content/video-gazmont-lfg-power-plant/
+  fr: /fr/content/vid%c3%a9o-centrale-gazmont/
+titles:
+  en: Video - Gazmont LFG Power Plant
+  fr: Vidéo - Centrale Gazmont
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+sections:
+  - structure: iframe
+    url:
+      en:
+        url: http://www.youtube.com/embed/YuBKwhUrRlw
+        frameborder: "0"
+        width: "560"
+        height: "315"
+        allowfullscreen: "allowfullscreen"        
+      en:
+        url: hthttp://www.youtube.com/embed/71iRmZ9wlW0
+        frameborder: "0"
+        width: "560"
+        height: "315"
+        allowfullscreen: "allowfullscreen"

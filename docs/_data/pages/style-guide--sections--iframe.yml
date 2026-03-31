@@ -1,0 +1,15 @@
+---
+id: /app/docs/_includes/sections/iframe.html
+paths:
+  en: /style-guide/sections/iframe/
+  fr: /fr/guide-style/sections/iframe/
+titles:
+  en: Section iframe
+  fr: Section iframe
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: awards
+  debug_bookend: true
+...

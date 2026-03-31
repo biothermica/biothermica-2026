@@ -1,0 +1,55 @@
+paths:
+  en: /air-pollution-control-0/
+  fr: /fr/content/assainissement-lair-0/
+titles:
+  en: Air Pollution Control
+  fr: Assainissement de l'air
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/4-1_202cd.png
+        alt: Usine avec traitement de l'air et technologie Biotox
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/4-1_0aa5c.png
+        alt:
+
+sections:
+  - structure: subsections
+    sections:
+      en:
+      - title: Operating Principle
+        url: /air-pollution-control/
+      - title: Applications
+        url: /content/air-pollution-control/
+      - title: Advantages
+        url: /content/air-pollution-control-0/
+  - structure: text
+    text:
+      en: |
+        **Advantages of the patented BIOTOX® RTO process**
+
+        - Energy recovery rates reaching 95%  
+        - Substantial fuel savings and reductions in greenhouse gases  
+        - The process treats VOCs and COCs simultaneously with a destruction efficiency of 99% and more  
+        - Destroys nauseating odours  
+        - Very low emissions of NOx and CO2  
+        - Minimal operating and maintenance costs  
+        - System adaptable to variations in concentrations of VOCs and COCs  
+        - Choice of ceramics to suit specific applications  
+        - Variable-speed fan  
+        - Patented gas recirculation system for avoiding COC condensation
+
+      fr: |
+        **Les avantages du procédé OTR breveté BIOTOX®**
+
+        - Taux de récupération thermique pouvant atteindre 95% générant ainsi des économies substantielles de combustibles et de réduction des gaz à effet de serre  
+        - Traitement simultané des COV et des COC avec une efficacité de destruction de 99 % et plus  
+        - Élimination des odeurs nauséabondes  
+        - Très faibles émissions de NOx et de CO2  
+        - Coûts d’opération et d’entretien minimaux  
+        - Système adaptable aux variations des concentrations de COV et COC  
+        - Possibilité de media de céramique en fonction d‘applications particulières  
+        - Ventilateur à vitesse variable  
+        - Système breveté de recirculation des gaz pour éviter la condensation des COC

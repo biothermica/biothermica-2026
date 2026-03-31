@@ -4,15 +4,15 @@ en:
     children:
       - url: /content/about-us.html
         title: The Company
-      - url: /history.html
+      - url: /history/
         title: History
-      - url: /content/board-directors.html
+      - url: /content/board-directors/
         title: Board of Directors
-      - url: /content/awards-and-honors.html
+      - url: /content/awards-and-honors/
         title: Awards & Honors
-      - url: /content/video-corporate.html
+      - url: /content/video-corporate/
         title: Video - Corporate
-      - url: /content/video-gazmont-lfg-power-plant.html
+      - url: /content/video-gazmont-lfg-power-plant/
         title: Video - Gazmont LFG Power Plant
       - url: /documents/1.html
         title: Press Releases
@@ -24,12 +24,12 @@ en:
         title: Brochures
       - url: /documents/66.html
         title: Internal policies
-  - url: /air-pollution-control.html
+  - url: /air-pollution-control/
     title: Air Pollution
     children:
-      - url: /air-pollution-control.html
+      - url: /air-pollution-control/
         title: BIOTOX® RTO
-      - url: /air-pollution-control/projects.html
+      - url: /air-pollution-control/projects/
         title: RTO Projects
   - url: /content/vamox.html
     title: VAMOX®
@@ -73,7 +73,7 @@ fr:
     children:
       - url: /fr/content/entreprise.html
         title: À propos de nous
-      - url: /fr/content/historique.html
+      - url: /fr/content/historique/
         title: Historique
       - url: /fr/content/conseil-dadministration.html
         title: Conseil d'administration
@@ -93,12 +93,12 @@ fr:
         title: Brochures
       - url: /fr/documents/67.html
         title: Politiques internes
-  - url: /fr/content/oxydation-thermique-regenerative.html
+  - url: /fr/content/oxydation-thermique-regenerative/
     title: Assainissement de l'air
     children:
-      - url: /fr/content/oxydation-thermique-regenerative.html
+      - url: /fr/content/oxydation-thermique-regenerative/
         title: BIOTOX® OTR
-      - url: /fr/assainissement/projets.html
+      - url: /fr/assainissement/projets/
         title: Projets OTR
   - url: /fr/content/methane-minier.html
     title: Méthane Minier
