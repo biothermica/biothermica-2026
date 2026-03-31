@@ -1,8 +1,8 @@
 en:
-  - url: /content/about-us.html
+  - url: /content/about-us/
     title: About
     children:
-      - url: /content/about-us.html
+      - url: /content/about-us/
         title: The Company
       - url: /history/
         title: History
@@ -42,10 +42,10 @@ en:
         title: Business Approach
       - url: /content/first-vamox-project.html
         title: First Vamox Project
-  - url: /landfill-Gas/
+  - url: /landfill-gas/
     title: Landfill Gas
     children:
-      - url: /landfill-Gas/
+      - url: /landfill-gas/
         title: Expertise
       - url: /content/projects-0.html
         title: Biogaz Projects

@@ -22,7 +22,7 @@ sections:
         frameborder: "0"
         width: "560"
         height: "315"
-        allowfullscreen: "allowfullscreen"        
+        allowfullscreen: "allowfullscreen"
       en:
         url: hthttp://www.youtube.com/embed/71iRmZ9wlW0
         frameborder: "0"
