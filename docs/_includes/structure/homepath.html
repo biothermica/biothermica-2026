@@ -1,1 +1,5 @@
-{% if page.lang %}{{ site.data.translations.homepath[page.lang] }}{% else %}/{% endif %}
+{% if page.lang %}
+  {% assign _homepath = site.data.translations.homepath[page.lang] %}
+{% else %}
+  {% assign _homepath = "/" %}
+{% endif %}

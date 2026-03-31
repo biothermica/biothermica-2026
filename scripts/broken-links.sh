@@ -1,3 +1,4 @@
 #!/bin/bash
 set -e
-docker run --rm --network biothermica-site dcycle/broken-link-checker:3 http://jekyll:4000
+./scripts/build-pages.sh
+docker run --rm --network biothermica-site-2026 dcycle/broken-link-checker:3 http://jekyll:4000

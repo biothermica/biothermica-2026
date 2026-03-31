@@ -24,7 +24,7 @@ sections:
       - title: Applications
         url: /content/air-pollution-control/
       - title: Advantages
-        url: /content/air-pollution-control-0/
+        url: /content/air-pollution-control/-0/
   - structure: text
     text:
       en: |
@@ -64,7 +64,7 @@ sections:
         frameborder: "0"
         width: "560"
         height: "315"
-        allowfullscreen: "allowfullscreen"        
+        allowfullscreen: "allowfullscreen"
       en:
         url: http://www.youtube.com/embed/5N-m9VAQURI
         frameborder: "0"
