@@ -10,6 +10,6 @@ template: style-guide--sections
 categories:
 - style-guide--sections
 sections:
-- structure: awards
+- structure: iframe
   debug_bookend: true
 ...

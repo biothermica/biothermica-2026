@@ -31,41 +31,41 @@ en:
         title: BIOTOX® RTO
       - url: /air-pollution-control/projects/
         title: RTO Projects
-  - url: /content/vamox.html
+  - url: /content/vamox/
     title: VAMOX®
     children:
-      - url: /content/vamox-rto-solution.html
+      - url: /content/vamox-rto-solution/
         title: The VAMOX® RTO Solution
-      - url: /content/creating-value-methane.html
+      - url: /content/creating-value-methane/
         title: Creating Value From Methane
-      - url: /content/business-approach.html
+      - url: /content/business-approach/
         title: Business Approach
-      - url: /content/first-vamox-project.html
+      - url: /content/first-vamox-project/
         title: First Vamox Project
   - url: /landfill-gas/
     title: Landfill Gas
     children:
       - url: /landfill-gas/
         title: Expertise
-      - url: /content/projects-0.html
+      - url: /content/projects-0/
         title: Biogaz Projects
-  - url: /content/carbon-and-energy.html
+  - url: /content/carbon-and-energy/
     title: Carbon & Energy
     children:
-      - url: /content/carbon-and-energy.html
+      - url: /content/carbon-and-energy/
         title: Business Approach
-      - url: /content/carbon-and-energy-0.html
+      - url: /content/carbon-and-energy-0/
         title: Gazmont Power Plant
-      - url: /content/nejapa-landfill-and-biogas.html
+      - url: /content/nejapa-landfill-and-biogas/
         title: Nejapa CDM Project
-      - url: /content/bioenergy-haiti.html
+      - url: /content/bioenergy-haiti/
         title: BioEnergy Haiti
       - url: /carbon-and-energy/bioenergy-togo/
         title: BioEnergy Togo
-  - url: /content/contact.html
+  - url: /content/contact/
     title: Contact
     children:
-      - url: /content/work-together.html
+      - url: /content/work-together/
         title: Work Together
 fr:
   - url: /fr/content/entreprise.html
@@ -114,23 +114,23 @@ fr:
     children:
       - url: /fr/content/services-biogaz/
         title: Expertise
-      - url: /fr/content/projets.html
+      - url: /fr/content/projets/
         title: Projets biogaz
-  - url: /fr/content/carbone-et-energie.html
+  - url: /fr/content/carbone-et-energie/
     title: Carbone et Énergie
     children:
-      - url: /fr/content/carbone-et-energie.html
+      - url: /fr/content/carbone-et-energie/
         title: Étapes d'un projet
-      - url: /fr/content/carbone-energie.html
+      - url: /fr/content/carbone-energie/
         title: Centrale Gazmont
-      - url: /fr/content/nejapa-projet-biogaz.html
+      - url: /fr/content/nejapa-projet-biogaz/
         title: Projet Nejapa
-      - url: /fr/content/bioenergie-haiti.html
+      - url: /fr/content/bioenergie-haiti/
         title: BioEnergie Haiti
       - url: /fr/content/carbone-et-energie/bioenergie-togo.html
         title: BioÉnergie Togo
-  - url: /fr/contactez.html
+  - url: /fr/contactez/
     title: Contact
     children:
-      - url: /fr/content/contactez/travailler-ensemble.html
+      - url: /fr/content/contactez/travailler-ensemble/
         title: Travailler ensemble

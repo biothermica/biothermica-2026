@@ -1,0 +1,36 @@
+paths:
+  en: /content/contact/
+  fr: /fr/contactez/
+titles:
+  en: Contact
+  fr: Contact
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/mainc89c.jpg
+        alt: We can help you in your greenhouse gas reduction goal
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+sections:
+  - structure: text
+    text:
+      en: |
+        ## Biothermica Technologies Inc.
+
+        426 Sherbrooke East
+        Montreal, Québec H2L 1J6
+        T. +1.514.488.3881
+        F. +1.514.488.3125
+        [biothermica@biothermica.com](mailto:biothermica@biothermica.com)
+
+      fr: |
+        ## Biothermica Technologies Inc.
+
+        426 Sherbrooke Est
+        Montréal, Québec H2L 1J6
+        T. +1.514.488.3881
+        F. +1.514.488.3125
+        [biothermica@biothermica.com](mailto:biothermica@biothermica.com)

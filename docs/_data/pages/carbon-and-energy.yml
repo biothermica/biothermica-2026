@@ -1,0 +1,133 @@
+paths:
+  en: /content/carbon-and-energy/
+  fr: /fr/content/carbone-et-energie/
+titles:
+  en: Business Approach
+  fr: Étapes d'un projet
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/fumeec01e.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/fumeec01e.jpg
+        alt:
+
+sections:
+  - structure: text
+    text:
+      en: |
+        Biothermica develops, finances and implements carbon and energy projects based on the destruction
+        and utilization of methane emissions emitted by landfill sites and underground coal mine ventilation
+        systems. Carbon and energy revenues are generated based on Biothermica’s own proprietary technologies,
+        such as the VAMOX® technology, applied to the destruction of coal mine ventilation air methane (VAM).
+
+        The company oversees all development stages, from the design of the project to the commercialization of
+        renewable energy and emission reduction credits. Project stages are typically as follows:
+
+        ## Site selection and feasibility studies
+
+        The first step consists in selecting the best site for the development of the project. The following
+        technical and economic studies are undertaken:
+
+        - Assessment of available resources as well as the local energy context
+        - Economic and financial analysis  
+
+        ## Financing strategy
+
+        If the studies are conclusive and the site’s characteristics are worth exploiting, Biothermica carries
+        out the financing of the project, which comprises:
+
+        - Financial structure of the project
+        - Financial partners
+        - Project budget and schedule
+
+        ## Permits and authorizations
+
+        The necessary authorizations regarding the construction of the project as well as
+        its connexion to the local or national electricity grid are obtained from governmental and municipal authorities.
+
+        ## Construction, commissioning and operation
+
+        Once the necessary authorizations have been obtained, Biothermica proceeds to the construction
+        of the project according to the established schedule. The company’s engineers also proceed to project
+        commissioning and operation.
+
+        ## Energy sales
+
+        Depending on the legal context applicable to the project, the energy produced can be sold to different
+        types of buyers. Energy production from renewable sources can also generate energy certificates which are
+        tradable on the North-American market.
+
+        ## Carbon credit sales
+
+        Biothermica’s expertise covers the full carbon project cycle, as the company has developed projects
+        under various international and national carbon standards since 2005. A carbon project is typically
+        characterized by the following stages:
+
+        - Selection of a carbon standard  
+        - Project Design Document development  
+        - Validation of Project Design Document  
+        - Project registration  
+        - Implementation and monitoring  
+        - Verification of emissions reductions  
+        - Certification and issuance of credits by the carbon standard  
+        - Commercialization of emissions reductions  
+
+      fr: |
+        Biothermica développe et finance des projets carbone et énergie basés sur la destruction et
+        la valorisation du méthane émis par les sites d'enfouissement et les systèmes de ventilation des
+        mines de charbon. Les revenus carbone et énergie sont générés à partir des technologies brevetées
+        de l'entreprise, tel que la technologie VAMOX® appliquée à l'oxydation du méthane contenu dans l'air de
+        ventilation des mines de charbon souterraines. Biothermica gère toutes les étapes du projet, depuis
+        la phase d'ingénierie jusqu'à la vente des crédits de carbone:
+
+        ## Étude de faisabilité et choix du site
+
+        Cette première étape consiste à sélectionner le meilleur site pour le développement du projet. Les études
+        techniques et économiques suivantes sont entreprises:
+
+        - Évaluation de la ressource et du contexte énergétique local  
+        - Caractéristiques du site  
+        - Analyse économique et financière  
+
+        ## Stratégie de financement
+
+        Si les études s'avèrent concluantes, Biothermica procède à la phase de financement du projet, qui comprend:
+
+        - Structure financière du projet  
+        - Partenaires financiers  
+        - Budget et échéancier  
+
+        ## Permis et autorisations
+
+        Les autorisations nécessaires pour la construction du projet, ainsi que sa connexion au réseau
+        électrique national ou local, sont obtenues auprès des autorités gouvernementales et locales.
+
+        ## Construction, mise en service et opération
+
+        Une fois les autorisations nécessaires obtenues, Biothermica procède à la construction du projet
+        conformément à l'échéancier établi. L'entreprise gère également l'étape de mise en service et l'opération du projet.
+
+        ## Vente d'énergie
+
+        Selon le contexte légal applicable au projet, l'énergie produite peut être vendue à différentes
+        catégories d'acheteurs. La production d'énergie à partir de sources renouvelables permet aussi
+        de générer des certificats d'énergie renouvelable (RECs) échangeables sur le marché Nord-Américain.
+
+        ## Vente de crédits de carbone
+
+        L'expertise de Biothermica couvre le cycle de projet carbone au complet, l'entreprise ayant développé
+        des projets carbone sous l'égide de nombreux standards carbone depuis 2005. Un projet carbone comprend
+        typiquement les étapes suivantes:
+
+        - Sélection d'un standard carbone
+        - Développement du document de projet (PDD)
+        - Validation du document de projet
+        - Enregistrement du projet
+        - Mise en place du projet et suivi des émissions
+        - Vérification des réductions d'émissions
+        - Émission des crédits par le standard carbone
+        - Commercialisation des crédits carbone

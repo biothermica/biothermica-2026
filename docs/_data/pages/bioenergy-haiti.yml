@@ -1,0 +1,37 @@
+paths:
+  en: /content/bioenergy-haiti/
+  fr: /fr/content/bioenergie-haiti/
+titles:
+  en: BioEnergy Haiti
+  fr: BioEnergie Haiti
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+sections:
+  - structure: text
+    text:
+      en: |
+        BioEnergy Haïti is a non-for-profit organization established in Haitian law, dedicated to
+        the implementation of an integrated waste collection, disposal and utilization system, including the
+        landfill site and landfill gas power plant, in Gonaïves, Haïti. This initiative is the result of a
+        collaboration between Terre des jeunes, Biothermica, and several civil society groups
+        located in the  Gonaïves area.
+
+        The website dedicated to this initiative can be accessed by clicking [here](bioenergiehaiti.org/).
+
+      fr: |
+        Bioénergie Haïti est une&nbsp;Organisation à but non lucratif&nbsp;de droit haïtien qui se donne pour
+        mission d'implanter un système intégré de gestion et de valorisation des déchets, incluant
+        le site&nbsp;d'enfouissement des déchets et&nbsp;une centrale électrique,&nbsp;aux Gonaïves, Haïti. C'est
+        suite à la collaboration entre le mouvement Terre des jeunes et l'entreprise Biothermica
+        Technologies Inc qu'est née l'idée de former Bioénergie Haïti en collaboration avec divers
+        groupes communautaires des Gonaïves.
+
+        Le site Internet dédié à cette initiave est accessible en cliquant [ici](bioenergiehaiti.org).
