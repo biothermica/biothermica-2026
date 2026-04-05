@@ -1,6 +1,6 @@
 paths:
   en: /content/video-corporate/
-  fr: /fr/content/vid%c3%a9o-corporative/
+  fr: /fr/content/video-corporative/
 titles:
   en: Video - Corporate
   fr: Vidéo Corporative
@@ -15,7 +15,7 @@ sections_header:
         image: /sites/biothermica.com/files/styles/entete_page/public/arbre_35b77.jpg
         alt:
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         Presentation of the company (2013)

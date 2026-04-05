@@ -1,0 +1,42 @@
+paths:
+  en: /content/projects-0/
+  fr: /fr/content/projets/
+
+titles:
+  en: Projects
+  fr: Projets
+
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/3-1_85fba.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/3-1_85fba.png
+        alt:
+
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        Since 1995, Biothermica has completed numerous projects in the fields of landfill gas
+        evaluation, collection, destruction and utilization. Here is a selection of several landfill
+        gas projects:
+        #### Three fields of expertise
+
+        - [Evaluation of landfill gas potential](/sites/biothermica.com/files/Biothermica_Evaluation%20of%20LFG%20potential.pdf)
+        - [Landfill gas collection and destruction](/sites/biothermica.com/files/Biothermica_LFG%20Collection%20%26%20Destruction_2014-01.pdf)
+        - [Landfill gas utilization](/sites/biothermica.com/files/Biothermica_LFG%20Utilization_0.pdf)
+
+      fr: |
+        Depuis 1995, Biothermica a complété de nombreux projets dans les domaines de l’évaluation,
+        du captage, de la destruction et de la valorisation du biogaz. Voici une sélection de
+        projets réalisés par l’entreprise:
+
+        #### Trois champs d'expertise
+
+        - [Évaluation du potentiel gazier](/sites/biothermica.com/files/Biothermica_%c3%89valuation%20du%20potentiel%20gazier.pdf)
+        - [Captage et destruction du biogaz](/sites/biothermica.com/files/Biothermica_Captage%20et%20destruction%20du%20biogaz_2014-01.pdf)
+        - [Valorisation du biogaz](/sites/biothermica.com/files/Biothermica_Valorisation%20du%20biogaz.pdf)

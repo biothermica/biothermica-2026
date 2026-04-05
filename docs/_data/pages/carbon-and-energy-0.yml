@@ -1,0 +1,61 @@
+paths:
+  en: /content/carbon-and-energy-0/
+  fr: /fr/content/carbone-energie/
+titles:
+  en: Carbon and Energy
+  fr: Carbone et Énergie
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/3-1_17c92.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/3-1_17c92.png
+        alt:
+
+sections:
+  - structure: subsections
+    sections:
+      en:
+      - title: History
+        url: /content/carbon-and-energy-0/
+      - title: Electricity Production
+        url: /content/carbon-and-energy-1/
+      - title: Heating
+        url: /content/carbon-and-energy-2/
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        The [Gazmont power plant](http://www.youtube.com/watch?v=71iRmZ9wlW0&amp;feature=youtu.be) is located near
+        the Miron quarry in Montreal (Canada), where approximately 36 million tons of municipal solid waste have been
+        buried since 1968. This closed landfill site is one of the largest in North America.
+
+        In 1988, the city of Montreal became the owner of this site and installed of a landfill gas collection system.
+        Aware of the site’s energy potential, the city proceeded to a request for proposals and finally selected the Gazmont
+        partnership for the construction and operation of a 25MW landfill gas to electricity power plant.
+
+        The Gazmont power plant is under the ownership of Biothermica and has been operated by the Dynatech company since 1996.
+
+        The construction of the plant, representing a private investment of $37 million, began in April 1995. It has
+        been in commercial operation since November 1996, selling all of the power produced to Hydro-Quebec.
+
+      fr: |
+        La [centrale Gazmont](http://www.youtube.com/watch?v=YuBKwhUrRlw&amp;feature=youtu.be) est située
+        près de la carrière Miron à Montréal (Canada), où depuis 1968 approximativement 36 millions de tonnes de
+        matières résiduelles ont été enfouies. La carrière Miron est ainsi l'un des plus grands lieux d'enfouissement
+        sanitaire en Amérique du Nord. Ce site ne reçoit plus de matières résiduelles à l’heure actuelle.
+
+        En 1988, la Ville de Montréal prenait possession de ce site et installait un réseau de
+        captage du biogaz. Consciente du potentiel énergétique important que représente le gaz
+        capté, la Ville de Montréal lançait un appel d'offres pour la valorisation du biogaz et
+        retenait la proposition de Gazmont, société formée d'entreprises privées, dont Biothermica,
+        pour construire et exploiter une centrale d'une capacité de 25 MW, produisant de
+        l'électricité à partir du biogaz.
+
+        Biothermica est propriétaire de la centrale Gazmont, qui est opérée par la société Dynatech.
+
+        La construction de la centrale, représentant un investissement privé de 37 M$, a débuté en
+        avril 1995. La centrale est en opération commerciale depuis novembre 1996, et la totalité de
+        l'électricité produite est vendue à la société d’état Hydro-Québec.

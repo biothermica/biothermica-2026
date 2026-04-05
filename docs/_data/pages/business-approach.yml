@@ -1,0 +1,175 @@
+paths:
+  en: /content/business-approach/
+  fr: /fr/content/approche-commerciale/
+titles:
+  en: Business Approach
+  fr: Approche commerciale
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        ## Fully Integrated Developer
+
+        Since its inception in 1987, the Biothermica group has evolved from a technology company to a fully integrated carbon and energy project developer, managing all aspects of the development, financing and implementation of its projects. Biothermica will invest in VAM carbon and energy projects, generating revenues associated with the monetization of carbon credits and other attributes (i.e. electric power, thermal heat). Biothermica strongly believes that its proven and integrated approach, bringing together technological and financial expertise within one (1) entity, represents a significant advantage over the approach of its competitors.
+
+        This strategy enables Biothermica to fully control and ensure an optimal performance at each stage of the project, thereby maximizing the generation of revenues. The company oversees all development stages, from the design of the project to the commercialization of renewable energy and emission reduction credits.
+
+        Biothermica's business approach is based on the recurring sale of carbon credits and/or power associated with the destruction of VAM at underground coal mines worldwide.
+
+        ## A Flexible Business Approach
+
+        Biothermica offers a flexible range of options for mine owners to unlock and share the economic value of their VAM, including the following two (2) business models:
+
+        Joint venture (JV) : Project costs and revenues (from the sale of carbon credits and/or power) are shared between Biothermica and the mine.
+        Royalty based approach: No investment is required by the mine, which benefits from royalty payments.
+        Biothermica can also supply turn-key projects, applying either a “build and operate” model or “finance, build, own and operate” model. This business model is used in the following cases:
+
+        In jurisdictions where carbon credits cannot be generated (i.e. mines obligation to reduce or pay a tax on VAM emissions)
+        VAM rights are owned by another VAM project developer.
+        Biothermica also proposes an array of other flexible commercial approaches.
+
+
+
+        A VAM carbon project is typically implemented followings these steps:
+
+        ### 1 - Non-Disclosure Agreement (NDA) between Biothermica and Coal Mine
+
+        This NDA agreement aims at protecting the confidentiality of technical and commercial information provided by each party, fostering a more open discussion in the assessment of project(s) opportunities.
+
+        ### 2 - Identification of potential vent shafts(s)
+
+        The mining plan is reviewed to identify potential vent shafts (current and future) with sufficient methane concentration (i.e. >~0,4%v/v) and service life (at least ~3 years) to implement a VAM abatement project. This assessment shall also include a site visit to validate the possibility to install the RTO plant on the targeted site, considering local topography and physical constraints.
+
+        ### 3 - Preliminary Financial Analysis
+
+        Based on the information provided by the mine (expected range of methane concentration, service life of vent shaft, etc.), Biothermica carries out a preliminary feasibility study to assess project’s profitability.
+
+        ### 4 - Strategic Alliance Agreement with coal mine
+
+        This agreement aims at defining the scope of the project, the relationship between Biothermica and the mine, the project’s ownership, the obligations of each party and the compensation for the mine.
+
+        ### 5 - Financing Strategy
+
+        Biothermica defines/proposes a financial structure specifically adapted and optimized for the project.
+
+        ### 6 - Emission Reduction Purchase Agreement
+
+        Within the financing strategy, an Emission Reduction Purchase Agreement (ERPA) may be signed in advance with potential buyers to secure the selling price of all (or only a part of) future emission reductions (i.e. carbon credits) to be generated.
+
+        ### 7 - Permits and authorizations
+
+        With the support of the mine, Biothermica secures all permits and approvals required from the authorities for the implementation of the project, including the preparation of a Mine Vent Plan Addendum to be approved by MSHA (Mine Safety and Health Administration).
+
+        ### 8 - Financing Closing
+
+        Financing is typically closed once the ERPA has been concluded (if this strategy is retained) and all required permits/authorizations have been obtained.
+
+        ### 9 - Project Implementation (EPCC - Engineering, Procurement, Construction & Commissioning)
+
+        Biothermica proceeds to the implementation of the VAM project (i.e. EPCC) based on its proprietary VAMOX® technology, including the detailed engineering, procurement, site preparation, construction and commissioning in accordance with an established budget and schedule.
+
+        ### 10 - Project Registration (Listing)
+
+        Biothermica proceeds to the registration of the project for emission reduction eligibility (i.e. project’s listing).
+
+        ### 11 - Operation and credits monitoring
+
+        Biothermica overviews the operation, maintenance and monitoring activities to ensure they are carried out in compliance with the applicable methodology (i.e. ARB’s Compliance Offset Protocol Mine Methane Capture Projects). Depending on the obligations as defined in the Strategic Alliance Agreement, some basic daily operation and maintenance activities may be carried out by mine’s staff.
+
+        ### 12 - Verification (audit of each reporting period)
+
+        At the end of each reporting period, Biothermica leads the independent audit process for the verification and eventual issuance of emission reductions (i.e. offset carbon credits).
+
+        ### 13 - Monetization
+
+        The issued offset carbon credits may then be sold as per the ERPA agreement (if this strategy was retained) or according to another strategy as agreed with the mine.
+
+        ## Integrated services – a win-win approach
+
+        Biothermica is offering all the above services with its own staff, minimizing interfaces with various stakeholders and all related risks such as construction delay, over-budget, potential litigations, underperfomance, which optimizes the Internal Rate of Return (IRR) for the all the parties.
+
+      fr: |
+        ## Développeur Entièrement Intégré
+
+        Depuis sa création en 1987, le groupe Biothermica est passé d'une entreprise technologique à un développeur de projets entièrement intégrés sur le carbone et l'énergie, gérant tous les aspects du développement, du financement et de la mise en œuvre de ses projets. La biothermique investira dans des projets VAM carbone et énergétique, générant des revenus liés à la monétisation des crédits carbone et d'autres attributs (par exemple l'électricité, la chaleur thermique). Biothermica est fermement convaincue que son approche éprouvée et intégrée, réunissant l'expertise technologique et financière au sein d'une seule (1) entité, représente un avantage significatif par rapport à l'approche de ses concurrents.
+
+        Cette stratégie permet à Biothermica de contrôler pleinement et d'assurer une performance optimale à chaque étape du projet, maximisant ainsi la génération de revenus. L'entreprise supervise toutes les étapes de développement, de la conception du projet à la commercialisation des énergies renouvelables et des crédits de réduction des émissions.
+
+        L'approche commerciale de la biothermique repose sur la vente récurrente de crédits carbone et/ou d'énergie liée à la destruction du VAM dans les mines de charbon souterraines à travers le monde.
+
+        ## Une approche commerciale flexible
+
+        La biothermique offre une gamme flexible d'options aux propriétaires de mines pour débloquer et partager la valeur économique de leur VAM, incluant les deux (2) modèles économiques suivants :
+
+        Coentreprise (JV) : Les coûts et revenus du projet (issus de la vente de crédits carbone et/ou d'électricité) sont partagés entre la biothermique et la mine. Approche basée sur les redevances : aucun investissement n'est exigé par la mine, qui bénéficie des paiements de redevances. La biothermique peut également fournir des projets clés en main, en appliquant soit un modèle « construire et exploiter », soit un modèle « financer, construire, posséder et exploiter ». Ce modèle économique est utilisé dans les cas suivants :
+
+        Dans les juridictions où les crédits carbone ne peuvent pas être générés (c'est-à-dire l'obligation des mines de réduire ou de payer une taxe sur les émissions de VAM) Les droits VAM appartiennent à un autre développeur de projet VAM. La biothermique propose également une gamme d'autres approches commerciales flexibles.
+
+        Un projet carbone VAM est généralement mis en œuvre en suivant ces étapes :
+
+        ### 1 - Accord de confidentialité (NDA) entre la biothermique et la mine de charbon
+
+        Cet accord de NDA vise à protéger la confidentialité des informations techniques et commerciales fournies par chaque partie, favorisant une discussion plus ouverte dans l'évaluation des opportunités de projets.
+
+        ### 2 - Identification des conduits potentiels de ventilation
+
+        Le plan minier est examiné afin d'identifier les puits d'évents potentiels (actuels et futurs) présentant une concentration suffisante en méthane (c'est-à-dire >~0,4 %V/V) et une durée de vie (au moins ~3 ans) pour mettre en œuvre un projet d'atténuation du VAM. Cette évaluation comprendra également une visite de site afin de valider la possibilité d'installer l'usine RTO sur le site ciblé, en tenant compte de la topographie locale et des contraintes physiques.
+
+        ### 3 - Analyse financière préliminaire
+
+        Sur la base des informations fournies par la mine (plage attendue de concentration en méthane, durée de vie du puits d'évent, etc.), la biothermique réalise une étude de faisabilité préliminaire pour évaluer la rentabilité du projet.
+
+        ### 4 - Accord d'alliance stratégique avec la mine de charbon
+
+        Cet accord vise à définir la portée du projet, la relation entre la biothermique et la mine, la propriété du projet, les obligations de chaque partie et la compensation pour la mine.
+
+        ### 5 - Stratégie de financement
+
+        Biothermica définit/propose une structure financière spécifiquement adaptée et optimisée pour le projet.
+
+        ### 6 - Accord d'achat de réduction des émissions
+
+        Dans le cadre de la stratégie de financement, un Accord d'Achat de Réduction des Émissions (ERPA) peut être signé à l'avance avec les acheteurs potentiels afin de garantir le prix de vente de toutes (ou seulement d'une partie) des futures réductions d'émissions (c'est-à-dire les crédits carbone) à générer.
+
+        ### 7 - Permis et autorisations
+
+        Avec le soutien de la mine, Biothermica obtient tous les permis et approbations nécessaires aux autorités pour la mise en œuvre du projet, y compris la préparation d'un Addendum sur le Plan des Évents de la Mine à approuver par la MSHA (Administration de la Sécurité et de la Santé des Mines).
+
+        ### 8 - Clôture du financement
+
+        Le financement est généralement conclu une fois que l'ERPA a été conclu (si cette stratégie est maintenue) et que tous les permis/autorisations requis ont été obtenus.
+
+        ### 9 - Mise en œuvre du projet (EPCC - Ingénierie, Approvisionnement, Construction et Mise en service)
+
+        Biothermica procède à la mise en œuvre du projet VAM (c'est-à-dire EPCC) basé sur sa technologie propriétaire VAMOX®, incluant l'ingénierie détaillée, l'approvisionnement, la préparation du site, la construction et la mise en service conformément à un budget et un calendrier établis.
+
+        ### 10 - Enregistrement du projet (Liste)
+
+        La biothermique procède à l'enregistrement du projet pour l'éligibilité à la réduction des émissions (c'est-à-dire l'inscription du projet).
+
+        ### 11 - Fonctionnement et surveillance des crédits
+
+        La biothermique présente une vue d'ensemble des activités d'exploitation, de maintenance et de surveillance afin de s'assurer qu'elles sont menées conformément à la méthodologie applicable (c'est-à-dire les projets de capture du méthane dans les mines du protocole de compensation conforme de l'ARB). Selon les obligations définies dans l'Accord d'Alliance Stratégique, certaines activités quotidiennes de base peuvent être assurées par le personnel de la mine.
+
+        ### 12 - Vérification (audit de chaque période de rapport)
+
+        À la fin de chaque période de rapport, la biothermique dirige le processus d'audit indépendant pour la vérification et l'émission finale des réductions d'émissions (c'est-à-dire les crédits carbone compensés).
+
+        ### 13 - Monétisation
+
+        Les crédits carbone compensés émis peuvent alors être vendus conformément à l'accord ERPA (si cette stratégie a été conservée) ou selon une autre stratégie convenue avec la mine.
+
+        ## Services intégrés – une approche gagnant-gagnant
+
+        Biothermica propose tous ces services avec son propre personnel, minimisant ainsi les interactions avec les différentes parties prenantes et tous les risques associés tels que les retards de construction, le dépassement de budget, les litiges potentiels, la sous-performance, ce qui optimise le taux de rendement interne (IRR) pour toutes les parties.

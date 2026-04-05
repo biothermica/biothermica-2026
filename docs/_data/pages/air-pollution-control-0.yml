@@ -25,7 +25,7 @@ sections:
         url: /content/air-pollution-control/
       - title: Advantages
         url: /content/air-pollution-control-0/
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         **Advantages of the patented BIOTOX® RTO process**

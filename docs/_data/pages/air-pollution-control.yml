@@ -25,7 +25,7 @@ sections:
         url: /content/air-pollution-control/
       - title: Advantages
         url: /content/air-pollution-control-0/
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         The BIOTOX® regenerative thermal oxidizer (RTO) process consists of oxidizing in a combustion chamber the volatile or condensable organic compounds (VOCs and COCs) contained in the industrial emissions being treated, while recovering sensible heat from combustion gases by means of ceramic beds. The recovered heat is then used to preheat entry gases thanks to an efficient heat transfer between entry and exit gases. The typical combustion temperature is 800 °C while the residence time is one second. The combustion gases, mainly composed of water (H2O) and carbon dioxide (CO2), are then released into the atmosphere.

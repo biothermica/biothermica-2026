@@ -1,0 +1,12 @@
+---
+id: /app/docs/_includes/sections/twocolcta.html
+paths:
+  en: /style-guide/sections/twocolcta/
+  fr: /fr/guide-style/sections/twocolcta/
+titles:
+  en: Section twocolcta
+  fr: Section twocolcta
+template: style-guide--sections
+categories:
+- style-guide--sections
+...

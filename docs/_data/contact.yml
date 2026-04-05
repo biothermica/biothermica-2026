@@ -1,0 +1,11 @@
+social:
+- name: LinkedIn
+  url: "https://www.linkedin.com/company/biothermica-technologies-inc."
+  label: "@biothermica-technologies-inc."
+phone:
+  label: "(514) 488-3881"
+  url: "tel:+15144883881"
+address: |
+  426 Sherbrooke St E<br />
+  Montreal, Quebec<br />
+  H2L 1J6, Canada

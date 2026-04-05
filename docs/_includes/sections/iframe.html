@@ -1,11 +1,1 @@
-{% comment %}
-sections:
-  - structure: awards
-    debug_bookend: true
-{% endcomment %}
-{% assign template="sections/iframe.html" %}
-{% include structure/debug.html %}
-{% assign p="_lang" %}{% assign v=_lang %}{% include structure/r.html %}
-  <iframe src="{% url %}" frameborder="{% frameborder %}" width="{% width %}" height="{% height %}" {% allowfullscreen %} ></iframe>
-{% assign template="sections/iframe.html" %}
-{% include structure/enddebug.html %}
+<iframe src="{% url %}" frameborder="{% frameborder %}" width="{% width %}" height="{% height %}" {% allowfullscreen %} ></iframe>

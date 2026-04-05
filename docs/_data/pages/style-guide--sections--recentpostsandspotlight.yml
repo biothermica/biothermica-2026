@@ -1,0 +1,12 @@
+---
+id: /app/docs/_includes/sections/recentpostsandspotlight.html
+paths:
+  en: /style-guide/sections/recentpostsandspotlight/
+  fr: /fr/guide-style/sections/recentpostsandspotlight/
+titles:
+  en: Section recentpostsandspotlight
+  fr: Section recentpostsandspotlight
+template: style-guide--sections
+categories:
+- style-guide--sections
+...

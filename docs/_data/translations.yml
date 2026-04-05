@@ -4,3 +4,18 @@
 homepath:
   en: "/"
   fr: "/fr/"
+"Tags":
+  en: "Tags"
+  fr: "Tags"
+"Stay in touch":
+  en: "Stay in touch"
+  fr: "Restez en contact"
+"Address":
+  en: "Address"
+  fr: "Adresse"
+"Phone":
+  en: "Phone"
+  fr: "Tél."
+"by":
+  en: "by"
+  fr: "par"

@@ -1,0 +1,26 @@
+paths:
+  en: /content/work-together/
+  fr: /fr/content/contactez/travailler-ensemble/
+titles:
+  en: Work Together
+  fr: Travailler ensemble
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        Biothermica is always looking for talented people to join its team. Do not hesitate to send an
+        unsolicited application (resume and cover letter) to [biothermica@biothermica.com](mailto:biothermica@biothermica.com)
+
+      fr: |
+        Biothermica est toujours à la recherche de talents pour compléter son équipe. N'hésitez pas à
+        nous envoyer une candidature spontanée (curriculum vitae et lettre de présentation) à [biothermica@biothermica.com](mailto:biothermica@biothermica.com)

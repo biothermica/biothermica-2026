@@ -31,7 +31,7 @@ sections:
         url: /fr/content/services-biogaz-0.html
       - title: Valorisation
         url: /fr/content/services-biogaz-1.html
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         A precise evaluation of landfill gas emissions is essential for any project aiming for environmental control or landfill gas utilization. It enables the determination of appropriate dimensions for gas recovery and energy production equipment. An accurate evaluation ensures the long-term financial success derived from landfill gas utilization. Biothermica’s expertise covers the following aspects:

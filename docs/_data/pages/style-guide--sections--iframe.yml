@@ -9,7 +9,4 @@ titles:
 template: style-guide--sections
 categories:
 - style-guide--sections
-sections:
-- structure: awards
-  debug_bookend: true
 ...
