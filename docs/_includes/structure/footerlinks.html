@@ -1,0 +1,19 @@
+{% for _navitem in site.data.nav[page.lang] %}
+{% if _navitem.footercol == _footercol %}
+<section>
+<h2>{{ _navitem.title }}</h2>
+{% if _navitem.children %}
+<ul class="divided">
+  <li><a href="{{ _navitem.url }}">{{ _navitem.title }}</a></li>
+{% for child in _navitem.children %}
+  {% if child.hidefromfooter %}{% else %}
+  {% assign _childpath = child.url %}
+  {% assign _childlabel = child.title %}
+  <li><a href="{{ _childpath }}">{{ _childlabel }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+{% endif %}
+</section>
+{% endif %}
+{% endfor %}

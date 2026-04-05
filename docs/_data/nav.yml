@@ -1,6 +1,7 @@
 en:
   - url: /content/about-us/
     title: About
+    footercol: 1
     children:
       - url: /content/about-us/
         title: The Company
@@ -12,20 +13,26 @@ en:
         title: Awards & Honors
       - url: /content/video-corporate/
         title: Video - Corporate
+        hidefromfooter: 1
       - url: /content/video-gazmont-lfg-power-plant/
         title: Video - Gazmont LFG Power Plant
+        hidefromfooter: 1
       - url: /documents/1.html
         title: Press Releases
       - url: /documents/2.html
         title: Presentations
       - url: /documents/3.html
         title: Publications
+        hidefromfooter: 1
       - url: /documents/4.html
         title: Brochures
+        hidefromfooter: 1
       - url: /documents/66.html
         title: Internal policies
+        hidefromfooter: 1
   - url: /air-pollution-control/
     title: Air Pollution
+    footercol: 1
     children:
       - url: /air-pollution-control/
         title: BIOTOX® RTO
@@ -33,6 +40,7 @@ en:
         title: RTO Projects
   - url: /content/vamox/
     title: VAMOX®
+    footercol: 1
     children:
       - url: /content/vamox-rto-solution/
         title: The VAMOX® RTO Solution
@@ -44,6 +52,7 @@ en:
         title: First Vamox Project
   - url: /landfill-gas/
     title: Landfill Gas
+    footercol: 2
     children:
       - url: /landfill-gas/
         title: Expertise
@@ -51,6 +60,7 @@ en:
         title: Biogaz Projects
   - url: /content/carbon-and-energy/
     title: Carbon & Energy
+    footercol: 2
     children:
       - url: /content/carbon-and-energy/
         title: Business Approach
@@ -64,12 +74,14 @@ en:
         title: BioEnergy Togo
   - url: /content/contact/
     title: Contact
+    footercol: 2
     children:
       - url: /content/work-together/
         title: Work Together
 fr:
   - url: /fr/content/entreprise.html
     title: À propos
+    footercol: 1
     children:
       - url: /fr/content/entreprise.html
         title: À propos de nous
@@ -83,18 +95,23 @@ fr:
         title: Vidéo Corporative
       - url: /fr/content/video-centrale-gazmont.html
         title: Vidéo - Centrale Gazmont
+        hidefromfooter: 1
       - url: /fr/documents/53.html
         title: Communiqués de presse
       - url: /fr/documents/9.html
         title: Présentations
       - url: /fr/documents/10.html
         title: Publications
+        hidefromfooter: 1
       - url: /fr/documents/11.html
         title: Brochures
+        hidefromfooter: 1
       - url: /fr/documents/67.html
         title: Politiques internes
+        hidefromfooter: 1
   - url: /fr/content/oxydation-thermique-regenerative/
     title: Assainissement de l'air
+    footercol: 1
     children:
       - url: /fr/content/oxydation-thermique-regenerative/
         title: BIOTOX® OTR
@@ -102,6 +119,7 @@ fr:
         title: Projets OTR
   - url: /fr/content/methane-minier.html
     title: Méthane Minier
+    footercol: 1
     children:
       - url: /fr/content/methane-minier.html
         title: Modèle d'affaires
@@ -111,6 +129,7 @@ fr:
         title: Ventilation du méthane, É.-U.
   - url: /fr/content/services-biogaz/
     title: Biogaz
+    footercol: 2
     children:
       - url: /fr/content/services-biogaz/
         title: Expertise
@@ -118,6 +137,7 @@ fr:
         title: Projets biogaz
   - url: /fr/content/carbone-et-energie/
     title: Carbone et Énergie
+    footercol: 2
     children:
       - url: /fr/content/carbone-et-energie/
         title: Étapes d'un projet
@@ -131,6 +151,7 @@ fr:
         title: BioÉnergie Togo
   - url: /fr/contactez/
     title: Contact
+    footercol: 2
     children:
       - url: /fr/content/contactez/travailler-ensemble/
         title: Travailler ensemble

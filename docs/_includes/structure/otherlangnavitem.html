@@ -1,0 +1,12 @@
+{% assign _lang = page.lang %}
+{% assign _data = site.data.pages[page.data] %}
+{% if _lang == 'fr' %}
+  {% assign _other_lang = 'en' %}
+{% else %}
+  {% assign _other_lang = 'fr' %}
+{% endif %}
+{% assign _other_lang_path = _data.paths[_other_lang] %}
+
+<li>
+  <a href="{{ _other_lang_path }}">{{ _other_lang | upcase }}</a>
+</li>
