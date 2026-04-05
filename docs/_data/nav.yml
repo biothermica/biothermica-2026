@@ -79,9 +79,9 @@ fr:
         title: Conseil d'administration
       - url: /fr/content/prix-distinctions.html
         title: Prix et distinctions
-      - url: /fr/content/vidéo-corporative.html
+      - url: /fr/content/video-corporative.html
         title: Vidéo Corporative
-      - url: /fr/content/vidéo-centrale-gazmont.html
+      - url: /fr/content/video-centrale-gazmont.html
         title: Vidéo - Centrale Gazmont
       - url: /fr/documents/53.html
         title: Communiqués de presse
@@ -107,7 +107,7 @@ fr:
         title: Modèle d'affaires
       - url: /fr/content/vamox-rto.html
         title: VAMOX® OTR
-      - url: /fr/content/ventilation-du-méthane-états-unis.html
+      - url: /fr/content/ventilation-du-methane-etats-unis.html
         title: Ventilation du méthane, É.-U.
   - url: /fr/content/services-biogaz/
     title: Biogaz
@@ -127,7 +127,7 @@ fr:
         title: Projet Nejapa
       - url: /fr/content/bioenergie-haiti/
         title: BioEnergie Haiti
-      - url: /fr/content/carbone-et-energie/bioenergie-togo.html
+      - url: /fr/content/carbone-et-energie/bioenergie-togo/
         title: BioÉnergie Togo
   - url: /fr/contactez/
     title: Contact

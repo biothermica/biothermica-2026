@@ -9,7 +9,4 @@ titles:
 template: style-guide--sections
 categories:
 - style-guide--sections
-sections:
-- structure: iframe
-  debug_bookend: true
 ...
