@@ -28,7 +28,7 @@ sections:
         url: /content/nejapa-landfill-and-biogas-1/
       - title: Carbon credit sales
         url: /content/nejapa-landfill-and-biogas-2/
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         The Republic of El Salvador is a country located in the north-east of Central America. The country borders the Pacific Ocean between Guatemala and Honduras. San Salvador is the country’s capital and largest city, the population of the San Salvador Metropolitan Area averaging 2.1 million people.

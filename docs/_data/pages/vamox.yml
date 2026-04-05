@@ -1,5 +1,5 @@
 paths:
-  en: /content/vamox/ 
+  en: /content/vamox/
   fr: /fr/content/vamox/
 titles:
   en: VAMOX®
@@ -16,13 +16,13 @@ sections_header:
         alt:
 
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         ## Biothermica develops, finances, builds and operates carbon and energy projects from
         [Ventilation Air Methane (VAM)](/content/creating-value-methane/) released by
         underground coal mines.
-        
+
 
         #### As an [integrated developer](/content/business-approach/), Biothermica manages all the aspects
         of its carbon and energy projects:
@@ -43,18 +43,18 @@ sections:
 
       fr: |
         ## Biothermica développe, finance, construit et exploite des projets carbone et énergétiques à partir de
-        [Méthane d'air de ventilation (VAM)](/content/creation-valeur-methane/) diffusé par des mines de charbon souterraines.
-        
-        #### En tant que [développeur intégré](/content/business-approch/), la biothermique gère tous les aspects De ses projets carbone et énergétiques :
-        
-        - Études de faisabilité 
-        - Développement 
-        - Financement 
-        - Permis et autorisations 
-        - Mise en œuvre (ingénierie, approvisionnement, construction et mise en service) 
-        - Exploitation et surveillance 
-        - Monétisation 
-        
-        # Créer de la valeur à partir de VAM Voyez comment nous pouvons transformer la VAM, une ressource gaspillée, en revenus. 
+        [Méthane d'air de ventilation (VAM)](/fr/content/creation-valeur-methane/) diffusé par des mines de charbon souterraines.
 
-        [Charger encore](/fr/content/creation-value-methane/)
+        #### En tant que [développeur intégré](/fr/content/approche-commerciale/), la biothermique gère tous les aspects De ses projets carbone et énergétiques :
+
+        - Études de faisabilité
+        - Développement
+        - Financement
+        - Permis et autorisations
+        - Mise en œuvre (ingénierie, approvisionnement, construction et mise en service)
+        - Exploitation et surveillance
+        - Monétisation
+
+        # Créer de la valeur à partir de VAM Voyez comment nous pouvons transformer la VAM, une ressource gaspillée, en revenus.
+
+        [Charger encore](/fr/content/creation-valeur-methane/)

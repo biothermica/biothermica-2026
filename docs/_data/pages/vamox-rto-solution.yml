@@ -26,7 +26,7 @@ sections:
       - title: Operating Principle
         url: /content/operating-principle/
 
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         ### Maximizing Ventilation Air Methane (VAM) abatement at minimum cost
@@ -48,10 +48,10 @@ sections:
 
         #### SPECIFICATIONS (can be customized):
 
-        - **Flow capacity:** up to 140,000 acfm (~240,000 Nm³/h)  
-        - **Footprint:** 4,700 ft² (44’ × 106’) / 416 m² (13 m × 32 m)  
-        - **%CH₄ Range:** 0.3% – 1.2%  
-        - **Methane destruction efficiency:** up to 98%  
+        - **Flow capacity:** up to 140,000 acfm (~240,000 Nm³/h)
+        - **Footprint:** 4,700 ft² (44’ × 106’) / 416 m² (13 m × 32 m)
+        - **%CH₄ Range:** 0.3% – 1.2%
+        - **Methane destruction efficiency:** up to 98%
 
       fr: |
         ### Maximisation de la réduction du méthane d'air de ventilation (VAM) au coût minimum
@@ -64,16 +64,16 @@ sections:
 
         La **technologie VAMOX®** offre de nombreux avantages et fonctionnalités, notamment :
 
-        - Conception et dispositifs de sécurité éprouvés, dépassant les exigences de la MSHA pour garantir la sécurité des mineurs. 
-        - Connexion mécanique au puits de ventilation conçue pour éviter tout impact possible sur la capacité de ventilation de la mine tout en évitant la dilution du VAM. 
-        - La conception du RTO peut être personnalisée à l'aide d'un simulateur de procédé éprouvé afin d'optimiser les performances du système sur la plage spécifique de débit VAM et de concentration en méthane spécifiée. 
+        - Conception et dispositifs de sécurité éprouvés, dépassant les exigences de la MSHA pour garantir la sécurité des mineurs.
+        - Connexion mécanique au puits de ventilation conçue pour éviter tout impact possible sur la capacité de ventilation de la mine tout en évitant la dilution du VAM.
+        - La conception du RTO peut être personnalisée à l'aide d'un simulateur de procédé éprouvé afin d'optimiser les performances du système sur la plage spécifique de débit VAM et de concentration en méthane spécifiée.
         - Stratégie de contrôle propriétaire, incluant l'auto-ajustement des paramètres du procédé en fonction de la concentration de méthane, afin de maximiser les performances et de permettre le traitement de la VAM avec une concentration de méthane très variable jusqu'à 1,2 % sans rencontrer de problèmes de surchauffe.
-        - Faible consommation d'énergie parasite et coûts de maintenance. 
+        - Faible consommation d'énergie parasite et coûts de maintenance.
         - Conçu pour faciliter la relocalisation. Système construit en sections modulaires qui peuvent être facilement démontées et déplacées en ~2 mois vers différents puits tout au long de leur durée de vie, à mesure que l'évolution des activités minières souterraines conduit à la mise en service de nouveaux ventilateurs de ventilation.
 
         #### SPÉCIFICATIONS (personnalisable) :
-        
-        - **Capacité de débit :** jusqu'à 140 000 acfm (~240 000 Nm³/h) 
-        - **Empreinte : ** 4 700 pieds carrés (44' × 106') / 416 m² (13 m × 32 m) 
-        - Fourchette ** %CH₄ : 0,3 % – 1,2 % 
+
+        - **Capacité de débit :** jusqu'à 140 000 acfm (~240 000 Nm³/h)
+        - **Empreinte : ** 4 700 pieds carrés (44' × 106') / 416 m² (13 m × 32 m)
+        - Fourchette ** %CH₄ : 0,3 % – 1,2 %
         - **Efficacité de destruction du méthane :** jusqu'à 98 %

@@ -16,7 +16,7 @@ sections_header:
         alt:
 
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         ### Biothermica built the first VAM oxidation unit to be operational at an active coal mine in
@@ -68,7 +68,7 @@ sections:
       fr: |
         ### Biothermica a construit la première unité d'oxydation VAM opérationnelle dans une mine
             de charbon active à Amérique du Nord
-        
+
         En 2004, Biothermica a lancé le développement d'une nouvelle technologie désormais connue sous le
         nom de VAMOX®, qui consiste à adapter sa technologie RTO brevetée BIOTOX® pour la réduction de
         la VAM. Au fil des années, Biothermica a étudié les spécificités des opérations minières de charbon et

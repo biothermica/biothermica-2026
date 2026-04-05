@@ -1,9 +1,9 @@
 paths:
   en: /carbon-and-energy/bioenergy-togo/
-  fr: /fr/content/carbone-et-energie/bioenergie-togo/
+  fr: /fr/carbone-energie/bioenergie-togo/
 redirects:
   en:
-    - /carbon-and-energy/bioenergy-togo/
+  - /carbon-and-energy/bioenergy-togo/
 titles:
   en: Bioenergy Togo
   fr: Bioénergie Togo

@@ -16,7 +16,7 @@ sections_header:
         alt:
 
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         Since 1990, the BIOTOX® regenerative thermal oxidizer has been used successfully in more than twenty-five (25) installations in Canada and the U.S. Biothermica’s BIOTOX® RTO projects have demonstrated destruction efficiencies of more than 99% and energy efficiencies greater than 90%, for flows varying from 2,000 ACFM to more than 150,000 ACFM. Here is a selection of several projects:

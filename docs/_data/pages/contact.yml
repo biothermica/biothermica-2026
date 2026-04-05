@@ -15,7 +15,7 @@ sections_header:
         image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
         alt:
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         ## Biothermica Technologies Inc.

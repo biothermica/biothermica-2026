@@ -10,13 +10,13 @@ sections_header:
     img:
       en:
         image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
-        alt: 
+        alt:
       fr:
         image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
         alt:
 
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         ## Fully Integrated Developer
@@ -39,7 +39,7 @@ sections:
         VAM rights are owned by another VAM project developer.
         Biothermica also proposes an array of other flexible commercial approaches.
 
-        
+
 
         A VAM carbon project is typically implemented followings these steps:
 
@@ -135,35 +135,35 @@ sections:
         Cet accord vise à définir la portée du projet, la relation entre la biothermique et la mine, la propriété du projet, les obligations de chaque partie et la compensation pour la mine.
 
         ### 5 - Stratégie de financement
-        
+
         Biothermica définit/propose une structure financière spécifiquement adaptée et optimisée pour le projet.
 
         ### 6 - Accord d'achat de réduction des émissions
-        
+
         Dans le cadre de la stratégie de financement, un Accord d'Achat de Réduction des Émissions (ERPA) peut être signé à l'avance avec les acheteurs potentiels afin de garantir le prix de vente de toutes (ou seulement d'une partie) des futures réductions d'émissions (c'est-à-dire les crédits carbone) à générer.
 
-        ### 7 - Permis et autorisations 
-        
+        ### 7 - Permis et autorisations
+
         Avec le soutien de la mine, Biothermica obtient tous les permis et approbations nécessaires aux autorités pour la mise en œuvre du projet, y compris la préparation d'un Addendum sur le Plan des Évents de la Mine à approuver par la MSHA (Administration de la Sécurité et de la Santé des Mines).
 
         ### 8 - Clôture du financement
-        
+
         Le financement est généralement conclu une fois que l'ERPA a été conclu (si cette stratégie est maintenue) et que tous les permis/autorisations requis ont été obtenus.
 
         ### 9 - Mise en œuvre du projet (EPCC - Ingénierie, Approvisionnement, Construction et Mise en service)
-        
+
         Biothermica procède à la mise en œuvre du projet VAM (c'est-à-dire EPCC) basé sur sa technologie propriétaire VAMOX®, incluant l'ingénierie détaillée, l'approvisionnement, la préparation du site, la construction et la mise en service conformément à un budget et un calendrier établis.
 
         ### 10 - Enregistrement du projet (Liste)
-        
+
         La biothermique procède à l'enregistrement du projet pour l'éligibilité à la réduction des émissions (c'est-à-dire l'inscription du projet).
 
         ### 11 - Fonctionnement et surveillance des crédits
-        
+
         La biothermique présente une vue d'ensemble des activités d'exploitation, de maintenance et de surveillance afin de s'assurer qu'elles sont menées conformément à la méthodologie applicable (c'est-à-dire les projets de capture du méthane dans les mines du protocole de compensation conforme de l'ARB). Selon les obligations définies dans l'Accord d'Alliance Stratégique, certaines activités quotidiennes de base peuvent être assurées par le personnel de la mine.
 
         ### 12 - Vérification (audit de chaque période de rapport)
-        
+
         À la fin de chaque période de rapport, la biothermique dirige le processus d'audit indépendant pour la vérification et l'émission finale des réductions d'émissions (c'est-à-dire les crédits carbone compensés).
 
         ### 13 - Monétisation
@@ -171,5 +171,5 @@ sections:
         Les crédits carbone compensés émis peuvent alors être vendus conformément à l'accord ERPA (si cette stratégie a été conservée) ou selon une autre stratégie convenue avec la mine.
 
         ## Services intégrés – une approche gagnant-gagnant
-        
+
         Biothermica propose tous ces services avec son propre personnel, minimisant ainsi les interactions avec les différentes parties prenantes et tous les risques associés tels que les retards de construction, le dépassement de budget, les litiges potentiels, la sous-performance, ce qui optimise le taux de rendement interne (IRR) pour toutes les parties.

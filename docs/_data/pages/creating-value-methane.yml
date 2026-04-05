@@ -1,6 +1,6 @@
 paths:
   en: /content/creating-value-methane/
-  fr: /fr/content/creation-value-methane/
+  fr: /fr/content/creation-valeur-methane/
 titles:
   en: Creating Value From Methane
   fr: Création de valeur à partir du méthane
@@ -10,13 +10,13 @@ sections_header:
     img:
       en:
         image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
-        alt: 
+        alt:
       fr:
         image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
         alt:
 
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         ### [The Vamox® RTO solution](/content/vamox-rto-solution/)
@@ -32,8 +32,8 @@ sections:
         Underground mines are by far the largest source of fugitive methane emissions in the coal sector, representing about 90% of total emissions.
 
         The control of methane concentrations underground is crucial to ensure the safety of miners. Two methods are used:
-        - Ventilation  
-        - Gas drainage  
+        - Ventilation
+        - Gas drainage
 
         ---
 
@@ -43,15 +43,15 @@ sections:
 
         High-powered exhaust mine fans vent this air to the atmosphere.
 
-        - ~70% of global coal mining emissions come from VAM  
-        - Estimated emissions: ~700 MtCO₂e per year  
-        - Methane concentration: typically < 1%  
+        - ~70% of global coal mining emissions come from VAM
+        - Estimated emissions: ~700 MtCO₂e per year
+        - Methane concentration: typically < 1%
 
         Despite containing significant energy, this low concentration has limited its use.
 
         👉 The [Vamox® RTO solution](/content/vamox-rto-solution/) developed by Biothermica enables:
-        - Carbon credit generation  
-        - Energy recovery  
+        - Carbon credit generation
+        - Energy recovery
 
         ---
 
@@ -60,15 +60,15 @@ sections:
         Drainage systems supplement ventilation by removing methane before or after mining.
 
         These systems:
-        - Use boreholes (surface or underground)  
-        - Capture methane from coal seams and surrounding strata  
+        - Use boreholes (surface or underground)
+        - Capture methane from coal seams and surrounding strata
 
         Captured gas is called **Coal Mine Methane (CMM)**.
 
         Unused CMM can be:
-        - Mixed with VAM  
-        - Used to regulate methane concentration  
-        - Improve project profitability  
+        - Mixed with VAM
+        - Used to regulate methane concentration
+        - Improve project profitability
 
         ---
 
@@ -76,7 +76,7 @@ sections:
 
         Since VAM abatement is not mandatory, carbon credits are the main incentive.
 
-        - Methane is **25× more potent than CO₂**  
+        - Methane is **25× more potent than CO₂**
         - Each ton of methane oxidized = **22.25 tCO₂e reduction**
 
         ![Methane Oxidation](/sites/biothermica.com/files/oxid-methane.png)
@@ -85,21 +85,21 @@ sections:
 
         ### Policy Support
 
-        - California adopted the **Mine Methane Capture Protocol** (July 1, 2014)  
-        - Enables carbon credit generation under cap-and-trade  
+        - California adopted the **Mine Methane Capture Protocol** (July 1, 2014)
+        - Enables carbon credit generation under cap-and-trade
 
-        - Québec has also implemented a similar protocol  
+        - Québec has also implemented a similar protocol
 
         ---
 
         ### Economic Viability
 
-        - Required carbon price: ~$10–$12/tCO₂e  
-        - Recent prices have exceeded this threshold  
+        - Required carbon price: ~$10–$12/tCO₂e
+        - Recent prices have exceeded this threshold
 
         Currently, only:
-        - United States  
-        - Canada  
+        - United States
+        - Canada
 
         have strong enough carbon markets to support standalone VAM projects.
 
@@ -107,8 +107,8 @@ sections:
 
         ### U.S. VAM Data (EPA)
 
-        - Total emissions: **2.4 MCM methane**  
-        - 29 vent shafts economically viable (> ~0.4% methane)  
+        - Total emissions: **2.4 MCM methane**
+        - 29 vent shafts economically viable (> ~0.4% methane)
 
         ![Total VAM Emissions](/sites/biothermica.com/files/total-vam-emissions.png)
 
@@ -119,8 +119,8 @@ sections:
         Even at low concentration, VAM contains significant energy.
 
         Example:
-        - 300,000 scfm airflow  
-        - 1% methane concentration  
+        - 300,000 scfm airflow
+        - 1% methane concentration
         - ≈ **50 MW thermal energy**
 
         ---
@@ -128,15 +128,15 @@ sections:
         ### Energy Recovery Methods
 
         #### 1. Heat Recovery
-        - Heat exchangers recover low-grade heat  
-        - Used for district heating  
+        - Heat exchangers recover low-grade heat
+        - Used for district heating
 
         #### 2. Organic Rankine Cycle (ORC)
-        - Converts waste heat into electricity  
+        - Converts waste heat into electricity
 
         #### 3. Steam Cycle (Preferred)
-        - Uses high-grade heat from combustion chamber  
-        - Maximizes power generation  
+        - Uses high-grade heat from combustion chamber
+        - Maximizes power generation
 
         ---
 
@@ -157,7 +157,7 @@ sections:
 
         La solution Vamox® RTO crée des opportunités de valoriser le méthane d'air de ventilation (VAM), une ressource gaspillée, en générant des crédits carbone et/ou de l'électricité.
 
-        --- 
+        ---
 
         ## Qu'est-ce que le VAM?
 
@@ -165,25 +165,25 @@ sections:
 
         Les mines souterraines sont de loin la plus grande source d'émissions de méthane fugitif dans le secteur du charbon, représentant environ 90 % des émissions totales.
 
-        Le contrôle des concentrations de méthane sous terre est crucial pour assurer la sécurité des mineurs. Deux méthodes sont utilisées : 
-        
+        Le contrôle des concentrations de méthane sous terre est crucial pour assurer la sécurité des mineurs. Deux méthodes sont utilisées :
+
         - Ventilation
         - Drainage des gaz
 
-        --- 
+        ---
 
         ### VAM (Méthane de l'air de ventilation)
 
         Un grand volume d'air circule dans toute la zone de travail de la mine pour diluer les concentrations de méthane en dessous des niveaux explosifs.
-        
-        Des ventilateurs d'extraction à haute puissance pour mine évacuent cet air vers l'atmosphère. 
-        
-        - ~70 % des émissions mondiales de l'extraction du charbon proviennent de la VAM 
-        - Émissions estimées : ~700 MtCO₂e par an 
+
+        Des ventilateurs d'extraction à haute puissance pour mine évacuent cet air vers l'atmosphère.
+
+        - ~70 % des émissions mondiales de l'extraction du charbon proviennent de la VAM
+        - Émissions estimées : ~700 MtCO₂e par an
         - Concentration en méthane : typiquement < 1%
 
         Bien qu'elle contienne une énergie importante, cette faible concentration a limité son utilisation.
-        
+
         👉 La [solution Vamox® RTO](/content/vamox-rto-solution/) développée par Biothermica permet :
         - Génération de crédits carbone
         - Récupération d'énergie
@@ -191,87 +191,87 @@ sections:
         ---
 
         ### Gaz de drainage (méthane de mine de charbon)
-        
+
         Les systèmes de drainage complètent la ventilation en retirant le méthane avant ou après l'extraction.
-        
-        Ces systèmes : 
-        - Utiliser des forages (de surface ou souterrains) 
+
+        Ces systèmes :
+        - Utiliser des forages (de surface ou souterrains)
         - Capter le méthane des veines de charbon et des strates environnantes
 
-        Le gaz capturé est appelé **Méthane de mines de charbon (CMM)**. 
- 
-        Un CMM inutilisé peut être : 
-        - Mixte avec VAM 
-        - Utilisé pour réguler la concentration en méthane 
+        Le gaz capturé est appelé **Méthane de mines de charbon (CMM)**.
+
+        Un CMM inutilisé peut être :
+        - Mixte avec VAM
+        - Utilisé pour réguler la concentration en méthane
         - Améliorer la rentabilité du projet
 
         ---
 
         ## Générer des crédits carbone à partir de la VAM
-        
-        Comme la réduction de la VAM n'est pas obligatoire, les crédits carbone sont la principale incitation. 
 
-        - Le méthane est **25× plus puissant que le CO₂** 
-        - Chaque tonne de méthane oxydée = **22,25 tCO₂e de réduction** 
-        
+        Comme la réduction de la VAM n'est pas obligatoire, les crédits carbone sont la principale incitation.
+
+        - Le méthane est **25× plus puissant que le CO₂**
+        - Chaque tonne de méthane oxydée = **22,25 tCO₂e de réduction**
+
         ! [Oxydation du méthane](/sites/biothermica.com/files/oxid-methane.png)
 
         ---
 
         ### Soutien politique
-        
-        - La Californie a adopté le **Protocole de capture du méthane dans les mines** (1er juillet 2014) 
-        - Permet la génération de crédits carbone dans le cadre du plafonnement et échange 
 
-        - Le Québec a également mis en place un protocole similaire        
+        - La Californie a adopté le **Protocole de capture du méthane dans les mines** (1er juillet 2014)
+        - Permet la génération de crédits carbone dans le cadre du plafonnement et échange
+
+        - Le Québec a également mis en place un protocole similaire
 
         ---
 
-        ### Viabilité économique 
-        
-        - Prix carbone requis : ~10 $ à 12 $/tCO₂e 
-        - Les prix récents ont dépassé ce seuil 
+        ### Viabilité économique
 
-        Actuellement, uniquement : 
-        
-        -États-Unis 
+        - Prix carbone requis : ~10 $ à 12 $/tCO₂e
+        - Les prix récents ont dépassé ce seuil
+
+        Actuellement, uniquement :
+
+        -États-Unis
         -Canada
-        
+
         disposent de marchés carbone suffisamment solides pour soutenir des projets VAM autonomes.
 
         ---
 
         ### Données VAM américaines (EPA)
-        
-        - Émissions totales : **2,4 MCM méthane** 
-        - 29 puits d'évents économiquement viables (> ~0,4 % de méthane) 
+
+        - Émissions totales : **2,4 MCM méthane**
+        - 29 puits d'évents économiquement viables (> ~0,4 % de méthane)
 
         ! [Émissions totales de VAM](/sites/biothermica.com/files/total-vam-emissions.png)
 
         ---
 
         ## Production d'énergie à partir de VAM
-        
+
         Même à faible concentration, le VAM contient une énergie significative.
-        
-        Exemple : 
-        - Débit d'air de 300 000 scfm 
-        - 1 % de concentration en méthane 
-        - ≈ **50 MW d'énergie thermique**        
+
+        Exemple :
+        - Débit d'air de 300 000 scfm
+        - 1 % de concentration en méthane
+        - ≈ **50 MW d'énergie thermique**
 
         ---
 
-        ### Méthodes de récupération d'énergie 
-        
-        #### 1. Récupération de chaleur 
-        - Les échangeurs de chaleur récupèrent la chaleur de faible qualité 
-        - Utilisé pour le chauffage urbain 
-        
-        #### 2. Cycle organique de Rankine (ORC) 
-        - Convertit la chaleur residuale en électricité 
-        
-        #### 3. Cycle à vapeur (Préféré) 
-        - Utilise une chaleur de haute qualité provenant de la chambre de combustion 
+        ### Méthodes de récupération d'énergie
+
+        #### 1. Récupération de chaleur
+        - Les échangeurs de chaleur récupèrent la chaleur de faible qualité
+        - Utilisé pour le chauffage urbain
+
+        #### 2. Cycle organique de Rankine (ORC)
+        - Convertit la chaleur residuale en électricité
+
+        #### 3. Cycle à vapeur (Préféré)
+        - Utilise une chaleur de haute qualité provenant de la chambre de combustion
         - Maximise la production d'électricité
 
         ---
@@ -285,6 +285,6 @@ sections:
         ---
 
         ## En savoir plus
-         
-        [CLIQUEZ ICI](/fr/contactez) pour demander un document présentant un aperçu
+
+        [CLIQUEZ ICI](/fr/contactez/) pour demander un document présentant un aperçu
         des stratégies de récupération de la chaleur usée pour un RTO Vamox®.

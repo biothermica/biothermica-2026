@@ -15,7 +15,7 @@ sections_header:
         image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
         alt:
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         Biothermica is always looking for talented people to join its team. Do not hesitate to send an

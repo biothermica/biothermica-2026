@@ -18,14 +18,14 @@ sections_header:
         alt:
 
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         Since 1995, Biothermica has completed numerous projects in the fields of landfill gas
         evaluation, collection, destruction and utilization. Here is a selection of several landfill
         gas projects:
         #### Three fields of expertise
-        
+
         - [Evaluation of landfill gas potential](/sites/biothermica.com/files/Biothermica_Evaluation%20of%20LFG%20potential.pdf)
         - [Landfill gas collection and destruction](/sites/biothermica.com/files/Biothermica_LFG%20Collection%20%26%20Destruction_2014-01.pdf)
         - [Landfill gas utilization](/sites/biothermica.com/files/Biothermica_LFG%20Utilization_0.pdf)

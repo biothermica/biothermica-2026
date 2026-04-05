@@ -15,7 +15,7 @@ sections_header:
         image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
         alt:
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         Since its inception in 1987, Biothermica has evolved from an environmental technology company to a fully
@@ -70,5 +70,5 @@ sections:
         - **1995:**   Mise en service du premier précipitateur électrostatique sur une chaudière à écorces
 
         - **1992:**   Mise en service de la première unité CLINOX® de filtration des gaz à haute température
-        - **1990:**   Mise en service de la première unité BIOTOX® d'oxydation thermique régénérative 
+        - **1990:**   Mise en service de la première unité BIOTOX® d'oxydation thermique régénérative
                   (Usine de bardeaux d'asphalte)

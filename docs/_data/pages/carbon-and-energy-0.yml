@@ -10,7 +10,7 @@ sections_header:
     img:
       en:
         image: /sites/biothermica.com/files/styles/entete_page/public/3-1_17c92.png
-        alt: 
+        alt:
       fr:
         image: /sites/biothermica.com/files/styles/entete_page/public/3-1_17c92.png
         alt:
@@ -25,7 +25,7 @@ sections:
         url: /content/carbon-and-energy-1/
       - title: Heating
         url: /content/carbon-and-energy-2/
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         The [Gazmont power plant](http://www.youtube.com/watch?v=71iRmZ9wlW0&amp;feature=youtu.be) is located near

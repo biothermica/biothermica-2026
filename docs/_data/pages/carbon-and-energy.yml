@@ -16,7 +16,7 @@ sections_header:
         alt:
 
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         Biothermica develops, finances and implements carbon and energy projects based on the destruction
@@ -33,7 +33,7 @@ sections:
         technical and economic studies are undertaken:
 
         - Assessment of available resources as well as the local energy context
-        - Economic and financial analysis  
+        - Economic and financial analysis
 
         ## Financing strategy
 
@@ -67,14 +67,14 @@ sections:
         under various international and national carbon standards since 2005. A carbon project is typically
         characterized by the following stages:
 
-        - Selection of a carbon standard  
-        - Project Design Document development  
-        - Validation of Project Design Document  
-        - Project registration  
-        - Implementation and monitoring  
-        - Verification of emissions reductions  
-        - Certification and issuance of credits by the carbon standard  
-        - Commercialization of emissions reductions  
+        - Selection of a carbon standard
+        - Project Design Document development
+        - Validation of Project Design Document
+        - Project registration
+        - Implementation and monitoring
+        - Verification of emissions reductions
+        - Certification and issuance of credits by the carbon standard
+        - Commercialization of emissions reductions
 
       fr: |
         Biothermica développe et finance des projets carbone et énergie basés sur la destruction et
@@ -89,17 +89,17 @@ sections:
         Cette première étape consiste à sélectionner le meilleur site pour le développement du projet. Les études
         techniques et économiques suivantes sont entreprises:
 
-        - Évaluation de la ressource et du contexte énergétique local  
-        - Caractéristiques du site  
-        - Analyse économique et financière  
+        - Évaluation de la ressource et du contexte énergétique local
+        - Caractéristiques du site
+        - Analyse économique et financière
 
         ## Stratégie de financement
 
         Si les études s'avèrent concluantes, Biothermica procède à la phase de financement du projet, qui comprend:
 
-        - Structure financière du projet  
-        - Partenaires financiers  
-        - Budget et échéancier  
+        - Structure financière du projet
+        - Partenaires financiers
+        - Budget et échéancier
 
         ## Permis et autorisations
 

@@ -15,7 +15,7 @@ sections_header:
         image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
         alt:
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         BioEnergy Haïti is a non-for-profit organization established in Haitian law, dedicated to
@@ -24,7 +24,7 @@ sections:
         collaboration between Terre des jeunes, Biothermica, and several civil society groups
         located in the  Gonaïves area.
 
-        The website dedicated to this initiative can be accessed by clicking [here](bioenergiehaiti.org/).
+        The website dedicated to this initiative can be accessed by clicking [here](https://www.bioenergiehaiti.org/).
 
       fr: |
         Bioénergie Haïti est une&nbsp;Organisation à but non lucratif&nbsp;de droit haïtien qui se donne pour
@@ -34,4 +34,4 @@ sections:
         Technologies Inc qu'est née l'idée de former Bioénergie Haïti en collaboration avec divers
         groupes communautaires des Gonaïves.
 
-        Le site Internet dédié à cette initiave est accessible en cliquant [ici](bioenergiehaiti.org).
+        Le site Internet dédié à cette initiave est accessible en cliquant [ici](https://www.bioenergiehaiti.org/).
