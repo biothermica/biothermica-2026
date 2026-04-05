@@ -50,3 +50,10 @@
   }
 }
 /** No shadow on nav */
+#nav a {
+  text-shadow: none !important;
+}
+/** Apply only to top level */
+#nav > ul > li > a {
+  color: #133178 !important;
+}

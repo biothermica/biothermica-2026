@@ -4,8 +4,10 @@ paths:
 titles:
   en: Logo and Style Guide
   fr: Logo et guide de style
+sections_header:
+  - structure: header
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       fr: |
         * [logo png transparent 300 x 246](/media/biothermica-logo-300x246.png)
@@ -13,9 +15,11 @@ sections:
         * [Biothermica texte 1138 x 183](/media/biothermica-text-1138x183.png)
         * [Biothermica logo et texte 947 x 150](/media/biothermica-logo-and-text-947x150.png)
         * [Biothermica logo et texte 360 x 57](/media/biothermica-logo-and-text-360x57.png)
+        * Couleur bleu foncé: #133178
       en: |
         * [logo png transparent 300 x 246](/media/biothermica-logo-300x246.png)
         * [logo png transparent 726 x 595](/media/biothermica-logo-726x595.png)
         * [Biothermica text 1138 x 183](/media/biothermica-text-1138x183.png)
         * [Biothermica logo and text 947 x 150](/media/biothermica-logo-and-text-947x150.png)
         * [Biothermica logo and text 360 x 57](/media/biothermica-logo-and-text-360x57.png)
+        * Dark blue color: #133178
