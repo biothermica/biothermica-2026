@@ -2,5 +2,14 @@ _site
 .DS_Store
 
 # These are auto-generated
-docs/fr
-docs/style-guide
+docs/air-pollution-control-0/*
+docs/air-pollution-control/*
+docs/carbon-and-energy/*
+docs/content/*
+docs/generated_articles/*
+docs/generated_redirects/*
+docs/history/*
+docs/index.html
+docs/landfill-gas/*
+docs/fr/*
+docs/style-guide/*
