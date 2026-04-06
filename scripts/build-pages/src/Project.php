@@ -2,26 +2,37 @@
 
 namespace myproject;
 
-class SourceFile {
+class Project {
   protected string $filepath;
   public function __construct(string $filepath) {
     $this->filepath = $filepath;
   }
-  public function build(string $betaBasePath) {
+  public function build() {
     foreach ($this->paths() as $lang => $path) {
-      $this->put($betaBasePath, $lang, $path, $this->id());
+      $this->put($lang, $path, $this->id());
     }
   }
   public function id() {
     return basename($this->filepath, '.yml');
   }
-  public function put(string $betaBasePath, string $name, string $path, string $id) {
+  public function put(string $name, string $path, string $id) {
     if (!file_exists('/app/docs' . $betaBasePath . $path)) {
-      mkdir('/app/docs' . $betaBasePath . $path, 0777, TRUE);
+      mkdir('/app/docs' . $path, 0777, TRUE);
+    }
+    if (!str_ends_with($path, '/')) {
+      $path .= '/';
     }
     file_put_contents(
-      '/app/docs' . $betaBasePath . $path . 'index.html',
+      '/app/docs' . $path . 'index.html',
       $this->toYaml($name, $id),
+    );
+    $path_no_slash = substr($path, 0, -1);
+    file_put_contents(
+      '/app/docs' . $path_no_slash . '.html',
+      yaml_emit([
+        'layout' => 'redirect',
+        'redirectTo' => $path,
+      ]),
     );
   }
   public function toYaml(string $lang, string $id) {

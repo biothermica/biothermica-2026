@@ -2,11 +2,13 @@
 
 namespace myproject;
 
+use myproject\Sections\Section;
+
 class Sections {
   const SOURCEDIR = '/app/docs/_includes/sections';
-  public function build(string $betaBasePath) {
+  public function build() {
     foreach ($this->sections() as $file) {
-      $file->build($betaBasePath);
+      $file->build();
     }
   }
   public function sections() {

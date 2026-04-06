@@ -1,0 +1,9 @@
+{% for tab in _tabs %}
+  <div class="tab">
+    <input type="radio" id="{{ tab.id }}" name="tab-group" {% if forloop.first %}checked{% endif %}>
+    <label for="{{ tab.id }}">{{ tab.title }}</label>
+    <div class="content">
+      {{ tab.content }}
+    </div>
+  </div>
+{% endfor %}

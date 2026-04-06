@@ -9,6 +9,7 @@
 {% assign _text = _block.text[_lang] %}
 {% assign _sections = _block.sections[_lang] %}
 {% assign _img = _block.img[_lang] %}
+{% assign _tabs = _block.tabs[_lang] %}
 {% assign _title = page.title %}
 
 {% include libraries/spacing-classes.html %}
@@ -25,6 +26,8 @@
   {% include sections/nosidebartextwithtitle.html %}
 {% elsif _block.structure == 'bannerimage' %}
   {% include sections/bannerimage.html %}
+{% elsif _block.structure == 'threetabs' %}
+  {% include sections/threetabs.html %}
 {% elsif _block.structure == 'recentpostsandspotlight' %}
   {% include sections/recentpostsandspotlight.html %}
 {% elsif _block.structure == 'twocolcta' %}

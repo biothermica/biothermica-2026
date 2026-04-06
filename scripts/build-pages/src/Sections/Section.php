@@ -1,6 +1,6 @@
 <?php
 
-namespace myproject;
+namespace myproject\Sections;
 
 class Section {
   protected string $filename;
@@ -56,7 +56,6 @@ class Section {
     $yaml = implode($yamlLines);
     return yaml_parse($yaml);
   }
-
 
 
 }

@@ -2,25 +2,17 @@
 
 namespace myproject;
 
-class Article {
+abstract class MultilingualItem {
   protected string $filepath;
   public function __construct(string $filepath) {
     $this->filepath = $filepath;
   }
   public function has($param) {
     if (!$param) {
-      throw new \Exception('Missing parameter');
+      throw new \Exception('Empty param in has()');
     }
     $ret = array_key_exists($param, $this->structure());
     return $ret;
-  }
-  public function build() {
-    foreach ([
-      new ArticleFr($this),
-      new ArticleEn($this),
-    ] as $articleInLanguage) {
-      $articleInLanguage->build();
-    }
   }
   public function structure() {
     return yaml_parse_file($this->filepath);

@@ -1,14 +1,13 @@
 <?php
 
-namespace myproject;
+namespace myproject\Articles;
 
-abstract class ArticleSingleLanguage {
-  public function __construct($article) {
-    $this->article = $article;
-  }
+use myproject\SingleLanguageItem;
+
+class ArticleSingleLanguage extends SingleLanguageItem {
   public function filename() {
-    if ($this->article->has($this->titleField()) && $this->article->has($this->bodyField())) {
-      $ret = $this->article->date() . '-' . self::slugify($this->title()) . '.md';
+    if ($this->item()->has($this->map('title')) && $this->item()->has($this->map('body'))) {
+      $ret = $this->item()->date() . '-' . self::slugify($this->title()) . '.md';
       return $ret;
     }
     return '';
@@ -45,10 +44,9 @@ abstract class ArticleSingleLanguage {
 
     return $text;
   }
-  abstract public function redirectsKey();
   public function redirects() {
-    if ($this->article->has($this->redirectsKey())) {
-      return $this->article->structure()[$this->redirectsKey()];
+    if ($this->item()->has($this->map('redirects'))) {
+      return $this->item()->structure()[$this->map('redirects')];
     }
     return [];
   }
@@ -75,14 +73,11 @@ abstract class ArticleSingleLanguage {
       }
     }
   }
-  abstract public function titleField();
-  abstract public function bodyField();
-  abstract public function prefix();
   public function title() {
-    return $this->article->structure()[$this->titleField()];
+    return $this->item()->structure()[$this->map('title')];
   }
   public function content() {
-    return $this->article->structure()[$this->bodyField()];
+    return $this->item()->structure()[$this->map('body')];
   }
   public function makeFile(
     string $location,
@@ -105,6 +100,6 @@ abstract class ArticleSingleLanguage {
     );
   }
   public function permalink() {
-    return $this->prefix() . '/' . $this->article->date() . '/' . $this->slugify($this->title()) . '/';
+    return $this->map('prefix') . '/' . $this->item()->date() . '/' . $this->slugify($this->title()) . '/';
   }
 }

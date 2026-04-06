@@ -2,10 +2,8 @@
 
 namespace myproject;
 
-use myproject\MultilingualPages\SourceFile;
-
-class MultilingualPages {
-  const SOURCEDIR = '/app/docs/_data/pages';
+class Projects {
+  const SOURCEDIR = '/app/docs/_data/projects';
   public function build() {
     foreach ($this->sourceFiles() as $file) {
       $file->build();
@@ -15,7 +13,7 @@ class MultilingualPages {
     $ret = [];
     foreach (scandir(self::SOURCEDIR, SCANDIR_SORT_ASCENDING) as $filename) {
       if (substr($filename, -4) === '.yml') {
-        $ret[] = new SourceFile(self::SOURCEDIR . '/' . $filename);
+        $ret[] = new Project(self::SOURCEDIR . '/' . $filename);
       }
     }
     return $ret;

@@ -1,0 +1,60 @@
+paths:
+  en: /content/landfill-gas-services/
+  fr: /fr/content/services-biogaz-0/
+
+titles:
+  en: Landfill Gas Services
+  fr: Services Biogaz
+
+sections:
+  - structure: threetabs
+    tabs:
+      en:
+      - title: Evaluation
+        path: /landfill-gas/
+      - title: Management
+        path: /content/landfill-gas-services/
+      - title: Utilization
+        path: /content/landfill-gas-services-0/
+      fr:
+      - title: Évaluation
+        path: /fr/content/services-biogaz/
+      - title: Gestion
+        path: /fr/content/services-biogaz-0/
+      - title: Valorisation
+        path: /fr/content/services-biogaz-1/
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        Once the evaluation of the resource is completed, it needs to be managed in order to minimize impacts on the environment and public health and maximize equipment profitability. Biothermica has more than 20 years of experience in the management and environmental monitoring of gases generated at landfill sites. Biothermica’s expertise covers the following aspects:
+
+        ## Design and construction of recovery and flaring systems
+
+        The design is optimized according to the permeability and porosity of the soil, water levels, waste depth and expected landfilling sequence. The design also takes into account surface concentrations of methane which have been previously measured using a georeferenced surface sampling technique. Engineering services include the detailed design of landfill gas recovery, pumping and flaring systems. Biothermica also proceeds with the review, inspection and management of construction works as well as the start-up and commissioning of the landfill gas recovery system.
+
+        ## Operation of recovery system and environmental performance follow-up
+
+        Biothermica offers landfill gas recovery system managers and owners the possibility of subcontracting system operations. Biothermica has the required knowledge for data collection and analysis, ensuring optimal management of the landfill gas recovery system, minimization of environmental impacts and optimization of resource utilization. Biothermica created the LFGsim® software program, a tool for analysis and management that enables improvements to landfill gas recovery and environmental follow-up. Biothermica has developed several techniques for ensuring an objective and thorough follow-up of landfill gas recovery system performance:
+
+        * Measurement of surface emissions;
+        * Measurement of methane concentrations in buildings;
+        * Measurement of methane concentrations in the soil at property limits;
+        * Setting up of ambient air sampling stations and localization strategy;
+        * Evaluation of collection system efficiency.
+      fr: |
+        Une fois l’évaluation de la ressource complétée, sa gestion est essentielle afin de maximiser la rentabilité des équipements et de minimiser les impacts sur l’environnement et la santé publique. Biothermica possède plus de vingt (20) ans d’expérience dans la gestion et la surveillance environnementale des biogaz générés par un site d’enfouissement. L’expertise développée couvre les aspects suivants;
+
+        ## Conception et construction des réseaux de captage et de torchères
+
+        La conception est optimisée en fonction de la perméabilité et de la porosité du sol, des niveaux d’eau, de l’épaisseur des déchets et de la séquence d’enfouissement prévue. Également, la conception tient compte des concentrations de méthane surfacique préalablement mesurées grâce à la technique d’échantillonnage de surface géoréférencée. L’ingénierie est entièrement conçue par Biothermica, ainsi que la conception des systèmes de contrôle, des systèmes de pompage et de brûlage du biogaz. Biothermica s’assure également de la revue, de l’inspection et de la gestion des travaux de construction ainsi que du démarrage et de la mise en service du réseau.
+
+        ## Gestion des réseaux de captage et suivi des performances environnementales
+
+        Biothermica offre la possibilité aux gestionnaires et propriétaires de réseau de sous-contracter la gestion du réseau de captage. Biothermica possède le savoir-faire relié à la collecte et à l’analyse des données nécessaire à la gestion optimale d’un réseau de captage, que ce soit dans une optique de minimisation des impacts environnementaux ou d’optimisation de la valorisation de la ressource. Biothermica à mis au point le logiciel LFGsim®, un outil d’analyse et de gestion permettant d’améliorer les performances de captage du biogaz produit et le suivi environnemental. Biothermica a développé plusieurs techniques permettant un suivi objectif et rigoureux des performances environnementales d’un réseau de captage :
+
+        * Mesure des émissions surfaciques;
+        * Mesure de la concentration de méthane dans les bâtiments;
+        * Mesure de la concentration de méthane dans le sol aux limites de propriété;
+        * Mise en place de stations d’échantillonnage de l’air ambiant et stratégie de localisation;
+        * Évaluation de l’efficacité des réseaux de captage;
+        * Contrôle des odeurs.

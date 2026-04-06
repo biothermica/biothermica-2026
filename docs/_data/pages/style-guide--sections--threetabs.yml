@@ -1,0 +1,12 @@
+---
+id: /app/docs/_includes/sections/threetabs.html
+paths:
+  en: /style-guide/sections/threetabs/
+  fr: /fr/guide-style/sections/threetabs/
+titles:
+  en: Section threetabs
+  fr: Section threetabs
+template: style-guide--sections
+categories:
+- style-guide--sections
+...

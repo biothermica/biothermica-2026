@@ -1,0 +1,56 @@
+paths:
+  en: /content/landfill-gas-services-0/
+  fr: /fr/content/services-biogaz-1/
+
+titles:
+  en: Landfill Gas Services
+  fr: Services Biogaz
+
+sections:
+  - structure: threetabs
+    tabs:
+      en:
+      - title: Evaluation
+        path: /landfill-gas/
+      - title: Management
+        path: /content/landfill-gas-services/
+      - title: Utilization
+        path: /content/landfill-gas-services-0/
+      fr:
+      - title: Évaluation
+        path: /fr/content/services-biogaz/
+      - title: Gestion
+        path: /fr/content/services-biogaz-0/
+      - title: Valorisation
+        path: /fr/content/services-biogaz-1/
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        Since 1995, Biothermica has completed numerous projects in the fields of landfill gas
+        evaluation, collection, destruction and utilization. Here is a selection of several landfill
+        Once the long-term potential of the resource has been determined, recovery equipment installed and the appropriate management system set up, resource utilization is the final step for ensuring the financial success of all activities.
+
+        The possible end-uses of LFG are:
+
+        * Boiler fuel (heat recovery with or without electric power generation);
+        * Engine fuel (mechanical or electric power with or without heat recovery);
+        * Turbine fuel (electric power with or without heat recovery);
+        * Vehicle fuel (mechanical power recovery);
+        * Injection into the natural gas grid;
+        * Production of chemicals.
+
+        Biothermica's expertise is applied to the design and construction of landfill gas utilization systems as well as their continuous operation.
+
+      fr: |
+        Une fois le potentiel à long terme de la ressource évalué, les équipements de captage installés et la méthode de gestion optimale implantée, Biothermica est en mesure de procéder à la valorisation de la ressource. Cette étape revêt une grande importance puisqu’elle est garante du succès financier de l’ensemble des activités.
+
+        Les utilisations possibles du biogaz comprennent notamment:
+
+        * Combustion en chaudière;
+        * Combustion en moteur (avec ou sans récupération de chaleur);
+        * Combustion en turbine (avec ou sans récupération de chaleur);
+        * Carburant pour véhicules;
+        * Injection dans le réseau de gaz naturel;
+        * Synthèse de produits chimiques.
+
+        L'expertise de Biothermica s'applique tant à la conception et construction de systèmes de valorisation du biogaz qu'à leur opération continue.
