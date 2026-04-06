@@ -27,13 +27,15 @@ class SourceFile {
       $this->toYaml($name, $id),
     );
     $path_no_slash = substr($path, 0, -1);
-    file_put_contents(
-      '/app/docs' . $path_no_slash . '.html',
-      yaml_emit([
-        'layout' => 'redirect',
-        'redirectTo' => $path,
-      ]),
-    );
+    if ($path_no_slash) {
+      file_put_contents(
+        '/app/docs' . $path_no_slash . '.html',
+        yaml_emit([
+          'layout' => 'redirect',
+          'redirectTo' => $path,
+        ]),
+      );
+    }
   }
   public function toYaml(string $lang, string $id) {
     return yaml_emit([
