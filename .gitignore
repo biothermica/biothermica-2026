@@ -2,5 +2,5 @@ _site
 .DS_Store
 
 # These are auto-generated
-docs/fr/guide-style
+docs/fr
 docs/style-guide

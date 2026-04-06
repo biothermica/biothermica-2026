@@ -128,6 +128,18 @@ fr:
         title: VAMOX® OTR
       - url: /fr/content/ventilation-du-methane-etats-unis.html
         title: Ventilation du méthane, É.-U.
+  - url: /content/vamox/
+    title: VAMOX®
+    footercol: 1
+    children:
+      - url: /content/vamox-rto-solution/
+        title: The VAMOX® RTO Solution
+      - url: /content/creating-value-methane/
+        title: Creating Value From Methane
+      - url: /content/business-approach/
+        title: Business Approach
+      - url: /content/first-vamox-project/
+        title: First Vamox Project
   - url: /fr/content/services-biogaz/
     title: Biogaz
     footercol: 2
