@@ -18,7 +18,7 @@ sections_header:
         image: /media/logo-bet_05ab0.png
         alt: Logo de Bioénergie Togo
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         BioEnergy Togo is an NGO soon incorporated whose goal is to carry out a project of collection and valorization of residual materials and biogas-solar co-energy in the great Kloto.

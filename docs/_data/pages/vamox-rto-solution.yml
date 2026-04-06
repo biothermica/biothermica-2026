@@ -1,0 +1,79 @@
+paths:
+  en: /content/vamox-rto-solution/
+  fr: /fr/content/vamox-rto-solution/
+titles:
+  en: The VAMOX® RTO Solution
+  fr: La solution VAMOX® RTO
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+
+sections:
+  - structure: subsections
+    sections:
+      en:
+      - title: The VAMOX® RTO Solution
+        url: /content/vamox-rto-solution/
+      - title: VAMOX® Process Simulator
+        url: /content/vamox-process-simulator/
+      - title: Operating Principle
+        url: /content/operating-principle/
+
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        ### Maximizing Ventilation Air Methane (VAM) abatement at minimum cost
+
+        Based on the experience gained from its [first VAM project](/content/first-vamox-project/), Biothermica has developed a Second generation Vamox® Regenerative Thermal Oxidizer (RTO) system fully optimized by Biothermica’s engineers to maximize carbon credits production in the most economical fashion.
+
+        For illustrative purposes, at 0.9% v/v (the methane concentration typically observed on vent bleeder shafts in the U.S), this Vamox® system would generate about **750 tCO2e/24h** (~260,000 tCO2e/year based on 95% uptime), with a total parasitic power consumption of only **700 hp (520 kW)** approximately.
+
+        ![Vamox system](/sites/biothermica.com/files/usine-vamox-thumb.png)
+
+        The **VAMOX® technology** provides many advantages and features, including:
+
+        - Proven fail-safe design and safety features exceeding MSHA’s requirements to ensure miners’ safety.
+        - Mechanical connection to the vent shaft designed to prevent any possible impact on the mine’s ventilation capacity while also preventing VAM dilution.
+        - RTO’s design can be customized using a proven process simulator to optimize the system’s performance over the specific range of VAM flow rate and methane concentration specified.
+        - Proprietary control strategy, including the auto-adjustment of process parameters based on methane concentration, in order to maximize performance and allow processing VAM with highly variable methane concentration up to 1.2% without experiencing overheat issues.
+        - Low parasitic power consumption and maintenance costs.
+        - Designed for facilitated relocation. System built in modular sections that can be easily dismantled and moved within ~2 months to different shafts throughout their service life, as the progression of underground mining activities lead to the commissioning of new ventilation fans.
+
+        #### SPECIFICATIONS (can be customized):
+
+        - **Flow capacity:** up to 140,000 acfm (~240,000 Nm³/h)
+        - **Footprint:** 4,700 ft² (44’ × 106’) / 416 m² (13 m × 32 m)
+        - **%CH₄ Range:** 0.3% – 1.2%
+        - **Methane destruction efficiency:** up to 98%
+
+      fr: |
+        ### Maximisation de la réduction du méthane d'air de ventilation (VAM) au coût minimum
+
+        Fort de l'expérience acquise lors de son [premier projet VAM](/content/first-vamox-project/), Biothermica a développé un système Vamox Regenerative Thermal Oxyder (RTO) de deuxième génération®, entièrement optimisé par les ingénieurs de Biothermica pour maximiser la production de crédits carbone de la manière la plus économique possible.
+
+        À titre d'illustration, à 0,9 % v/v (la concentration de méthane généralement observée sur les arbres de purge aux évents aux États-Unis), ce système Vamox® générerait environ **750 tCO2e/24h** (~260 000 tCO2e/an basé sur 95 % de temps de fonctionnement), avec une consommation totale parasite d'énergie d'environ **700 ch (520 kW)**.
+
+        ![Système Vamox](/sites/biothermica.com/files/usine-vamox-thumb.png)
+
+        La **technologie VAMOX®** offre de nombreux avantages et fonctionnalités, notamment :
+
+        - Conception et dispositifs de sécurité éprouvés, dépassant les exigences de la MSHA pour garantir la sécurité des mineurs.
+        - Connexion mécanique au puits de ventilation conçue pour éviter tout impact possible sur la capacité de ventilation de la mine tout en évitant la dilution du VAM.
+        - La conception du RTO peut être personnalisée à l'aide d'un simulateur de procédé éprouvé afin d'optimiser les performances du système sur la plage spécifique de débit VAM et de concentration en méthane spécifiée.
+        - Stratégie de contrôle propriétaire, incluant l'auto-ajustement des paramètres du procédé en fonction de la concentration de méthane, afin de maximiser les performances et de permettre le traitement de la VAM avec une concentration de méthane très variable jusqu'à 1,2 % sans rencontrer de problèmes de surchauffe.
+        - Faible consommation d'énergie parasite et coûts de maintenance.
+        - Conçu pour faciliter la relocalisation. Système construit en sections modulaires qui peuvent être facilement démontées et déplacées en ~2 mois vers différents puits tout au long de leur durée de vie, à mesure que l'évolution des activités minières souterraines conduit à la mise en service de nouveaux ventilateurs de ventilation.
+
+        #### SPÉCIFICATIONS (personnalisable) :
+
+        - **Capacité de débit :** jusqu'à 140 000 acfm (~240 000 Nm³/h)
+        - **Empreinte : ** 4 700 pieds carrés (44' × 106') / 416 m² (13 m × 32 m)
+        - Fourchette ** %CH₄ : 0,3 % – 1,2 %
+        - **Efficacité de destruction du méthane :** jusqu'à 98 %

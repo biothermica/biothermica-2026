@@ -1,0 +1,67 @@
+paths:
+  en: /content/nejapa-landfill-and-biogas/
+  fr: /fr/content/nejapa-projet-biogaz/
+titles:
+  en: Nejapa - Landfill and Biogas
+  fr: Nejapa - Projet Biogaz
+
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/nejapa-top_0aaa9.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/nejapa-top_0aaa9.png
+        alt:
+
+sections:
+  - structure: subsections
+    sections:
+      en:
+      - title: Context
+        url: /content/nejapa-landfill-and-biogas/
+      - title: Registration
+        url: /content/nejapa-landfill-and-biogas-0/
+      - title: Construction
+        url: /content/nejapa-landfill-and-biogas-1/
+      - title: Carbon credit sales
+        url: /content/nejapa-landfill-and-biogas-2/
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        The Republic of El Salvador is a country located in the north-east of Central America. The country borders the Pacific Ocean between Guatemala and Honduras. San Salvador is the country’s capital and largest city, the population of the San Salvador Metropolitan Area averaging 2.1 million people.
+
+        The CDM project developed by Biothermica has been designed to proceed in two phases. Phase I involves the design, construction and operation of a landfill gas collection and flaring system at the Nejapa landfill site located 17km north of San Salvador. Phase II consists of the design, construction and operation of a landfill gas power plant for the generation of electricity. The project is registered with the [United Nation’s CDM Executive Board (No. 0167)](http://cdm.unfccc.int/Projects/DB/DNV-CUK1134486361.05/) under the following title: Landfill Gas to Energy Facility at the Nejapa Landfill Site, El Salvador.
+
+        The Nejapa landfill is receiving municipal solid waste (MSW) from the San Salvador Metropolitan Area based on a 20 years agreement with Mides S.E.M. de CV (Mides), the owner of the landfill. Between 1999 and 2005, close to 3 million tons of MSW have been buried at the Nejapa landfill. Approximately 20 million tons will be buried at this site during its 25 years of existence.
+
+        Considering environmental impacts, health and safety issues as well as the site’s energy potential, Biothermica conducted several feasibility studies in 2003, with the aim of minimizing these impacts and assess the potential for developing a LFG-to-Energy facility. Biothermica was subsequently appointed by Mides to realise the development of a LFG collection system and flaring station (Phase I) as well as a landfill gas power plant (Phase II) following an agreement signed to this effect in 2005.
+
+        The project results in several environmental benefits, including greenhouse gas emissions reductions as well as the destruction of the odors and pollutants contained in the landfill gas. It also contributes to the sustainable development of the Republic of El Salvador, notably through technological transfer and collaboration with Mides.
+
+        The CDM project implementation was carried out in accordance with the planned schedule:
+
+        February 2005 to March 2006: Registration of the project with the United Nations
+        May to December 2006: Construction
+        February 2007: First trade of certified emissions reductions (CERs)
+        April 2008: Sale of the project to an international energy company
+
+      fr: |
+        La république du Salvador est un pays du nord-est de l’Amérique centrale. Le Salvador est limité au nord et à l’est par le Honduras, au sud par l’océan Pacifique et à l’ouest et au nord-ouest par le Guatemala. San Salvador est la capitale et la plus grande ville du pays, la région métropolitaine de San Salvador accueillant approximativement 2.1 million de personnes.
+
+        Le projet MDP éveloppé par Biothermica Énergie est un projet de captage, de brûlage (phase1) et de valorisation énergétique (phase 2) du biogaz émis par le site d’enfouissement de la ville de Nejapa, située à 17 km au nord de San Salvador. Le projet a été reconnu par les [Nations Unies](http://cdm.unfccc.int/Projects/DB/DNV-CUK1134486361.05/) comme une activité admissible au mécanisme de développement propre sous le [numéro 0167](http://cdm.unfccc.int/Projects/DB/DNV-CUK1134486361.05/) et l’appellation suivante: Landfill Gas to Energy Facility at the Nejapa Landfill Site, El Salvador.
+
+        Le site d’enfouissement de Nejapa reçoit les déchets municipaux en provenance de la région métropolitaine de San Salvador, selon un contrat d’une durée de 20 ans signé avec Mides S.E.M. de CV (Mides), propriétaire du site d’enfouissement. Entre 1999 et 2005, près de 3 millions de tonnes de déchets municipaux ont été enfouis au site de Nejapa. Selon les estimations, quelques 20 millions de tonnes seront enfouies au site durant ses 25 années d’existence.
+
+        Face aux enjeux environnementaux, de santé et de sécurité pour la population environnante et compte tenu du potentiel énergétique du site, Biothermica Énergie a réalisé en 2003 plusieurs études de faisabilité dans une optique de minimiser les impacts du site et de construire une centrale de production d’énergie à partir du biogaz émis. La compagnie a conclu en 2005 avec Mides une entente pour construire et opérer un système de captage et de brûlage du biogaz (Phase 1) ainsi qu’une centrale de production d’électricité à partir du biogaz (Phase 2).
+
+        Ce projet répond à plusieurs objectifs environnementaux, parmi lesquels on retrouve la réduction des émissions de GES, la destruction des polluants contenus dans le biogaz et la destruction des odeurs. Il contribue également au développement durable de la république du Salvador, notamment à travers le transfert technologique et la collaboration avec Mides.
+
+        L’échéancier global du projet MDP fut respecté, en voici les principales composantes:
+
+        Enregistrement du projet aux Nations Unies (Février 2005 à Mars 2006)
+        Construction (Mai 2006 à Décembre 2006)
+        Vente des réductions d’émissions certifiées (URCEs)
+        Vente du projet à une compagnie énergétique internationale (avril 2008)

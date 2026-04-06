@@ -4,6 +4,9 @@
 homepath:
   en: "/"
   fr: "/fr/"
+"Tags":
+  en: "Tags"
+  fr: "Tags"
 "Stay in touch":
   en: "Stay in touch"
   fr: "Restez en contact"

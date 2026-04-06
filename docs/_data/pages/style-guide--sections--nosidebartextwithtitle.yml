@@ -1,0 +1,12 @@
+---
+id: /app/docs/_includes/sections/nosidebartextwithtitle.html
+paths:
+  en: /style-guide/sections/nosidebartextwithtitle/
+  fr: /fr/guide-style/sections/nosidebartextwithtitle/
+titles:
+  en: Section nosidebartextwithtitle
+  fr: Section nosidebartextwithtitle
+template: style-guide--sections
+categories:
+- style-guide--sections
+...

@@ -8,7 +8,7 @@ sections_header:
   - structure: header
   - structure: banner
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         Founded in 1987, Biothermica is a climate mitigation infrastructure company focused on three main lines of business: Carbon and Energy Project Development, Landfill Gas Services, and Air Pollution Control Solutions.

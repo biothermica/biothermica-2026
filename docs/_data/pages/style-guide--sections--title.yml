@@ -1,0 +1,12 @@
+---
+id: /app/docs/_includes/sections/title.html
+paths:
+  en: /style-guide/sections/title/
+  fr: /fr/guide-style/sections/title/
+titles:
+  en: Section title
+  fr: Section title
+template: style-guide--sections
+categories:
+- style-guide--sections
+...

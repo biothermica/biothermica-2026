@@ -38,17 +38,17 @@ en:
         title: BIOTOX® RTO
       - url: /air-pollution-control/projects/
         title: RTO Projects
-  - url: /content/vamox.html
+  - url: /content/vamox/
     title: VAMOX®
     footercol: 1
     children:
-      - url: /content/vamox-rto-solution.html
+      - url: /content/vamox-rto-solution/
         title: The VAMOX® RTO Solution
-      - url: /content/creating-value-methane.html
+      - url: /content/creating-value-methane/
         title: Creating Value From Methane
-      - url: /content/business-approach.html
+      - url: /content/business-approach/
         title: Business Approach
-      - url: /content/first-vamox-project.html
+      - url: /content/first-vamox-project/
         title: First Vamox Project
   - url: /landfill-gas/
     title: Landfill Gas
@@ -56,27 +56,27 @@ en:
     children:
       - url: /landfill-gas/
         title: Expertise
-      - url: /content/projects-0.html
+      - url: /content/projects-0/
         title: Biogaz Projects
-  - url: /content/carbon-and-energy.html
+  - url: /content/carbon-and-energy/
     title: Carbon & Energy
     footercol: 2
     children:
-      - url: /content/carbon-and-energy.html
+      - url: /content/carbon-and-energy/
         title: Business Approach
-      - url: /content/carbon-and-energy-0.html
+      - url: /content/carbon-and-energy-0/
         title: Gazmont Power Plant
-      - url: /content/nejapa-landfill-and-biogas.html
+      - url: /content/nejapa-landfill-and-biogas/
         title: Nejapa CDM Project
-      - url: /content/bioenergy-haiti.html
+      - url: /content/bioenergy-haiti/
         title: BioEnergy Haiti
       - url: /carbon-and-energy/bioenergy-togo/
         title: BioEnergy Togo
-  - url: /content/contact.html
+  - url: /content/contact/
     title: Contact
     footercol: 2
     children:
-      - url: /content/work-together.html
+      - url: /content/work-together/
         title: Work Together
 fr:
   - url: /fr/content/entreprise.html
@@ -91,10 +91,10 @@ fr:
         title: Conseil d'administration
       - url: /fr/content/prix-distinctions.html
         title: Prix et distinctions
-      - url: /fr/content/vidéo-corporative.html
+      - url: /fr/content/video-corporative.html
         title: Vidéo Corporative
         hidefromfooter: 1
-      - url: /fr/content/vidéo-centrale-gazmont.html
+      - url: /fr/content/video-centrale-gazmont.html
         title: Vidéo - Centrale Gazmont
         hidefromfooter: 1
       - url: /fr/documents/53.html
@@ -126,7 +126,7 @@ fr:
         title: Modèle d'affaires
       - url: /fr/content/vamox-rto.html
         title: VAMOX® OTR
-      - url: /fr/content/ventilation-du-méthane-états-unis.html
+      - url: /fr/content/ventilation-du-methane-etats-unis.html
         title: Ventilation du méthane, É.-U.
   - url: /fr/content/services-biogaz/
     title: Biogaz
@@ -134,25 +134,25 @@ fr:
     children:
       - url: /fr/content/services-biogaz/
         title: Expertise
-      - url: /fr/content/projets.html
+      - url: /fr/content/projets/
         title: Projets biogaz
-  - url: /fr/content/carbone-et-energie.html
+  - url: /fr/content/carbone-et-energie/
     title: Carbone et Énergie
     footercol: 2
     children:
-      - url: /fr/content/carbone-et-energie.html
+      - url: /fr/content/carbone-et-energie/
         title: Étapes d'un projet
-      - url: /fr/content/carbone-energie.html
+      - url: /fr/content/carbone-energie/
         title: Centrale Gazmont
-      - url: /fr/content/nejapa-projet-biogaz.html
+      - url: /fr/content/nejapa-projet-biogaz/
         title: Projet Nejapa
-      - url: /fr/content/bioenergie-haiti.html
+      - url: /fr/content/bioenergie-haiti/
         title: BioEnergie Haiti
-      - url: /fr/content/carbone-et-energie/bioenergie-togo.html
+      - url: /fr/content/carbone-et-energie/bioenergie-togo/
         title: BioÉnergie Togo
-  - url: /fr/contactez.html
+  - url: /fr/contactez/
     title: Contact
     footercol: 2
     children:
-      - url: /fr/content/contactez/travailler-ensemble.html
+      - url: /fr/content/contactez/travailler-ensemble/
         title: Travailler ensemble

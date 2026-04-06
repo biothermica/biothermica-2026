@@ -1,5 +1,5 @@
 paths:
-  en: /board-directors/
+  en: /content/board-directors/
   fr: /fr/content/conseil-dadministration/
 titles:
   en: Board of Directors
@@ -15,12 +15,12 @@ sections_header:
         image: /sites/biothermica.com/files/styles/entete_page/public/arbre_184f4.jpg
         alt:
 sections:
-  - structure: text
+  - structure: nosidebartextwithtitle
     text:
       en: |
         ![Guy Drouin](/sites/biothermica.com/files/photo_pres.jpg)
 
-        **Guy Drouin, P.Eng., MBA**  
+        **Guy Drouin, P.Eng., MBA**
         President and Chief Executive Officer (CEO)
 
         Guy is the founder and owner of the Biothermica group since 1987. Over the past 30 years, he has participated in the design, development, and commercialization of numerous technologies and projects in the fields of air pollution control, greenhouse gas (GHG) and methane mitigation, and renewable energy.
