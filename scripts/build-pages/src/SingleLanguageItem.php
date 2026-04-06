@@ -25,4 +25,15 @@ class SingleLanguageItem {
   public function item() : MultilingualItem {
     return $this->multilingualItem;
   }
+  public function redirects() {
+    if ($this->item()->has($this->map('redirects'))) {
+      return $this->item()->structure()[$this->map('redirects')];
+    }
+    return [];
+  }
+
+  public function filename() {
+    $this->item()->date() . '-' . self::slugify($this->title()) . '.md';
+  }
+
 }

@@ -15,6 +15,16 @@ media_folder: "docs/media"
 public_folder: "/media"
 
 collections:
+  - name: 'bla'
+    create: true
+    label: 'Bla'
+    folder: 'docs/_data/multi/bla/'
+    slug: '{{title}}'
+    summary: '{{title}}'
+    fields:
+      - label: 'Titre en français'
+        name: 'title'
+        widget: 'string'
   - name: 'articles'
     create: true
     label: 'Articles'

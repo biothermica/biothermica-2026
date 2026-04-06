@@ -5,13 +5,6 @@ namespace myproject\Articles;
 use myproject\SingleLanguageItem;
 
 class ArticleSingleLanguage extends SingleLanguageItem {
-  public function filename() {
-    if ($this->item()->has($this->map('title')) && $this->item()->has($this->map('body'))) {
-      $ret = $this->item()->date() . '-' . self::slugify($this->title()) . '.md';
-      return $ret;
-    }
-    return '';
-  }
   public static function slugify($text, string $divider = '-') {
     $ret = self::slugifyFull($text, $divider);
     $parts = explode($divider, $ret);
@@ -43,12 +36,6 @@ class ArticleSingleLanguage extends SingleLanguageItem {
     }
 
     return $text;
-  }
-  public function redirects() {
-    if ($this->item()->has($this->map('redirects'))) {
-      return $this->item()->structure()[$this->map('redirects')];
-    }
-    return [];
   }
   public function build() {
     if ($this->filename()) {
