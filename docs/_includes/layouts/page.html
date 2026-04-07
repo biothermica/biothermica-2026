@@ -37,7 +37,7 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header-wrapper">
+				<div id="header-wrapper" {% if page.tags contains 'homepage' %} class="homepage-header" {% endif %}">
 					<div class="header-wrapper-filter">
 						<div class="container">
 							{{ _content_header }}
@@ -70,13 +70,9 @@
 
 								<!-- About -->
 									<section>
-										<h2><strong>ZeroFour</strong> by HTML5 UP</h2>
-										<p>Hi! This is <strong>ZeroFour</strong>, a free, fully responsive HTML5 site
-										template by <a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net/">HTML5 UP</a>.
-										It's <a href="http://html5up.net/license/">Creative Commons Attribution</a>
-										licensed so use it for any personal or commercial project (just credit us
-										for the design!).</p>
-										<a href="#" class="button alt icon solid fa-arrow-circle-right">Learn More</a>
+										<h2><strong>Biothermica</strong></h2>
+										<p>{{ _t["Développeur intégré de projets carbone et énergie actif depuis 1985 dans le domaine de l'énergie et du développement durable."][page.lang] }}</p>
+										<a href="{{ _t["contact URL"][page.lang] }}" class="button alt icon solid fa-arrow-circle-right">{{ _t["Contactez-nous"][page.lang] }}</a>
 									</section>
 
 								<!-- Contact -->
@@ -110,7 +106,7 @@
 							<div class="col-12">
 								<div id="copyright">
 									<ul class="menu">
-										<li>&copy; Biothermica <span class="currentyear"></span></li><li>Design: <a href="http://html5up.net">ZeroFour {{ _t["by"][page.lang] }} HTML5 UP</a></li>
+										<li>&copy; Biothermica <span class="currentyear"></span></li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 									</ul>
 								</div>
 							</div>

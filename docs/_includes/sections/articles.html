@@ -1,0 +1,28 @@
+{% comment %}
+sections:
+  - structure: recentpostsandspotlight
+{% endcomment %}
+<div class="wrapper style3">
+  <div class="inner">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+
+          <!-- Article list -->
+            <section class="box article-list">
+              <h2 class="icon fa-file-alt">
+                {{ _t["Recent articles"][_lang] }}
+              </h2>
+
+              {% assign articles = site.categories.generated_pages | where_exp: "item", "item.tags contains 'article'" | where: "lang", _lang | sort: 'mydate' | reverse %}
+
+              {% for article in articles %}
+                {% include structure/single-article.html %}
+              {% endfor %}
+
+            </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

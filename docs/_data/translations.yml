@@ -46,9 +46,24 @@ homepath:
 "Actif depuis 1985 dans le domaine de l'énergie et du développement durable.":
   en: "Active since 1985 in the field of energy and sustainable development."
   fr: "Actif depuis 1985 dans le domaine de l'énergie et du développement durable."
+"Développeur intégré de projets carbone et énergie actif depuis 1985 dans le domaine de l'énergie et du développement durable.":
+  en: "Integrated developer of carbon and energy projects active since 1985 in the field of energy and sustainable development."
+  fr: "Développeur intégré de projets carbone et énergie actif depuis 1985 dans le domaine de l'énergie et du développement durable."
 "Contactez-nous":
   en: "Contact us"
   fr: "Contactez-nous"
 "contact URL":
   en: "/contact/"
   fr: "/fr/contact/"
+Spotlight:
+  en: "Spotlight"
+  fr: "En vedette"
+Continue Reading:
+  en: "Continue Reading"
+  fr: "Lire la suite"
+Tous les articles:
+  en: "All articles"
+  fr: "Tous les articles"
+"Tous les articles URL":
+  en: "/articles/"
+  fr: "/fr/articles/"

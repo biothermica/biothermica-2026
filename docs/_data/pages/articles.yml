@@ -1,0 +1,10 @@
+paths:
+  en: /articles/
+  fr: /fr/articles/
+titles:
+  en: Articles
+  fr: Articles
+sections_header:
+  - structure: header
+sections:
+  - structure: articles

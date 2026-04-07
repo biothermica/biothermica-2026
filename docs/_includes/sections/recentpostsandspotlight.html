@@ -17,18 +17,11 @@ sections:
               {% assign articles = site.categories.generated_pages | where_exp: "item", "item.tags contains 'article'" | where: "lang", _lang | sort: 'mydate' | reverse %}
 
               {% for article in articles  | limit: 3 %}
-                <!-- Excerpt -->
-                <article class="box excerpt">
-                  <a href="{{ article.url }}" class="image left"><img src="/beta/images/pic04.jpg" alt=""></a>
-                  <div>
-                    <header>
-                      <span class="date">{{ article.mydate }}</span>
-                      <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
-                    </header>
-                    <p>{{ article.title }}</p>
-                  </div>
-                </article>
+                {% include structure/single-article.html %}
               {% endfor %}
+              <footer>
+                <a href="{{ _t["Tous les articles URL"][_lang] }}" class="button alt icon solid fa-file-alt">{{ _t["Tous les articles"][_lang] }}</a>
+              </footer>
 
             </section>
         </div>
@@ -36,12 +29,17 @@ sections:
 
           <!-- Spotlight -->
             <section class="box spotlight">
-              <h2 class="icon fa-file-alt">Spotlight</h2>
+
+              {% assign articles = site.categories.generated_pages | where_exp: "item", "item.tags contains 'vedette'" | where: "lang", _lang | sort: 'mydate' | reverse %}
+
+              {% for article in articles | limit: 1 %}
+
+              <h2 class="icon fa-file-alt">{{ _t["Spotlight"][_lang] }}</h2>
               <article>
-                <a href="#" class="image featured"><img src="/beta/images/pic07.jpg" alt=""></a>
+                <a href="{{ article.url }}" class="image featured"><img src="{{ article.images[0].path | default: "/beta/images/pic07.jpg" }}" alt="{{ article.images[0].alt[_lang] }}"></a>
                 <header>
-                  <h3><a href="#">Neural Implants</a></h3>
-                  <p>The pros and cons. Mostly cons.</p>
+                  <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
+                  {% if article.subtitle %}<p>{{ article.subtitle }}</p>{% endif %}
                 </header>
                 <p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus semper mod
                 quisturpis nisi consequat ornare in, hendrerit in lectus semper mod quis eget mi quat etiam
@@ -50,9 +48,11 @@ sections:
                 <p>Lorem ipsum dolor quam turpis, feugiat sit amet ornare in, hendrerit in lectus semper
                 mod quisturpis nisi consequat etiam lorem sed amet quam turpis.</p>
                 <footer>
-                  <a href="#" class="button alt icon solid fa-file-alt">Continue Reading</a>
+                  <a href="{{ article.url }}" class="button alt icon solid fa-file-alt">{{ _t["Continue Reading"][_lang] }}</a>
                 </footer>
               </article>
+
+              {% endfor %}
             </section>
 
         </div>

@@ -90,9 +90,11 @@ class SourceFile {
         'type' => $this->type,
       ],
       'title' => $this->title($lang),
+      'subtitle' => $this->structure()['subtitles'][$lang] ?? '',
       'permalink' => $path,
       'tags' => $this->structure()['tags'] ?? [],
       'mydate' => $this->structure()['mydate'] ?? '',
+      'images' => $this->structure()['images'] ?? '',
     ]);
   }
   public function title(string $lang) {

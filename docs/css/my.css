@@ -57,14 +57,14 @@
 #nav > ul > li > a {
   color: #133178 !important;
 }
-#header-wrapper {
+#header-wrapper.homepage-header {
   background: url('/media/air-1-bg.jpg');
   background-size: auto 100%;
   background-repeat: no-repeat;
   background-position: center center;
   padding: 0 !important;
 }
-#header-wrapper .header-wrapper-filter {
+#header-wrapper.homepage-header .header-wrapper-filter {
   backdrop-filter: blur(5px) brightness(50%) !important;
   padding: 44px 0 !important;
 }
@@ -88,4 +88,9 @@
 }
 .my-icon {
   font-size: 2.5em;
+}
+.banner-image-wrapper {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
 }

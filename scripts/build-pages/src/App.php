@@ -27,6 +27,20 @@ class App {
             'fr' => '/fr/articles/' . ($orig['mydate'] ? ($orig['mydate'] . '/') : '') . $this->slugify($orig['title'] ?? '', 'article') . '/',
           ],
           'tags' => ['article'] + ($orig['tags'] ?? []),
+          'sections' => [
+            [
+              'structure' => 'nosidebartextwithtitle',
+              'text' => [
+                'en' => $orig['body_en'] ?? '',
+                'fr' => $orig['body'] ?? '',
+              ],
+            ],
+          ],
+          'sections_header' => [
+            [
+              'structure' => 'header',
+            ],
+          ],
         ];
       },
       'projects' => function($orig) {

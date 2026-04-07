@@ -1,9 +1,19 @@
 paths:
   en: /content/creating-value-methane/
   fr: /fr/content/creation-valeur-methane/
+tags:
+- vedette
+images:
+- path: /media/vamox-5.jpg
+  alt:
+    en: VAMOX® unit seen from a drone
+    fr: Unité VAMOX® vue d'un drone
 titles:
   en: Creating Value From Methane
   fr: Création de valeur à partir du méthane
+subtitles:
+  en: Turn waste mine ventilation methane into carbon credits and power with the Vamox® RTO solution.
+  fr: Transformez le méthane provenant de la ventilation des mines en crédits carbone et en énergie grâce à la solution Vamox® RTO.
 sections_header:
   - structure: header
   - structure: bannerimage
@@ -14,7 +24,6 @@ sections_header:
       fr:
         image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
         alt:
-
 sections:
   - structure: nosidebartextwithtitle
     text:

@@ -18,8 +18,18 @@ sections:
         title: Tab 3
 {% endcomment %}
 {% for tab in _tabs %}
-  <div class="tab">
-    <input type="radio" id="{{ tab.id }}" name="tab-group" {% if forloop.first %}checked{% endif %}>
-    <label for="{{ tab.id }}">{{ tab.title }}</label>
+<div class="wrapper style3">
+  <div class="inner">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="tab">
+            <input type="radio" id="{{ tab.id }}" name="tab-group" {% if forloop.first %}checked{% endif %}>
+            <label for="{{ tab.id }}">{{ tab.title }}</label>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
+</div>
 {% endfor %}

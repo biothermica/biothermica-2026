@@ -1,0 +1,12 @@
+<article class="box excerpt">
+  {% assign _bg = forloop.index | modulo: 5 %}
+  {% assign _default = "/media/article-bg-" | append : _bg | append : ".png" %}
+  <a href="{{ article.url }}" class="image left"><img src="{{ article.images[0].path | default: _default }}" alt="{{ article.images[0].alt[_lang] }}"></a>
+  <div>
+    <header>
+      <span class="date">{{ article.mydate }}</span>
+      <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
+    </header>
+    <p>{{ article.title }}</p>
+  </div>
+</article>

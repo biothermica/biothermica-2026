@@ -17,13 +17,24 @@ sections:
       - title: Valorisation
         url: /fr/content/services-biogaz-1.html
 {% endcomment %}
-
-<section class="{{ spacing_classes }}">
-  <ul>
-    {% for subsection in _sections %}
-    <li>
-      <a href="{{ subsection.url }}">{{ subsection.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+<!--
+<div class="wrapper style3">
+  <div class="inner">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <section class="{{ spacing_classes }}">
+            <ul>
+              {% for subsection in _sections %}
+              <li>
+                <a href="{{ subsection.url }}">{{ subsection.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+-->

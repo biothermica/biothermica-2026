@@ -11,3 +11,5 @@ sections:
   - structure: three-featured
   - structure: awards
   - structure: recentpostsandspotlight
+tags:
+  - homepage
