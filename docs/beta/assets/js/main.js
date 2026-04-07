@@ -35,11 +35,16 @@
 
 	// Nav.
 
+		let __home = '/';
+		if (window.location.pathname.startsWith('/fr/')) {
+			__home = '/fr/';
+		}
+
 		// Title Bar.
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<a href="' + __home + '"><span class="title">' + $('#logo').html() + '</span></a>' +
 				'</div>'
 			)
 				.appendTo($body);
