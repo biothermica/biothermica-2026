@@ -19,6 +19,36 @@ homepath:
 "by":
   en: "by"
   fr: "par"
+"communiqué":
+  en: "Press releases"
+  fr: "Communiqués de presse"
+"présentation":
+  en: "Presentations"
+  fr: "Présentations"
+"publication":
+  en: "Publications"
+  fr: "Publications"
+"brochure":
+  en: "Brochures"
+  fr: "Brochures"
+"politique":
+  en: "Internal policies"
+  fr: "Politiques internes"
 "This page has moved to":
   en: "This page has moved to"
   fr: "Cette page a déménagé vers"
+"Recent articles":
+  en: "Recent articles"
+  fr: "Articles récents"
+"développeur intégré<br/>de projets carbone et énergie.":
+  en: "integrated developer<br/>of carbon and energy projects."
+  fr: "développeur intégré<br/>de projets carbone et énergie."
+"Actif depuis 1985 dans le domaine de l'énergie et du développement durable.":
+  en: "Active since 1985 in the field of energy and sustainable development."
+  fr: "Actif depuis 1985 dans le domaine de l'énergie et du développement durable."
+"Contactez-nous":
+  en: "Contact us"
+  fr: "Contactez-nous"
+"contact URL":
+  en: "/contact/"
+  fr: "/fr/contact/"

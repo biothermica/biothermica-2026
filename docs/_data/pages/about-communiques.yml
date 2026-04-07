@@ -1,0 +1,16 @@
+paths:
+  en: /documents/press-releases/
+  fr: /fr/documents/communiques/
+redirects:
+  en:
+  - /documents/1.html
+  fr:
+  - /fr/documents/53.html
+titles:
+  en: Press releases
+  fr: Communiqués de presse
+sections_header:
+  - structure: header
+sections:
+  - structure: documents
+    type: communiqué

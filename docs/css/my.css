@@ -57,3 +57,35 @@
 #nav > ul > li > a {
   color: #133178 !important;
 }
+#header-wrapper {
+  background: url('/media/air-1-bg.jpg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 0 !important;
+}
+#header-wrapper .header-wrapper-filter {
+  backdrop-filter: blur(5px) brightness(50%) !important;
+  padding: 44px 0 !important;
+}
+/** Sinon le menu va sur deux lignes */
+#nav > ul > li > a, #nav > ul > li > span {
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+}
+
+#nav > ul > li > a, #nav > ul > li > span {
+  letter-spacing: 0em;
+  font-size: 0.8em;
+}
+@media (min-width: 1172px) {
+  #nav > ul > li > a, #nav > ul > li > span {
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    letter-spacing: 0.075em;
+    font-size: 0.95em;
+  }
+}
+.my-icon {
+  font-size: 2.5em;
+}

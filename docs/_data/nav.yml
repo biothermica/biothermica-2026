@@ -118,16 +118,6 @@ fr:
         title: BIOTOX® OTR
       - url: /fr/assainissement/projets/
         title: Projets OTR
-  - url: /fr/content/methane-minier.html
-    title: Méthane Minier
-    footercol: 1
-    children:
-      - url: /fr/content/methane-minier.html
-        title: Modèle d'affaires
-      - url: /fr/content/vamox-rto.html
-        title: VAMOX® OTR
-      - url: /fr/content/ventilation-du-methane-etats-unis.html
-        title: Ventilation du méthane, É.-U.
   - url: /content/vamox/
     title: VAMOX®
     footercol: 1
@@ -140,6 +130,16 @@ fr:
         title: Business Approach
       - url: /content/first-vamox-project/
         title: First Vamox Project
+  - url: /fr/content/methane-minier.html
+    title: Méthane Minier
+    footercol: 1
+    children:
+      - url: /fr/content/methane-minier.html
+        title: Modèle d'affaires
+      - url: /fr/content/vamox-rto.html
+        title: VAMOX® OTR
+      - url: /fr/content/ventilation-du-methane-etats-unis.html
+        title: Ventilation du méthane, É.-U.
   - url: /fr/content/services-biogaz/
     title: Biogaz
     footercol: 2

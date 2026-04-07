@@ -1,0 +1,106 @@
+paths:
+  en: /air-pollution-control/applications/
+  fr: /fr/assainissement-air/applications/
+redirects:
+  en:
+  - /air-pollution-control-0/
+  fr:
+  - /fr/content/assainissement-lair-0/
+titles:
+  en: Air Pollution Control
+  fr: Assainissement de l'air
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/4-1_202cd.png
+        alt: Usine avec traitement de l'air et technologie Biotox
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/4-1_0aa5c.png
+        alt:
+
+sections:
+  - structure: subsections
+    sections:
+      en:
+      - title: Operating Principle
+        url: /air-pollution-control/
+      - title: Applications
+        url: /air-pollution-control/applications/
+      - title: Advantages
+        url: /air-pollution-control/advantages/
+      fr:
+      - title: Principe de fonctionnement
+        url: /fr/assainissement-air/
+      - title: Applications
+        url: /fr/assainissement-air/applications/
+      - title: Avantages
+        url: /fr/assainissement-air/avantages/
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        ## Conventional application: VOC treatment
+
+        Regenerative thermal oxidizer (RTO) technology was developed in the 1970s and 1980s. By the early 1990s, the technology occupied an enviable position in relation to other technologies for the treatment of conventional VOC emissions. It made it possible to achieve destruction efficiency greater than 99% while keeping operating costs low. Biothermica has the expertise for treating emissions from the following industries:
+
+        * Graphic art and printing;
+        * Painting booth;
+        * Textiles;
+        * Food;
+        * Flooring;
+        * Petrochemicals;
+        * And other applications.
+
+        ## Special application: Treatment of COCs and corrosive emissions
+
+        In the early 1990s, regenerative thermal oxidizer (RTO) technology did not treat fumes containing COCs. The main difficulties in treating fumes containing COCs were the following:
+
+        * COC destruction efficiency of less than 90%;
+        * Accumulation and clogging up of entry pipes and saddle beds;
+        * Uncontrolled ignition of accumulations in beds;
+        * Overheating incidents damaging valves, pipes and blowers.
+
+        The use of RTO technology in treating corrosive emissions was also avoided because of operation and maintenance difficulties.
+
+        In the face of stricter environmental standards for COCs and the absence of any reliable, efficient and economical control technology, Biothermica’s research department started a development program in 1990 aimed at adapting RTO technology to the treatment of COCs. The program resulted in a first unit being installed in 1991 at a plant producing asphalt paper.
+
+        The experience acquired since then by Biothermica in treating COCs and corrosive emissions has enabled the company to develop a large field of expertise. Biothermica became recognized for the excellence and reliability of its equipment and systems for treating emissions containing TRSs, PAHs, and dioxins and furans. The following applications are described below:
+
+        * [Asphalt roofing plant](/node/244.html) - HAP and heavy aliphatic compounds – Condensable emissions
+        * [Kraft pulp plant](/node/245.html) - TRS – Corrosive emissions
+        * [Anode manufacturing plant (aluminum smelters)](/node/246.html) -
+        Pitch vapor – PAH – Condensable emissions
+        * [Magnesium plant](/node/247.html) - Dioxins and furans – Condensable and corrosive emissions
+      fr: |
+        ## Applications conventionnelles : Traitement des COV
+
+        La technologie d’oxydation thermique régénérative (OTR) s’est développée au cours des années 70 et 80. Au cours des années 90, elle occupe une place concurrentielle sur le marché des technologies destinées au traitement des émissions conventionnelles de COV. Aujourd’hui, cette technologie a acquis ses lettres de noblesse et affiche un taux de destruction supérieur à 99%, et ceci, à de faibles coûts d’opération. Biothermica possède l’expertise pour traiter des émissions provenant des secteurs industriels suivants :
+
+        * Art graphique et imprimerie;
+        * Atelier de peinture;
+        * Textile;
+        * Agro-Alimentaire;
+        * Couvre-plancher;
+        * Pétrochimie;
+
+        Et autres industries.
+
+        ## Applications particulières : Traitement des COC et des émissions corrosives
+
+        Au début des années 90, la technologie d’oxydation régénérative (RTO) n’est pas en mesure de traiter efficacement les fumées contenant des composés organiques condensables (COC). Son taux de destruction n’excède pas 90% et sa mise au point est ralentie en raison de trois difficultés majeures :
+
+        * Dépôt et encrassement des conduites d’entrée et des lits de sellettes;
+        * Allumage incontrôlée des dépôts dans les lits;
+        * Incidents de surchauffe dommageable aux vannes et conduites.
+
+        Au cours des années 90, l’application de la technologie d’oxydation thermique régénérative (OTR) aux émissions corrosives n’atteint également pas le rendement espéré. Les principales difficultés rencontrées résident alors au niveau de l’opération et de la maintenance de l’appareil.
+
+        L’action combinée du resserrement des normes environnementales relatives aux COC et l’absence de technologies fiables, efficaces et économiques a incité le Division Recherche de Biothermica à restaurer un programme de développement destiné à adapter la technologie d’oxydation régénérative au traitement des COC. C’est en 1991, dans le cadre de ce programme, qu’une première unité fut installée pour filtrer les émanations d’une usine de papier goudronné.
+
+        L’expertise acquise depuis lors par Biothermica pour le traitement des COC et des émissions corrosives lui ouvre un important champ d’expertise. Biothermica est dorénavant reconnu pour l’excellence et la fiabilité de ses équipements et systèmes pour le traitement des émissions contenant des SRT, des HAP, et des dioxines et furannes. Le procédé BIOTOX a été appliqué dans les industries suivantes :
+
+        * [Usine de bardeaux d'asphalte](/usine-bardeaux-dasphalte.html) - HAP et composés aliphatiques lourds – Émissions condensables
+        * [Usine de pâtes kraft](/usine-pâte-kraft.html) - SRT – Émissions corrosives
+        * [Usine de fabrication d'anodes (alumineries)](/usine-fabrication-danodes.html) - Vapeur de braie – HAP – Émissions condensables
+        * [Usine de magnésium](/usine-magnésium.html) - Dioxines et furanes – Émissions condensables et corrosives

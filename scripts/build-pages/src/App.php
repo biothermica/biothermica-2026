@@ -17,15 +17,25 @@ class App {
     foreach ([
       'articles' => function($orig) {
         return [
-          'title' => [
+          'titles' => [
             'en' => $orig['title_en'] ?? '',
             'fr' => $orig['title'] ?? '',
           ],
-          'date' => $orig['mydate'] ?? '',
+          'mydate' => $orig['mydate'] ?? '',
           'paths' => [
             'en' => '/articles/' . ($orig['mydate'] ? ($orig['mydate'] . '/') : '') . $this->slugify($orig['title_en'] ?? '', 'article') . '/',
             'fr' => '/fr/articles/' . ($orig['mydate'] ? ($orig['mydate'] . '/') : '') . $this->slugify($orig['title'] ?? '', 'article') . '/',
           ],
+          'tags' => ['article'] + ($orig['tags'] ?? []),
+        ];
+      },
+      'projects' => function($orig) {
+        return [
+          'title' => [
+            'en' => $orig['title_en'] ?? '',
+            'fr' => $orig['title'] ?? '',
+          ],
+          'tags' => ['project'] + ($orig['tags'] ?? []),
         ];
       },
     ] as $collection => $callback) {

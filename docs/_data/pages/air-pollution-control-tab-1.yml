@@ -1,6 +1,9 @@
 paths:
   en: /air-pollution-control/
-  fr: /fr/content/oxydation-thermique-regenerative/
+  fr: /fr/assainissement-air/
+redirects:
+  fr:
+  - /fr/content/oxydation-thermique-regenerative/
 titles:
   en: Air Pollution Control
   fr: Biotox® OTR
@@ -22,9 +25,16 @@ sections:
       - title: Operating Principle
         url: /air-pollution-control/
       - title: Applications
-        url: /content/air-pollution-control/
+        url: /air-pollution-control/applications/
       - title: Advantages
-        url: /content/air-pollution-control-0/
+        url: /air-pollution-control/advantages/
+      fr:
+      - title: Principe de fonctionnement
+        url: /fr/assainissement-air/
+      - title: Applications
+        url: /fr/assainissement-air/applications/
+      - title: Avantages
+        url: /fr/assainissement-air/avantages/
   - structure: nosidebartextwithtitle
     text:
       en: |
@@ -39,9 +49,6 @@ sections:
         ### COC treatment
 
         ![Plan for the treatment of Organic Compounds](/sites/biothermica.com/files/diagram2.jpg){: width="450" height="251" style="display:block; margin:auto;" }
-
-        Visualize the operation of the BIOTOX® with the following video:
-
       fr: |
         Le procédé d’oxydation thermique régénérative (OTR) BIOTOX® consiste à oxyder dans une chambre de combustion les composés organiques volatiles et condensables (COV & COC) contenus dans les émissions industrielles à traiter, pour ensuite récupérer la chaleur sensible des gaz de combustion au moyen de lits de céramique. La chaleur ainsi récupérée sert à préchauffer les gaz d’entrée grâce au transfert thermique efficace entre les gaz d’entrée et les gaz de sortie. La température typique de combustion est de 800 °C alors que le temps de résidence est d’une seconde. Les gaz de combustion, composés essentiellement d’eau (H2O) et de gaz carbonique (CO2), sont par la suite évacués à l’atmosphère.
 
@@ -54,20 +61,3 @@ sections:
         ### Traitement des COC
 
         ![Plan pour le traitement des composés organiques](/sites/biothermica.com/files/diagram2.jpg){: width="450" height="251" style="display:block; margin:auto;" }
-
-        Visualiser l'opération du BIOTOX® avec la vidéo suivante:
-
-  - structure: iframe
-    url:
-      en:
-        url: http://www.youtube.com/embed/5N-m9VAQURI
-        frameborder: "0"
-        width: "560"
-        height: "315"
-        allowfullscreen: "allowfullscreen"
-      en:
-        url: http://www.youtube.com/embed/5N-m9VAQURI
-        frameborder: "0"
-        width: "560"
-        height: "315"
-        allowfullscreen: "allowfullscreen"

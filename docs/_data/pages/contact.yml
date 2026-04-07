@@ -1,6 +1,11 @@
 paths:
-  en: /content/contact/
-  fr: /fr/contactez/
+  en: /contact/
+  fr: /fr/contact/
+redirects:
+  en:
+  - /content/contact/
+  fr:
+  - /fr/contactez/
 titles:
   en: Contact
   fr: Contact
@@ -10,10 +15,8 @@ sections_header:
     img:
       en:
         image: /sites/biothermica.com/files/styles/entete_page/public/mainc89c.jpg
-        alt: We can help you in your greenhouse gas reduction goal
       fr:
         image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
-        alt:
 sections:
   - structure: nosidebartextwithtitle
     text:

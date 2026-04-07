@@ -1,0 +1,10 @@
+paths:
+  en: /projects/
+  fr: /fr/projets/
+titles:
+  en: Projects
+  fr: Projets
+sections_header:
+  - structure: header
+sections:
+  - structure: projects

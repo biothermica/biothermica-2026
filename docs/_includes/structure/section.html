@@ -11,6 +11,7 @@
 {% assign _img = _block.img[_lang] %}
 {% assign _tabs = _block.tabs[_lang] %}
 {% assign _title = page.title %}
+{% assign _type = page.type %}
 
 {% include libraries/spacing-classes.html %}
 {% capture spacing_classes %}
@@ -26,8 +27,12 @@
   {% include sections/nosidebartextwithtitle.html %}
 {% elsif _block.structure == 'bannerimage' %}
   {% include sections/bannerimage.html %}
+{% elsif _block.structure == 'documents' %}
+  {% include sections/documents.html %}
 {% elsif _block.structure == 'threetabs' %}
   {% include sections/threetabs.html %}
+{% elsif _block.structure == 'projects' %}
+  {% include sections/projects.html %}
 {% elsif _block.structure == 'recentpostsandspotlight' %}
   {% include sections/recentpostsandspotlight.html %}
 {% elsif _block.structure == 'twocolcta' %}

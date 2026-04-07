@@ -1,0 +1,16 @@
+paths:
+  en: /documents/policies/
+  fr: /fr/documents/politiques/
+redirects:
+  en:
+  - /documents/66.html
+  fr:
+  - /fr/documents/67.html
+titles:
+  en: Policies policies
+  fr: Politiques internes
+sections_header:
+  - structure: header
+sections:
+  - structure: documents
+    type: politique

@@ -1,6 +1,11 @@
 paths:
-  en: /air-pollution-control-0/
-  fr: /fr/content/assainissement-lair-0/
+  en: /air-pollution-control/advantages/
+  fr: /fr/assainissement-air/avantages/
+redirects:
+  en:
+  - /air-pollution-control-0/
+  fr:
+  - /fr/content/assainissement-lair-0/
 titles:
   en: Air Pollution Control
   fr: Assainissement de l'air
@@ -22,9 +27,16 @@ sections:
       - title: Operating Principle
         url: /air-pollution-control/
       - title: Applications
-        url: /content/air-pollution-control/
+        url: /air-pollution-control/applications/
       - title: Advantages
-        url: /content/air-pollution-control-0/
+        url: /air-pollution-control/advantages/
+      fr:
+      - title: Principe de fonctionnement
+        url: /fr/assainissement-air/
+      - title: Applications
+        url: /fr/assainissement-air/applications/
+      - title: Avantages
+        url: /fr/assainissement-air/avantages/
   - structure: nosidebartextwithtitle
     text:
       en: |

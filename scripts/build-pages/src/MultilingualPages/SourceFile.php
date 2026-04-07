@@ -91,6 +91,8 @@ class SourceFile {
       ],
       'title' => $this->title($lang),
       'permalink' => $path,
+      'tags' => $this->structure()['tags'] ?? [],
+      'mydate' => $this->structure()['mydate'] ?? '',
     ]);
   }
   public function title(string $lang) {

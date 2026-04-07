@@ -1,0 +1,16 @@
+paths:
+  en: /documents/brochures/
+  fr: /fr/documents/brochures/
+redirects:
+  en:
+  - /documents/4.html
+  fr:
+  - /fr/documents/11.html
+titles:
+  en: Brochures
+  fr: Brochures
+sections_header:
+  - structure: header
+sections:
+  - structure: documents
+    type: brochure

@@ -1,27 +1,36 @@
 - name:
     en: Air Pollution Control
     fr: Assainissement de l'air
-  faicon: "fa-solid fa-smog"
+  favicon: "fa-solid fa-smog"
+  path:
+    en: /air-pollution-control/
+    fr: /fr/assainissement-air/
   media:
-    path: /media/random01.jpg
+    path: /media/air-3-sq.jpg
     alt:
       en: Air Pollution Control
       fr: Assainissement de l'air
 - name:
     en: Landfill Gas Services
     fr: Biogaz
-  faicon: "fa-solid fa-recycle"
+  favicon: "fa-solid fa-recycle"
+  path:
+    en: /landfill-gas/
+    fr: /fr/content/services-biogaz/
   media:
-    path: /media/random02.jpg
+    path: /media/biogaz-7-sq.jpg
     alt:
       en: Landfill Gas Services
       fr: Biogaz
 - name:
     en: VAMOX®
     fr: VAMOX®
-  faicon: "fa-solid fa-droplet"
+  favicon: "fa-solid fa-fan"
+  path:
+    en: /content/vamox/
+    fr: /fr/content/vamox/
   media:
-    path: /media/random03.jpg
+    path: /media/vamox-7-sq.jpg
     alt:
       en: VAMOX®
       fr: VAMOX®

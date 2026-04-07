@@ -10,3 +10,4 @@ sections_header:
 sections:
   - structure: three-featured
   - structure: awards
+  - structure: recentpostsandspotlight

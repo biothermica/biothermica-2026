@@ -1,0 +1,13 @@
+{% comment %}
+sections:
+  - structure: projects
+{% endcomment %}
+{% for page in site.data.generated_pages %}
+  <ul>
+  {% if page.tags contains 'project' %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endif %}
+  </ul>
+{% endfor %}

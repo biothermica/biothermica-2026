@@ -1,0 +1,27 @@
+{% comment %}
+sections:
+  - structure: documents
+    type: communiqués
+{% endcomment %}
+<div class="wrapper style2">
+  <div class="inner">
+    <div class="container">
+      <div id="content">
+        <article>
+          <header class="major">
+            <h2>{{ _t[_type][_lang] }}</h2>
+          </header>
+          <ul>
+            {% for document in site.data.documents %}
+              {% if document.type == _type and document.lang == _lang %}
+                <li>
+                  <a href="{{ document.url }}">{{ document.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </article>
+      </div>
+    </div>
+  </div>
+</div>

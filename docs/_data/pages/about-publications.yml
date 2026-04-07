@@ -1,0 +1,16 @@
+paths:
+  en: /documents/publications/
+  fr: /fr/documents/publications/
+redirects:
+  en:
+  - /documents/3.html
+  fr:
+  - /fr/documents/10.html
+titles:
+  en: Publications
+  fr: Publications
+sections_header:
+  - structure: header
+sections:
+  - structure: documents
+    type: publication

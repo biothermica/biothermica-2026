@@ -25,11 +25,11 @@ sections:
           {% for item in site.data.divisions %}
           <div class="col-4 col-12-medium">
             <section>
-              <a href="#" class="image featured"><img src="{{ item.media.path }}" alt="{{ item.media.alt[_lang] }} " /></a>
-              <header class="second icon solid {{ item.faicon }}">
-              </header>
+              <a href="{{ item.path[_lang] }}" class="image featured"><img src="{{ item.media.path }}" alt="{{ item.media.alt[_lang] }} " /></a>
               <header>
-                <h3>{{ item.name[_lang] }}</h3>
+                <i class="my-icon second icon solid {{ item.favicon }}">
+                </i>
+                <h3><a href="{{ item.path[_lang] }}">{{ item.name[_lang] }}</a></h3>
                 <p>{{ item.subtitle[_lang] }}</p>
               </header>
             </section>

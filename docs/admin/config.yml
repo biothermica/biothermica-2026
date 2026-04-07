@@ -70,7 +70,7 @@ collections:
   - name: 'projects'
     create: true
     label: 'Projets'
-    folder: 'docs/_projects/_posts/'
+    folder: 'docs/_data/multi/projects'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} (ordre: {{ordre}})'
     sortableFields: ["ordre"]

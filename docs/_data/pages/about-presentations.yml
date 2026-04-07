@@ -1,0 +1,16 @@
+paths:
+  en: /documents/presentations/
+  fr: /fr/documents/presentations/
+redirects:
+  en:
+  - /documents/2.html
+  fr:
+  - /fr/documents/9.html
+titles:
+  en: Presentations
+  fr: Présentations
+sections_header:
+  - structure: header
+sections:
+  - structure: documents
+    type: présentation
