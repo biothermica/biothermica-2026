@@ -3,19 +3,16 @@ sections:
   - structure: documents
     type: communiqués
 {% endcomment %}
-<div class="wrapper style2">
+<div class="content-wrapper style2">
   <div class="inner">
     <div class="container">
       <div id="content">
         <article>
-          <header class="major">
-            <h2>{{ _t[_type][_lang] }}</h2>
-          </header>
           <ul>
-            {% for document in site.data.documents %}
+            {% for document in site.data.documents.items | order: "date" %}
               {% if document.type == _type and document.lang == _lang %}
                 <li>
-                  <a href="{{ document.url }}">{{ document.title }}</a>
+                  <a href="{{ document.document }}">{{ document.date }} - {{ document.title }}</a>
                 </li>
               {% endif %}
             {% endfor %}

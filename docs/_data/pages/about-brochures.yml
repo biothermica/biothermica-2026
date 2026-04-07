@@ -12,5 +12,6 @@ titles:
 sections_header:
   - structure: header
 sections:
+  - structure: title
   - structure: documents
     type: brochure
