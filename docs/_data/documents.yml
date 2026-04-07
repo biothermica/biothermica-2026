@@ -1,6 +1,347 @@
+
+
 items:
-  - title: Communiqués de presse
-    date: 2022-11-18
+  - type: communiqué
+    title: Biothermica announces the operational launch of the largest underground mine methane abatement facility in the United States
+    lang: en
+    date: 2022-11-10
+    document: /sites/biothermica.com/files/    document: /sites/biothermica.com/files/BiothermicaVamox-Virginia_PressRelease_2022-11-09_EN_R0.pdf
+  - type: communiqué
+    title: More than 330 businesses call on Heads of State to make nature assessment and disclosure mandatory at COP15
+    lang: en
+    date: 2022-10-26
+    document: /sites/biothermica.com/files/    document: /sites/biothermica.com/files/PressRelease-MakeItMandatory_EN.pdf
+  - type: communiqué
+    title: Un projet structurant aux Gonaïves
+    lang: en
+    date: 2022-06-06
+    document: /sites/biothermica.com/files/CommuniquePresse_MissionGonaives_2022-06-03.pdf
+  - type: communiqué
+    date: 2021-03-04
+    lang: en
+    title: Biothermica receives a grant for a climate cooperation project in Togo
+    document: /sites/biothermica.com/files/Press release_PCCI_Biothermica_EN.pdf
+  - type: communiqué
+    lang: en
+    date: 2014-03-25
+    title: Biothermica announces signature of electricity sales contract with Hydro-Quebec Distribution (French)
+    document: /sites/biothermica.com/files/Communiqué Projet Biomont_FINAL_2013-03-24.pdf
+  - type: communiqué
+    date: 2012-11-13
+    lang: en
+    title: Biothermica Wins International Clean Technology Award
+    document: /sites/biothermica.com/files/Biothermica Press Release_2012-11-13.pdf
+  - type: communiqué
+    date: 2011-07-27
+    title: Biothermica Appoints Nicolas Duplessis as VP, Air & Coal Mine Methane
+    lang: en
+    document: /sites/biothermica.com/files/20110727_Biothermica Press Release.pdf
+  - type: communiqué
+    date: 2011-07-13
+    title: Biothermica acquires control of Gazmont
+    lang: en
+    document: /sites/biothermica.com/files/Biothermica acquires control of Gazmont_20110713.pdf
+  - type: communiqué
+    date: 2010-10-05
+    lang: en
+    title: Biothermica and Walter Energy Agree to Develop Ventilation Air Methane Projects
+    document: /sites/biothermica.com/files/PR_BIO_WE_VAM_20101005.pdf
+  - type: communiqué
+    date: 2010-06-15
+    lang: en
+    title: Biothermica Registers First Coal Mine Methane Carbon Credits with the Climate Action Reserve
+    document: /sites/biothermica.com/files/BIOTHERMICA PRESS RELEASE_2010-06-15.pdf
+  - type: communiqué
+    lang: en
+    date: 2010-02-02
+    title: Biothermica Lists First Coal Mine Methane Project with the Climate Action Reserve
+    document: /sites/biothermica.com/files/2010-02-02_Biothermica Lists First VAM Project.pdf
+  - type: communiqué
+    date: 2009-10-22
+    lang: en
+    title: Biothermica Inducted into Canadian Hall of Excellence
+    document: /sites/biothermica.com/files/Biothermica press release ENG_22-10-09.pdf
+  - type: communiqué
+    date: 2009-04-13
+    lang: en
+    title: First-of-Kind Coal Mine Methane Mitigation System in America Now Fully Operational
+    document: /sites/biothermica.com/files/Biothermica Press Release_13-04-09.pdf
+  - type: communiqué
+    lang: en
+    date: 2008-04-28
+    title: Key Approval Granted for First-of-Kind Coal Mine Methane Mitigation Project in North America
+    document: /sites/biothermica.com/files/VAM JWR Press Release_Eng.pdf
+  - type: communiqué
+    date: 2007-02-06
+    lang: en
+    title: Biothermica Energy Sells 325,000 Carbon Credits to the government of Luxemburg
+    document: /sites/biothermica.com/files/Comm Luxembourg_Eng_02-2007.pdf
+  - type: présentation
+    date: 2018-01-08
+    lang: en
+    title: Waste collection, landfilling and biogas valorisation in Gonaïves (Haïti)
+    document: /media/Gonaives-Présentation_jan_2018.pdf
+  - type: présentation
+    date: 2014-11-20
+    lang: en
+    title: Key Outcomes of VAM Abatement Demo Project at Walter Energy’s Mine in Alabama
+    document: /sites/biothermica.com/files/2014-11-18 Key Outcomes VAM Demo Project - Walter Energy.pdf
+  - type: présentation
+    lang: en
+    date: 2013-03-14
+    title: VAMOX® Projects at Walter Energy’s Coal Mines
+    document: /sites/biothermica.com/files/2013-03-14_VAMOX Projects with Walter Energy.pdf
+  - type: présentation
+    lang: en
+    date: 2013-03-14
+    title: 2013 Methane Expo, Vancouver, Canada
+  - type: présentation
+    lang: en
+    date: 2012-09-24
+    title: VAMOX® Projects at Walter Energy's Coal Mines
+    document: /sites/biothermica.com/files/2012-09-24_VAMOX Projects with Walter Energy.pdf
+  - type: présentation
+    lang: en
+    date: 2011-09-22
+    title: VAMOX® Projects in Ukraine
+    document: /sites/biothermica.com/files/2011-09-22_Biothermica Presentation_Donetsk_FINAL.pdf
+  - date: 2013-06-01
+    title: "Energy for a Cleaner Environment, Canadian Business Journal"
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2013-06_Canadian Business Journal.pdf
+  - date: 2013-03-20
+    title: "Guy Drouin, Great Builder of the Polytechnique Foundation, Polytechnique Montreal Magazine (French)"
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2013-03_Article Guy Drouin_Poly.pdf
+  - date: 2012-04-12
+    title: Nicolas Duplessis, Biothermica, "Curbing Methane Emissions", World Coal CBM Review
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2012-04_Nicolas Duplessis_CBM Review.pdf
+  - date: 2012-01-01
+    title: US EPA & Eastern Research Group, "What next for VAM", World Coal CBM Review
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2012-01_EPA VAM Article.pdf
+  - date: 2010-05-01
+    title: US EPA & Ruby Canyon Engineering, "Managing Methane", World Coal CBM Review
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2010-05_World Coal_US EPA.pdf
+  - date: 2009-07-01
+    title: Biothermica, "Creating Value from VAM", Ecoal newsletter, World Coal Institute
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2009-07_World Coal Institute.pdf
+  - date: 2023-11-16
+    title: Inaugural ESG Report 2022
+    type: brochure
+    lang: en
+    document: /sites/biothermica.com/files/BiothermicaRapportInaugural2022_anglais_2023-11-15_RM_LG_.pdf
+  - date: 2018-11-27
+    title: Bioenergy Haïti
+    type: brochure
+    lang: en
+    document: /sites/biothermica.com/files/brochure-v2018-06-21-en-print.compressed.pdf
+  - date: 2013-02-03
+    title: VAMOX® Brochure
+    type: brochure
+    lang: en
+    document: /sites/biothermica.com/files/Biothermica VAM Brochure.pdf
+  - date: 2013-02-02
+    title: Gazmont 25 MW Power Plant
+    type: brochure
+    lang: en
+    document: /sites/biothermica.com/files/Gazmont 25 MW Power Plant.pdf
+  - date: 2013-02-02
+    title: Landfill Gas Expertise
+    type: brochure
+    lang: en
+    document: /sites/biothermica.com/files/Biothermica LFG_ENG.pdf
+  - date: 2013-02-01
+    title: Nejapa CDM LFG to Energy Project
+    type: brochure
+    lang: en
+    document: /sites/biothermica.com/files/Nejapa handbook_ENG.pdf
+  - date: 2013-01-31
+    title: Air Pollution Control Expertise
+    type: brochure
+    lang: en
+    document: /sites/biothermica.com/files/Leader in APC_Eng.pdf
+  - date: 2022-01-27
+    title: Prevention of psychological or sexual harassment and discrimination
+    type: politique
+    lang: en
+    document: /sites/biothermica.com/files/PI-020_WorkplaceHarrassmentPrevention_R0.pdf
+  - date: 2018-01-08
+    title: Collecte, enfouissement des déchets et valorisation énergétique du biogaz aux Gonaïves
+    type: présentation
     lang: fr
+    document: /sites/biothermica.com/files/Gonaives-Présentation jan 2018.pdf
+  - date: 2014-11-20
+    title: Key Outcomes of VAM Abatement Demo Project at Walter Energy’s Mine in Alabama
+    type: présentation
+    lang: en
+    document: /sites/biothermica.com/files/2014-11-18 Key Outcomes VAM Demo Project - Walter Energy.pdf
+  - date: 2013-03-14
+    title: Projets VAMOX® aux mines de Walter Energy (ENG)
+    type: présentation
+    lang: fr
+    document: /sites/biothermica.com/files/2013-03-14_VAMOX Projects with Walter Energy.pdf
+  - date: 2012-09-24
+    title: Projets VAMOX® aux mines de Walter Energy (ENG)
+    type: présentation
+    lang: fr
+    document: /sites/biothermica.com/files/2012-09-24_VAMOX Projects with Walter Energy.pdf
+  - date: 2011-09-22
+    title: Projets VAMOX® en Ukraine (ENG)
+    type: présentation
+    lang: fr
+    document: /sites/biothermica.com/files/2011-09-22_Biothermica Presentation_Donetsk_FINAL.pdf
+  - date: 2013-06-01
+    title: "Energy for a Cleaner Environment, Canadian Business Journal (anglais)"
+    type: publication
+    lang: fr
+    document: /sites/biothermica.com/files/2013-06_Canadian Business Journal.pdf
+  - date: 2013-03-20
+    title: "Guy Drouin, Grand Batisseur de la Fondation Polytechnique, Magazine de Polytechnique Montréal"
+    type: publication
+    lang: fr
+    document: /sites/biothermica.com/files/2013-03_Article Guy Drouin_Poly.pdf
+  - date: 2012-04-12
+    title: Nicolas Duplessis, Biothermica, "Curbing Methane Emissions", World Coal CBM Review
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2012-04_Nicolas Duplessis_CBM Review.pdf
+  - date: 2012-01-01
+    title: US EPA & Eastern Research Group, "What next for VAM", World Coal CBM Review
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2012-01_EPA VAM Article.pdf
+  - date: 2010-05-01
+    title: US EPA & Ruby Canyon Engineering, "Managing Methane", World Coal CBM Review
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2010-05_World Coal_US EPA.pdf
+  - date: 2009-07-01
+    title: Biothermica, "Creating Value from VAM", Ecoal newsletter, World Coal Institute
+    type: publication
+    lang: en
+    document: /sites/biothermica.com/files/2009-07_World Coal Institute.pdf
+  - date: 2023-11-16
+    title: Rapport inaugural ESG 2022
+    type: brochure
+    lang: fr
+    document: /sites/biothermica.com/files/BiothermicaRapportInaugural2022_2023-11-15_RM_LG.pdf
+  - date: 2018-11-27
+    title: Bioénergie Haïti
+    type: brochure
+    lang: fr
+    document: /sites/biothermica.com/files/brochure-v2018-06-21-fr-print.compressed.pdf
+  - date: 2013-03-07
+    title: Brochure VAMOX® (ENG)
+    type: brochure
+    lang: en
+    document: /sites/biothermica.com/files/Biothermica VAM Brochure.pdf
+  - date: 2013-03-06
+    title: Expertise en Assainissement de l'air
+    type: brochure
+    lang: fr
+    document: /sites/biothermica.com/files/Leader in APC_Fr.pdf
+  - date: 2013-03-04
+    title: Expertise Biogaz
+    type: brochure
+    lang: fr
+    document: /sites/biothermica.com/files/biogaz_fr.pdf
+  - date: 2013-03-01
+    title: Expertise en Chauffage Urbain
+    type: brochure
+    lang: fr
+    document: /sites/biothermica.com/files/Chauffage urbain par Gazmont.pdf
+  - date: 2013-02-26
+    title: Centrale Gazmont de Cogénération au Biogaz (25 MW)
+    type: brochure
+    lang: fr
+    document: /sites/biothermica.com/files/Centrale Gazmont_Valorisation biogaz Fr.pdf
+  - date: 2013-02-25
+    title: Projet Biogaz MDP à Nejapa, El Salvador (ENG)
+    type: brochure
+    lang: fr
+    document: /sites/biothermica.com/files/Nejapa handbook_ENG.pdf
+  - date: 2013-02-20
+    title: Projet Biogaz Pierrefonds
+    type: brochure
+    lang: fr
+    document: /sites/biothermica.com/files/feuillet_pierrefond_fr.pdf
+  - date: 2022-11-18
+    title: Des réductions annuelles de GES de plus de 300 000 TeqCO2/an grâce à Biothermica
     type: communiqué
-    document: /media/biothermicacommunique_investqcinternational_2022-11-15_16h15.pdf
+    lang: fr
+    document: /sites/biothermica.com/files/BiothermicaCommunique_InvestQcInternational_2022-11-15_16h15.pdf
+  - date: 2022-11-10
+    title: Biothermica annonce la mise en service de la plus importante installation de réduction d’émissions de méthane d’une mine souterraine aux États-Unis
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/BiothermicaVamox-Virginia_PressRelease_2022-11-08_FR_R0.pdf
+  - date: 2022-10-26
+    title: Plus de 330 entreprises sollicitent les Chefs d’État pour qu’ils rendent l’évaluation et la divulgation des impacts et dépendances à l’égard de la nature obligatoires lors de la COP15
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/PressRelease-MakeItMandatory_v1-FR.pdf
+  - date: 2021-03-04
+    title: Biothermica reçoit un soutien pour un projet de coopération climatique au Togo
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/Communiqué de presse - Projet TOGO.pdf
+  - date: 2012-11-13
+    title: Biothermica, récipiendaire du prestigieux prix de la grappe mondiale des technologies propres
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2012-11-13_Prix GCCA_Communiqué.pdf
+  - date: 2011-07-13
+    title: Biothermica acquiert le contrôle de Gazmont
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2011-07-13_BT acquiert Gazmont_Communiqué.pdf
+  - date: 2011-07-07
+    title: Biothermica nomme Nicolas Duplessis en tant que Vice-président, Air et Méthane Minier
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2011-07-27_VP Air et Méthane Minier_Communiqué.pdf
+  - date: 2010-10-10
+    title: Biothermica et Walter Energy signent un accord pour le développement de projets de méthane minier
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2010-10-05_Partenariat WE_Communiqué.pdf
+  - date: 2010-07-15
+    title: Biothermica enregistre les premiers crédits générés par son projet de méthane minier aux États-Unis
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2010-06-15_Projet VAM Enregistré_Communiqué.pdf
+  - date: 2009-10-22
+    title: Biothermica rejoint le Temple canadien de l’excellence
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2009-10-22_BT rejoint Temple Excellence_Communiqué.pdf
+  - date: 2009-04-20
+    title: Projet de destruction du méthane issu d’une mine de charbon maintenant opérationnel, une première en Amérique
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2009-04-20_Projet JWR 4-9 Opérationnel_Communiqué.pdf
+  - date: 2008-04-28
+    title: Autorisation clé obtenue pour un projet novateur de destruction des émissions de méthane
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2008-04-28_Autorisation MSHA_Communiqué.pdf
+  - date: 2007-02-06
+    title: Biothermica vend 325 000 crédits de carbone au gouvernement du Luxembourg
+    type: communiqué
+    lang: fr
+    document: /sites/biothermica.com/files/2007-02-06_CERs Luxembourg_Communiqué.pdf
+  - date: 2022-01-27
+    title: Prévention du harcèlement psychologique ou sexuel et de la discrimination
+    type: politique
+    lang: fr
+    document: /sites/biothermica.com/files/PI-020_PreventionHarcelementLieuTravail_R0.pdf
