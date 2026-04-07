@@ -1,10 +1,18 @@
+{% assign _data = site.data.pages[page.data] %}
+{% assign _lang = page.lang %}
+{% if _lang == 'en' %}
+  {% assign _default = '/' %}
+{% else %}
+  {% assign _default = '/fr/' %}
+{% endif %}
+{% assign _redirect = _data.paths[_lang] | default: _default %}
+
 <!doctype html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL={{ page.redirectTo }}" />
+    <meta http-equiv="refresh" content="0; URL={{ _redirect }}" />
   </head>
   <body>
-    <p>This page has moved to <a href="{{ page.redirectTo }}">{{ page.redirectTo }}</a>.</p>
-    <p>Cette page a déménagé vers <a href="{{ page.redirectTo }}">{{ page.redirectTo }}</a>.</p>
+    <p>{{ site.data.translations["This page has moved to"][_lang] }} <a href="{{ _redirect }}">{{ _redirect }}</a>.</p>
   </body>
 </html>

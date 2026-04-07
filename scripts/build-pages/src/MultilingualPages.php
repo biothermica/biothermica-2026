@@ -5,17 +5,23 @@ namespace myproject;
 use myproject\MultilingualPages\SourceFile;
 
 class MultilingualPages {
-  const SOURCEDIR = '/app/docs/_data/pages';
+  protected $type;
+  public function __construct($type) {
+    $this->type = $type;
+  }
   public function build() {
     foreach ($this->sourceFiles() as $file) {
       $file->build();
     }
   }
+  public function sourceDir() {
+    return "/app/docs/_data/{$this->type}";
+  }
   public function sourceFiles() {
     $ret = [];
-    foreach (scandir(self::SOURCEDIR, SCANDIR_SORT_ASCENDING) as $filename) {
+    foreach (scandir($this->sourceDir(), SCANDIR_SORT_ASCENDING) as $filename) {
       if (substr($filename, -4) === '.yml') {
-        $ret[] = new SourceFile(self::SOURCEDIR . '/' . $filename);
+        $ret[] = new SourceFile($this->sourceDir() . '/' . $filename);
       }
     }
     return $ret;

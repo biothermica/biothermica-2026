@@ -3,4 +3,5 @@ _site
 
 # These are auto-generated
 # See also ./scripts/clear.sh
-docs/_generated*
+docs/generated*
+docs/_data/generated_pages

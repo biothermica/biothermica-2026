@@ -8,8 +8,11 @@ class Section {
     $this->filename = $filename;
   }
   public function build() {
+    if (!file_exists('/app/docs/_data/generated_pages/')) {
+      mkdir('/app/docs/_data/generated_pages/', 0777, TRUE);
+    }
     file_put_contents(
-      '/app/docs/_data/pages/style-guide--sections--' . $this->id() . '.yml',
+      '/app/docs/_data/generated_pages/style-guide--sections--' . $this->id() . '.yml',
       $this->toYaml(),
     );
   }

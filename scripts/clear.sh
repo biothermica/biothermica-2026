@@ -3,4 +3,5 @@ set -e
 
 # See also .gitignore
 
-rm -rf ./docs/_generated*
+rm -rf ./docs/generated*
+rm -rf ./docs/_data/generated_pages
