@@ -104,8 +104,6 @@ collections:
         required: false
   - name: "documents"
     label: "Documents"
-    summary: '{{fields.date}} - {{fields.title}} ({{ fields.lang }})'
-    sortableFields: ["date", "lang", "title"]
     files:
       - file: "docs/_data/documents.yml"
         label: "Liste des documents"
@@ -113,6 +111,8 @@ collections:
         fields:
           - label: "Documents"
             name: "items"
+            summary: '{{fields.date}} - {{fields.title}} ({{ fields.lang }})'
+            sortableFields: ["date", "lang", "title"]
             widget: "list"
             fields:
               - label: "Titre"
