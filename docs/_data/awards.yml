@@ -1,5 +1,6 @@
 items:
-  - name:
+  - title: Energia
+    name:
       en: Energia
       fr: Energia
     media:
@@ -8,7 +9,8 @@ items:
         en: Energia
         fr: Energia
 
-  - name:
+  - title: GCCA Award - Best of bioenergy
+    name:
       en: GCCA Award - Best of bioenergy
       fr: GCCA Award - Best of bioenergy
     media:
@@ -17,7 +19,8 @@ items:
         en: GCCA Award - Best of bioenergy
         fr: GCCA Award - Best of bioenergy
 
-  - name:
+  - title: Phénix de l'environnement - Lauréat 2010
+    name:
       en: Phénix de l'environnement - Lauréat 2010
       fr: Phénix de l'environnement - Lauréat 2010
     media:
@@ -26,7 +29,8 @@ items:
         en: Phénix de l'environnement - Lauréat 2010
         fr: Phénix de l'environnement - Lauréat 2010
 
-  - name:
+  - title: Prix Mercuriades
+    name:
       en: Prix Mercuriades
       fr: Prix Mercuriades
     media:
@@ -35,7 +39,8 @@ items:
         en: Prix Mercuriades
         fr: Prix Mercuriades
 
-  - name:
+  - title: Prix Air & Waste Management Association
+    name:
       en: Prix Air & Waste Management Association
       fr: Prix Air & Waste Management Association
     media:
@@ -44,7 +49,8 @@ items:
         en: Prix Air & Waste Management Association
         fr: Prix Air & Waste Management Association
 
-  - name:
+  - title: Excellence Canada Award
+    name:
       en: Excellence Canada Award
       fr: Excellence Canada Award
     media:
@@ -53,7 +59,8 @@ items:
         en: Excellence Canada Award
         fr: Excellence Canada Award
 
-  - name:
+  - title: Prix du Réseau Environnement
+    name:
       en: Prix du Réseau Environnement
       fr: Prix du Réseau Environnement
     media:
@@ -62,7 +69,8 @@ items:
         en: Prix du Réseau Environnement
         fr: Prix du Réseau Environnement
 
-  - name:
+  - title: clean50_2019
+    name:
       en: clean50_2019
       fr: clean50_2019
     media:

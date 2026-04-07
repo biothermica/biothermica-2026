@@ -67,6 +67,58 @@ collections:
         widget: 'list'
         required: false
         field: {label: Redirect, name: redirect, widget: string, required: false}
+  - name: 'communiques'
+    create: true
+    label: 'Communiqués'
+    folder: 'docs/_data/multi/communiques/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    # I'd like the summary to show the date, but I can't because of
+    # https://github.com/decaporg/decap-cms/issues/7753, so I have to
+    # use a mydate field.
+    summary: "{{fields.mydate}} - {{title}}"
+    sortableFields: ["mydate"]
+    fields:
+      - label: 'Titre en français'
+        name: 'title'
+        widget: 'string'
+      - label: 'Titre en anglais'
+        name: 'title_en'
+        widget: 'string'
+        required: false
+      - label: 'Date (yyyy-mm-dd)'
+        name: 'mydate'
+        widget: 'string'
+        required: false
+      - label: 'Contenu en français'
+        name: 'body'
+        widget: 'markdown'
+        required: false
+      - label: 'Contenu en anglais'
+        name: 'body_en'
+        widget: 'markdown'
+        required: false
+      - label: 'Documents en français'
+        name: 'documents'
+        widget: 'list'
+        required: false
+        field: {label: Document, name: document, widget: file, required: false}
+      - label: 'Documents en anglais'
+        name: 'documents_en'
+        widget: 'list'
+        required: false
+        field: {label: Document, name: document, widget: file, required: false}
+      - label: 'Redirects en français'
+        description: "Ajouter des redirections pour les anciennes URL de cet article. Par exemple: /fr/ancien-article"
+        name: 'redirects'
+        widget: 'list'
+        required: false
+        field: {label: Redirect, name: redirect, widget: string, required: false}
+      - label: 'Redirects en anglais'
+        description: "Ajouter des redirections pour les anciennes URL de cet article. Par exemple: /en/old-article"
+        name: 'redirects_en'
+        widget: 'list'
+        required: false
+        field: {label: Redirect, name: redirect, widget: string, required: false}
   - name: 'projects'
     create: true
     label: 'Projets'
@@ -113,6 +165,9 @@ collections:
             name: "items"
             widget: "list"
             fields:
+              - label: "Titre administratif (non affiché sur le site)"
+                name: "title"
+                string: "string"
               - label: "Name"
                 name: "name"
                 widget: "object"
