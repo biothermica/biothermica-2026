@@ -4,8 +4,10 @@ namespace myproject\MultilingualPages;
 
 class SourceFile {
   protected string $filepath;
-  public function __construct(string $filepath) {
+  protected string $type;
+  public function __construct(string $filepath, string $type) {
     $this->filepath = $filepath;
+    $this->type = $type;
   }
   public function build() {
     foreach ($this->paths() as $lang => $path) {
@@ -83,7 +85,10 @@ class SourceFile {
     return yaml_emit([
       'layout' => $layout,
       'lang' => $lang,
-      'data' => $this->id(),
+      'data' => [
+        'id' => $this->id(),
+        'type' => $this->type,
+      ],
       'title' => $this->title($lang),
       'permalink' => $path,
     ]);

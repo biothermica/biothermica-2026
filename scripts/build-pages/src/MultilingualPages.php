@@ -21,7 +21,7 @@ class MultilingualPages {
     $ret = [];
     foreach (scandir($this->sourceDir(), SCANDIR_SORT_ASCENDING) as $filename) {
       if (substr($filename, -4) === '.yml') {
-        $ret[] = new SourceFile($this->sourceDir() . '/' . $filename);
+        $ret[] = new SourceFile($this->sourceDir() . '/' . $filename, $this->type);
       }
     }
     return $ret;

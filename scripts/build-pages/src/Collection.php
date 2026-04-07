@@ -11,6 +11,10 @@ class Collection {
     $this->options = $options;
   }
 
+  public function id() {
+    return $this->id;
+  }
+
   public function build() {
     foreach ($this->items() as $file) {
       $file->build();

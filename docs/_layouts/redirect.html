@@ -1,4 +1,4 @@
-{% assign _data = site.data.pages[page.data] %}
+{% assign _data = site.data.[page.data.type][page.data.id] %}
 {% assign _lang = page.lang %}
 {% if _lang == 'en' %}
   {% assign _default = '/' %}
