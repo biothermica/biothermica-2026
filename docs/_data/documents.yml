@@ -1,16 +1,14 @@
-
-
 items:
   - type: communiqué
     title: Biothermica announces the operational launch of the largest underground mine methane abatement facility in the United States
     lang: en
     date: 2022-11-10
-    document: /sites/biothermica.com/files/    document: /sites/biothermica.com/files/BiothermicaVamox-Virginia_PressRelease_2022-11-09_EN_R0.pdf
+    document: /sites/biothermica.com/files/BiothermicaVamox-Virginia_PressRelease_2022-11-09_EN_R0.pdf
   - type: communiqué
     title: More than 330 businesses call on Heads of State to make nature assessment and disclosure mandatory at COP15
     lang: en
     date: 2022-10-26
-    document: /sites/biothermica.com/files/    document: /sites/biothermica.com/files/PressRelease-MakeItMandatory_EN.pdf
+    document: /sites/biothermica.com/files/PressRelease-MakeItMandatory_EN.pdf
   - type: communiqué
     title: Un projet structurant aux Gonaïves
     lang: en
