@@ -4,11 +4,15 @@ namespace myproject;
 
 class Collection {
   protected $id;
-  protected $options;
+  protected $callback;
 
-  public function __construct($id, $options) {
+  public function __construct($id, $callback) {
     $this->id = $id;
-    $this->options = $options;
+    $this->callback = $callback;
+  }
+
+  public function callback() {
+    return $this->callback;
   }
 
   public function id() {

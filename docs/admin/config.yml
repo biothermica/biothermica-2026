@@ -15,20 +15,10 @@ media_folder: "docs/media"
 public_folder: "/media"
 
 collections:
-  - name: 'bla'
-    create: true
-    label: 'Bla'
-    folder: 'docs/_data/multi/bla/'
-    slug: '{{title}}'
-    summary: '{{title}}'
-    fields:
-      - label: 'Titre en français'
-        name: 'title'
-        widget: 'string'
   - name: 'articles'
     create: true
     label: 'Articles'
-    folder: 'docs/_articles/_posts/'
+    folder: 'docs/_data/multi/articles/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # I'd like the summary to show the date, but I can't because of
     # https://github.com/decaporg/decap-cms/issues/7753, so I have to

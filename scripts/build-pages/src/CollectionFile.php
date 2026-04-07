@@ -29,7 +29,7 @@ class CollectionFile {
   public function toYaml() {
     return yaml_emit([
       '_original' => $this->structure()
-    ]);
+    ] + $this->collection->callback()($this->structure()));
   }
 
 }
