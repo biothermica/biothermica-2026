@@ -6,7 +6,13 @@ paths:
 titles:
   en: Section text
   fr: Section text
+sections_header:
+- structure: header
 template: style-guide--sections
 categories:
 - style-guide--sections
+sections:
+- structure: text
+  text: |
+    Your text here.
 ...

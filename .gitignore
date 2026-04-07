@@ -3,14 +3,4 @@ _site
 
 # These are auto-generated
 # See also ./scripts/clear.sh
-docs/air-pollution-control-0*
-docs/air-pollution-control*
-docs/carbon-and-energy*
-docs/content*
-docs/generated_articles*
-docs/generated_redirects*
-docs/history*
-docs/index.html
-docs/landfill-gas*
-docs/fr*
-docs/style-guide*
+docs/_generated*

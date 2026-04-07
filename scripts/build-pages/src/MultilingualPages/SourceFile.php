@@ -23,8 +23,8 @@ class SourceFile {
       $path .= '/';
     }
     file_put_contents(
-      '/app/docs' . $path . 'index.html',
-      $this->toYaml($name, $id),
+      '/app/docs/_generated_pages/_posts/.html',
+      $this->toYaml($name, $id, $path),
     );
     $path_no_slash = substr($path, 0, -1);
     if ($path_no_slash) {
@@ -37,12 +37,13 @@ class SourceFile {
       );
     }
   }
-  public function toYaml(string $lang, string $id) {
+  public function toYaml(string $lang, string $id, string $path) {
     return yaml_emit([
       'layout' => 'march2026',
       'lang' => $lang,
       'data' => $id,
       'title' => $this->title($lang),
+      'permalink' => $path,
     ]);
   }
   public function title(string $lang) {

@@ -6,7 +6,13 @@ paths:
 titles:
   en: Section nosidebartextwithtitle
   fr: Section nosidebartextwithtitle
+sections_header:
+- structure: header
 template: style-guide--sections
 categories:
 - style-guide--sections
+sections:
+- structure: nosidebartextwithtitle
+  text: |
+    Your text here.
 ...

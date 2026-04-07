@@ -6,6 +6,8 @@ paths:
 titles:
   en: Section awards
   fr: Section awards
+sections_header:
+- structure: header
 template: style-guide--sections
 categories:
 - style-guide--sections

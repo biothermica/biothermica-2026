@@ -34,6 +34,11 @@ class Section {
         'en' => 'Section ' . $this->id(),
         'fr' => 'Section ' . $this->id(),
       ],
+      'sections_header' => [
+        [
+          'structure' => 'header',
+        ],
+      ],
       'template' => 'style-guide--sections',
       'categories' => [ 'style-guide--sections' ],
     ];

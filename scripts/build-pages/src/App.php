@@ -11,7 +11,7 @@ class App {
     // Make sure each section has a page explaining how to use it.
     $this->sections()->build();
     // Make sure each multilingual page has its translations built.
-    // $this->multilingualPages()->build();
+    $this->multilingualPages()->build();
     // $this->articles()->build();
     // $this->projects()->build();
   }

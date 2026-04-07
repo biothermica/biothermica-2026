@@ -6,7 +6,11 @@ paths:
 titles:
   en: Section title
   fr: Section title
+sections_header:
+- structure: header
 template: style-guide--sections
 categories:
 - style-guide--sections
+sections:
+- structure: title
 ...
