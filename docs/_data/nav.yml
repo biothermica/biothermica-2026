@@ -30,6 +30,8 @@ en:
       - url: /documents/66.html
         title: Internal policies
         hidefromfooter: 1
+      - url: /privacy-policy/
+        title: Privacy Policy
   - url: /air-pollution-control/
     title: Air Pollution
     footercol: 1
@@ -110,6 +112,8 @@ fr:
       - url: /fr/documents/67.html
         title: Politiques internes
         hidefromfooter: 1
+      - url: /fr/renseignements-personnels/
+        title: Renseignements personnels
   - url: /fr/content/oxydation-thermique-regenerative/
     title: Assainissement de l'air
     footercol: 1
