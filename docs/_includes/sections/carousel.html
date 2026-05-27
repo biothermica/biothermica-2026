@@ -1,0 +1,16 @@
+{% comment %}
+sections:
+  - structure: carousel
+{% endcomment %}
+{% include libraries/sections-carousel.html %}
+<div id="banner">
+<section class="splide" data-splide='{"type":"loop"}' aria-label="Splide Basic HTML Example">
+  <div class="splide__track">
+    <ul class="splide__list">
+      {% for _slide in _slides %}
+        {% include sections/carousel/slide.html %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+</div>

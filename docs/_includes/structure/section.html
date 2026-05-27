@@ -12,6 +12,8 @@
 {% assign _tabs = _block.tabs[_lang] %}
 {% assign _title = page.title %}
 {% assign _type = _block.type %}
+{% assign _colors = _block.colors %}
+{% assign _slides = _block.slides[_lang] %}
 
 {% include libraries/spacing-classes.html %}
 {% capture spacing_classes %}
@@ -21,10 +23,14 @@
 {% if _block.structure == '' %}
 {% elsif _block.structure == 'text' %}
   {% include sections/text.html %}
+{% elsif _block.structure == 'colors' %}
+  {% include sections/colors.html %}
 {% elsif _block.structure == 'nosidebartext' %}
   {% include sections/nosidebartext.html %}
 {% elsif _block.structure == 'nosidebartextwithtitle' %}
   {% include sections/nosidebartextwithtitle.html %}
+{% elsif _block.structure == 'carousel' %}
+  {% include sections/carousel.html %}
 {% elsif _block.structure == 'bannerimage' %}
   {% include sections/bannerimage.html %}
 {% elsif _block.structure == 'documents' %}

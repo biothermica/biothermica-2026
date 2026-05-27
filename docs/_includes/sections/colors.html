@@ -1,0 +1,24 @@
+{% comment %}
+sections:
+  - structure: colors
+    colors:
+      - hex: '#133178'
+        name:
+          en: Dark blue
+          fr: Bleu foncé
+{% endcomment %}
+<div class="wrapper style2">
+  <div class="inner">
+    <div class="container">
+      <div id="content">
+        <article>
+          {% for color in _colors %}
+            <div class="color-swatch" style="height: 50px; width: 50px; background-color: {{ color.hex }};">
+            </div>
+            <p>{{ color.name[_lang] }} ({{ color.hex }})</p>
+          {% endfor %}
+        </article>
+      </div>
+    </div>
+  </div>
+</div>

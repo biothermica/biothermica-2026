@@ -1,7 +1,9 @@
 - name:
     en: Air Pollution Control
     fr: Assainissement de l'air
-  favicon: "fa-solid fa-smog"
+  subtitle:
+    en: Our air pollution control solutions have been successfully deployed across industrial facilities, reducing emissions.
+    fr: Nos solutions de contrôle de la pollution de l'air ont été déployées avec succès dans des installations industrielles, réduisant considérablement les émissions nocives et favorisant des opérations plus propres et conformes.
   path:
     en: /air-pollution-control/
     fr: /fr/assainissement-air/
@@ -13,6 +15,9 @@
 - name:
     en: Landfill Gas Services
     fr: Biogaz
+  subtitle:
+    en: Our landfill gas services have been successfully delivered at numerous sites, significantly improving gas recovery, maximizing energy value.
+    fr: Nos services de contrôle de la pollution de l'air ont été livrés avec succès sur de nombreux sites, améliorant considérablement la récupération du gaz, maximisant la valeur énergétique et réduisant les impacts environnementaux.
   favicon: "fa-solid fa-recycle"
   path:
     en: /landfill-gas/
@@ -23,9 +28,11 @@
       en: Landfill Gas Services
       fr: Biogaz
 - name:
-    en: VAMOX®
-    fr: VAMOX®
-  favicon: "fa-solid fa-fan"
+    en: Coal mine methane
+    fr: Méthane minier
+  subtitle:
+    en: Our VAMOX® solution has been successfully implemented in several coal mines, significantly reducing methane emissions and improving safety.
+    fr: Notre solution VAMOX® a été mise en œuvre avec succès dans plusieurs mines de charbon, réduisant considérablement les émissions de méthane et améliorant la sécurité.
   path:
     en: /content/vamox/
     fr: /fr/content/vamox/

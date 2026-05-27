@@ -1,5 +1,5 @@
 #titleBar {
-  background: white !important;
+  background: #13253A !important;
 }
 /** mobile logo */
 #titleBar .title {
@@ -10,6 +10,24 @@
   margin-left: auto;
   margin-right: auto;
   margin-top: 5px;
+}
+@media (min-width: 980px) {
+  #titleBar {
+    height: 70px;
+  }
+  #titleBar .title {
+    width: 360px;
+    height: 57px;
+    background: url(/media/biothermica-logo-and-text-360x57.png) no-repeat;
+    background-size: 360px 57px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+  }
+  #titleBar .toggle:before {
+    font-size: 40px;
+    padding: 10px 40px;
+  }
 }
 /** desktop logo */
 #logo {
@@ -31,23 +49,6 @@
   width: fit-content !important;
 }
 @media (min-width: 981px) {
-  #header .inner {
-    background: white !important;
-  }
-  #header h1 {
-    top: 35px !important;
-    /** center logo */
-    left: 0 !important;
-    right: 0 !important;
-    margin-inline: auto !important;
-    width: fit-content !important;
-  }
-  #logo {
-    background: url(/media/biothermica-logo-and-text-360x57.png) no-repeat;
-    width: 270px;
-    height: 43px;
-    background-size: 270px 43px;
-  }
 }
 /** No shadow on nav */
 #nav a {
@@ -55,7 +56,7 @@
 }
 /** Apply only to top level */
 #nav > ul > li > a {
-  color: #133178 !important;
+  color: #C5DCE4 !important;
 }
 #header-wrapper.homepage-header {
   background: url('/media/air-1-bg.jpg');
@@ -66,7 +67,7 @@
 }
 #header-wrapper.homepage-header .header-wrapper-filter {
   backdrop-filter: blur(5px) brightness(50%) !important;
-  padding: 44px 0 !important;
+  padding: 44px 0 0 0 !important;
 }
 /** Sinon le menu va sur deux lignes */
 #nav > ul > li > a, #nav > ul > li > span {
@@ -99,4 +100,34 @@
 }
 .content-wrapper {
   padding: 0 0 50px 0;
+}
+.hexagon {
+  width: 211.2px;
+  height: 240px;
+  background: #E2EEF2;
+  clip-path: polygon(
+    50% 100%,
+    0% 75%,
+    0% 25%,
+    50% 0%,
+    100% 25%,
+    100% 75%
+  );
+}
+.my-container-header {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+#footer-wrapper {
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgba(0,0,0,.95), rgba(0,0,0,.6)), url('/media/flame.png');
+  background-size: auto;
+  background-position: bottom left;
+}
+#main-wrapper {
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgba(255,255,255,.95), rgba(255,255,255,0)), url('/media/flame-light-blue.png');
+  background-size: 350px 553.8px;
+  background-position: bottom left;
 }

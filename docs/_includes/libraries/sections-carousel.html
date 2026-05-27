@@ -1,0 +1,16 @@
+{% capture _lib %}
+{% if lib_phase == 'build' %}
+  {% assign lib_sections_carousel = 'true' %}
+{% elsif lib_phase == 'css' %}
+  {% if lib_sections_carousel == 'true' %}
+    <link rel="stylesheet" href="/third-party/splide/splide.min.css" />
+    <style>{% include sections/carousel.css %}</style>
+  {% endif %}
+{% elsif lib_phase == 'js' %}
+  {% if lib_sections_carousel == 'true' %}
+    <script src="/third-party/splide/splide.min.js"></script>
+    <script>{% include sections/carousel.js %}</script>
+  {% endif %}
+{% endif %}
+{% endcapture %}
+{{ _lib | strip_newlines | replace: "  ", " " | replace: "  ", " " }}

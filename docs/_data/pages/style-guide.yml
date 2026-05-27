@@ -15,11 +15,31 @@ sections:
         * [Biothermica texte 1138 x 183](/media/biothermica-text-1138x183.png)
         * [Biothermica logo et texte 947 x 150](/media/biothermica-logo-and-text-947x150.png)
         * [Biothermica logo et texte 360 x 57](/media/biothermica-logo-and-text-360x57.png)
-        * Couleur bleu foncé: #133178
       en: |
         * [logo png transparent 300 x 246](/media/biothermica-logo-300x246.png)
         * [logo png transparent 726 x 595](/media/biothermica-logo-726x595.png)
         * [Biothermica text 1138 x 183](/media/biothermica-text-1138x183.png)
         * [Biothermica logo and text 947 x 150](/media/biothermica-logo-and-text-947x150.png)
         * [Biothermica logo and text 360 x 57](/media/biothermica-logo-and-text-360x57.png)
-        * Dark blue color: #133178
+  - structure: colors
+    colors:
+      - hex: '#13253A'
+        name:
+          en: Very dark blue
+          fr: Bleu très foncé
+      - hex: '#133178'
+        name:
+          en: Dark blue
+          fr: Bleu foncé
+      - hex: '#5792BB'
+        name:
+          en: Medium blue
+          fr: Bleu moyen
+      - hex: '#C5DCE4'
+        name:
+          en: Light blue
+          fr: Bleu clair
+      - hex: '#E2EEF2'
+        name:
+          en: Very light blue
+          fr: Bleu très clair

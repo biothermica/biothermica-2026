@@ -39,7 +39,7 @@
 			<!-- Header -->
 				<div id="header-wrapper" {% if page.tags contains 'homepage' %} class="homepage-header" {% endif %}">
 					<div class="header-wrapper-filter">
-						<div class="container">
+						<div class="container my-container-header">
 							{{ _content_header }}
 						</div>
 					</div>
@@ -134,7 +134,9 @@
 			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/breakpoints.min.js"></script>
 			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/util.js"></script>
 			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/main.js?token={{ site.time | date: '%s' }}"></script>
-
+			<script src="/js/my.js?token={{ site.time | date: '%s' }}"></script>
+			{% assign lib_phase = 'js' %}
+			{% include libraries/all.html %}
 	</body>
 </html>
 {% assign template="layouts/page.html" %}

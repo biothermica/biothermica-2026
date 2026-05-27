@@ -24,3 +24,7 @@ On March 3rd the Biothermica team has decided to use the [HTML 5 up Zero Four](h
 Nous avons établi un système avec les items suivantes:
 
 * layout: une
+
+## Carousel
+
+We are using https://splidejs.com/guides/getting-started/.

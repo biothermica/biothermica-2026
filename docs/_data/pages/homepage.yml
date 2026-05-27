@@ -6,7 +6,22 @@ titles:
   fr: Accueil
 sections_header:
   - structure: header
-  - structure: banner
+  - structure: carousel
+    slides:
+      en:
+        - image: /media/vamox-5.jpg
+          title: "Our energy in the service of the environment"
+        - image: /media/biogaz-3.jpg
+          title: "Proven expertise"
+        - image: /media/air-2.jpg
+          title: "Sustainable infrastructure"
+      fr:
+        - image: /media/vamox-5.jpg
+          title: "Notre énergie au service de l'environnement"
+        - image: /media/biogaz-3.jpg
+          title: "Un savoir-faire éprouvé"
+        - image: /media/air-2.jpg
+          title: "Une infrastructure durable"
 sections:
   - structure: three-featured
   - structure: awards
