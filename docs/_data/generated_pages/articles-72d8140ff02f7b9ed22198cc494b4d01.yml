@@ -1,0 +1,44 @@
+---
+_original:
+  title: "Mise en service de la plus importante unit\xE9 de r\xE9duction d\u2019\xE9missions
+    de m\xE9thane d\u2019une mine souterraine par Biothermica"
+  title_en: Launch of the largest underground mine methane abatement unit by Biothermica
+  mydate: "2022-11-10"
+  body: "Biothermica annonce la mise en service de la plus importante installation
+    de r\xE9duction d\u2019\xE9missions de m\xE9thane d\u2019une mine souterraine
+    aux \xC9tats-Unis."
+  body_en: Biothermica announces the operational launch of the largest underground
+    mine methane abatement facility in the United States.
+  image:
+  - /sites/biothermica.com/files/styles/large/public/VamoxPleineEchelle2022_PhotoMOD7637.jpg?itok=RHyMYOTF
+  image_en:
+  - /sites/biothermica.com/files/styles/large/public/VamoxPleineEchelle2022_PhotoMOD7637.jpg?itok=RHyMYOTF
+  documents:
+  - /sites/biothermica.com/files/BiothermicaVamox-Virginia_PressRelease_2022-11-08_FR_R0_0.pdf
+  documents_en:
+  - /sites/biothermica.com/files/BiothermicaVamox-Virginia_PressRelease_2022-11-09_EN_R0.pdf
+  redirects:
+  - "/fr/content/mise-en-service-plus-importante-unit\xE9-r\xE9duction-d\u2019\xE9missions-m\xE9thane-d\u2019une-mine-souterraine"
+  redirects_en:
+  - /content/launch-largest-underground-mine-methane-abatement-unit-biothermica
+titles:
+  en: Launch of the largest underground mine methane abatement unit by Biothermica
+  fr: "Mise en service de la plus importante unit\xE9 de r\xE9duction d\u2019\xE9missions
+    de m\xE9thane d\u2019une mine souterraine par Biothermica"
+mydate: "2022-11-10"
+paths:
+  en: /articles/2022-11-10/launch-of-the-largest-underground-mine-methane-abatement-unit-by-biothermica/
+  fr: /fr/articles/2022-11-10/mise-en-service-de-la-plus-importante-unit-de-r-duction-d-missions-de-m-thane-d-une-mine-souterraine-par-biothermica/
+tags:
+- article
+sections:
+- structure: nosidebartextwithtitle
+  text:
+    en: Biothermica announces the operational launch of the largest underground mine
+      methane abatement facility in the United States.
+    fr: "Biothermica annonce la mise en service de la plus importante installation
+      de r\xE9duction d\u2019\xE9missions de m\xE9thane d\u2019une mine souterraine
+      aux \xC9tats-Unis."
+sections_header:
+- structure: header
+...

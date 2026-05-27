@@ -1,0 +1,23 @@
+---
+_original:
+  title: 2001 - Montreal
+  ordre: j
+  title_fr: "Montr\xE9al"
+  title_en: Montreal
+  image: /media/pr10.png
+  description: "* *Ann\xE9e*: 2001\n* *Province/\xC9tat*: Qu\xE9bec\n* *Pays*: Canada\n*
+    *Capacit\xE9*: 18 000 pcs/min\n* *Industrie*: Art graphique et imprimerie\n* *Type
+    de projet*: Assainissement de l'air"
+  description_en: |-
+    * *Year*: 2001
+    * *Province/State*: Quebec
+    * *Country*: Canada
+    * *Capacity*: 18,000 SCFM
+    * *Industry*: Printing
+    * *Project Type*: Air Pollution Control
+title:
+  en: Montreal
+  fr: 2001 - Montreal
+tags:
+- project
+...

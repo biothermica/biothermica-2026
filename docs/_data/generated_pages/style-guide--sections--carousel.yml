@@ -1,0 +1,16 @@
+---
+id: /app/docs/_includes/sections/carousel.html
+paths:
+  en: /style-guide/sections/carousel/
+  fr: /fr/guide-style/sections/carousel/
+titles:
+  en: Section carousel
+  fr: Section carousel
+sections_header:
+- structure: header
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: carousel
+...

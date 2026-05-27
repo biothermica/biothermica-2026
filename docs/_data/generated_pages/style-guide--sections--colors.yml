@@ -1,0 +1,21 @@
+---
+id: /app/docs/_includes/sections/colors.html
+paths:
+  en: /style-guide/sections/colors/
+  fr: /fr/guide-style/sections/colors/
+titles:
+  en: Section colors
+  fr: Section colors
+sections_header:
+- structure: header
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: colors
+  colors:
+  - hex: '#133178'
+    name:
+      en: Dark blue
+      fr: "Bleu fonc\xE9"
+...

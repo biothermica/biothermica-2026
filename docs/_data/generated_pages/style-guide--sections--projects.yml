@@ -1,0 +1,16 @@
+---
+id: /app/docs/_includes/sections/projects.html
+paths:
+  en: /style-guide/sections/projects/
+  fr: /fr/guide-style/sections/projects/
+titles:
+  en: Section projects
+  fr: Section projects
+sections_header:
+- structure: header
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: projects
+...
