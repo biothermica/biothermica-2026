@@ -1,0 +1,42 @@
+---
+_original:
+  title: "Biothermica fait l'objet d'un article dans le journal M\xE9tro"
+  title_en: "Biothermica is the subject of an article in the newspaper M\xE9tro"
+  mydate: "2013-06-17"
+  body: "Cet article fut\_r\xE9dig\xE9 par M. Steven Guilbeault, cofondateur et directeur
+    principal d'\xC9quiterre. Il\_pr\xE9sente Biothermica ainsi que ses projets r\xE9alis\xE9s
+    au Qu\xE9bec et \xE0 l'international, appliqu\xE9s \xE0\_la gestion et valorisation
+    du m\xE9thane \xE9mis par\_les sites d'enfouissement et les mines de charbon souterraines.\nVoici
+    [l'acc\xE8s \xE0 l'article](http://journalmetro.com/opinions/la-vie-en-vert/329800/une-mine-dor-dans-nos-dechets/)"
+  body_en: "This article was written by Mr. Steven Guilbeault, Co-Founder and Senior
+    Director of \xC9quiterre. He presents Biothermica as well as its projects carried
+    out in Quebec and applied to the management and recovery of methane emitted by
+    sites underground coal mines. \nHere is [access to the article](http://journalmetro.com/opinions/la-vie-en-vert/329800/une-mine-dor-dans-nos-dechets/)"
+  redirects:
+  - "/fr/content/biothermica-fait-lobjet-dun-article-dans-journal-m\xE9tro"
+  redirects_en:
+  - "/fr/content/biothermica-fait-lobjet-dun-article-dans-journal-m\xE9tro"
+titles:
+  en: "Biothermica is the subject of an article in the newspaper M\xE9tro"
+  fr: "Biothermica fait l'objet d'un article dans le journal M\xE9tro"
+mydate: "2013-06-17"
+paths:
+  en: /articles/2013-06-17/biothermica-is-the-subject-of-an-article-in-the-newspaper-m-tro/
+  fr: /fr/articles/2013-06-17/biothermica-fait-l-objet-d-un-article-dans-le-journal-m-tro/
+tags:
+- article
+sections:
+- structure: nosidebartextwithtitle
+  text:
+    en: "This article was written by Mr. Steven Guilbeault, Co-Founder and Senior
+      Director of \xC9quiterre. He presents Biothermica as well as its projects carried
+      out in Quebec and applied to the management and recovery of methane emitted
+      by sites underground coal mines. \nHere is [access to the article](http://journalmetro.com/opinions/la-vie-en-vert/329800/une-mine-dor-dans-nos-dechets/)"
+    fr: "Cet article fut\_r\xE9dig\xE9 par M. Steven Guilbeault, cofondateur et directeur
+      principal d'\xC9quiterre. Il\_pr\xE9sente Biothermica ainsi que ses projets
+      r\xE9alis\xE9s au Qu\xE9bec et \xE0 l'international, appliqu\xE9s \xE0\_la gestion
+      et valorisation du m\xE9thane \xE9mis par\_les sites d'enfouissement et les
+      mines de charbon souterraines.\nVoici [l'acc\xE8s \xE0 l'article](http://journalmetro.com/opinions/la-vie-en-vert/329800/une-mine-dor-dans-nos-dechets/)"
+sections_header:
+- structure: header
+...

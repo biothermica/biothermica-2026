@@ -1,0 +1,17 @@
+---
+id: /app/docs/_includes/sections/documents.html
+paths:
+  en: /style-guide/sections/documents/
+  fr: /fr/guide-style/sections/documents/
+titles:
+  en: Section documents
+  fr: Section documents
+sections_header:
+- structure: header
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: documents
+  type: "communiqu\xE9s"
+...
