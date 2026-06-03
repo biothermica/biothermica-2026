@@ -1,17 +1,17 @@
 - name:
-    en: Air Pollution Control
-    fr: Assainissement de l'air
+    en: Coal mine methane
+    fr: Méthane minier
   subtitle:
-    en: Our air pollution control solutions have been successfully deployed across industrial facilities, reducing emissions.
-    fr: Nos solutions de contrôle de la pollution de l'air ont été déployées avec succès dans des installations industrielles, réduisant considérablement les émissions nocives et favorisant des opérations plus propres et conformes.
+    en: Our VAMOX® solution has been successfully implemented in several coal mines, significantly reducing methane emissions and improving safety.
+    fr: Notre solution VAMOX® a été mise en œuvre avec succès dans plusieurs mines de charbon, réduisant considérablement les émissions de méthane et améliorant la sécurité.
   path:
-    en: /air-pollution-control/
-    fr: /fr/assainissement-air/
+    en: /content/vamox/
+    fr: /fr/content/vamox/
   media:
-    path: /media/air-3-sq.jpg
+    path: /media/vamox-7-sq.jpg
     alt:
-      en: Air Pollution Control
-      fr: Assainissement de l'air
+      en: VAMOX®
+      fr: VAMOX®
 - name:
     en: Landfill Gas Services
     fr: Biogaz
@@ -28,16 +28,16 @@
       en: Landfill Gas Services
       fr: Biogaz
 - name:
-    en: Coal mine methane
-    fr: Méthane minier
+    en: Air Pollution Control
+    fr: Assainissement de l'air
   subtitle:
-    en: Our VAMOX® solution has been successfully implemented in several coal mines, significantly reducing methane emissions and improving safety.
-    fr: Notre solution VAMOX® a été mise en œuvre avec succès dans plusieurs mines de charbon, réduisant considérablement les émissions de méthane et améliorant la sécurité.
+    en: Our air pollution control solutions have been successfully deployed across industrial facilities, reducing emissions.
+    fr: Nos solutions de contrôle de la pollution de l'air ont été déployées avec succès dans des installations industrielles, réduisant considérablement les émissions nocives et favorisant des opérations plus propres et conformes.
   path:
-    en: /content/vamox/
-    fr: /fr/content/vamox/
+    en: /air-pollution-control/
+    fr: /fr/assainissement-air/
   media:
-    path: /media/vamox-7-sq.jpg
+    path: /media/air-3-sq.jpg
     alt:
-      en: VAMOX®
-      fr: VAMOX®
+      en: Air Pollution Control
+      fr: Assainissement de l'air
