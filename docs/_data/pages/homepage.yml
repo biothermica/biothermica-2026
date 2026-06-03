@@ -9,19 +9,25 @@ sections_header:
   - structure: carousel
     slides:
       en:
-        - image: /media/vamox-5.jpg
-          title: "Our energy in the service of the environment"
+        - image: /media/assainissement-3-compressed.jpg
+          title: "Air Pollution Control"
+          link: /air-pollution-control/
         - image: /media/biogaz-3.jpg
-          title: "Proven expertise"
-        - image: /media/air-2.jpg
-          title: "Sustainable infrastructure"
+          title: "Landfill Gas Services"
+          link: /landfill-gas/
+        - image: /media/vamox-6_upscaled.jpg
+          title: "Coal Mine Methane"
+          link: /content/vamox/
       fr:
-        - image: /media/vamox-5.jpg
-          title: "Notre énergie au service de l'environnement"
+        - image: /media/assainissement-3-compressed.jpg
+          title: "Assainissement de l'air"
+          link: /fr/assainissement-de-lair/
         - image: /media/biogaz-3.jpg
-          title: "Un savoir-faire éprouvé"
-        - image: /media/air-2.jpg
-          title: "Une infrastructure durable"
+          title: "Biogaz"
+          link: /fr/biogaz/
+        - image: /media/vamox-6_upscaled.jpg
+          title: "Méthane minier"
+          link: /fr/methane-minier/
 sections:
   - structure: three-featured
   - structure: awards
