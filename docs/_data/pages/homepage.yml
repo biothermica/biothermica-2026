@@ -9,26 +9,30 @@ sections_header:
   - structure: carousel
     slides:
       en:
-        - image: /media/assainissement-3-compressed.jpg
-          title: "Air Pollution Control"
-          link: /air-pollution-control/
-        - image: /media/biogaz-3.jpg
-          title: "Landfill Gas Services"
-          link: /landfill-gas/
         - image: /media/vamox-6_upscaled.jpg
           title: "Coal Mine Methane"
           link: /content/vamox/
-      fr:
+        - image: /media/biogaz-9.jpg
+          title: "Landfill Gas Services"
+          link: /landfill-gas/
         - image: /media/assainissement-3-compressed.jpg
-          title: "Assainissement de l'air"
-          link: /fr/assainissement-de-lair/
-        - image: /media/biogaz-3.jpg
-          title: "Biogaz"
-          link: /fr/biogaz/
+          title: "Air Pollution Control"
+          link: /air-pollution-control/
+      fr:
         - image: /media/vamox-6_upscaled.jpg
           title: "Méthane minier"
           link: /fr/methane-minier/
+        - image: /media/biogaz-9.jpg
+          title: "Biogaz"
+          link: /fr/biogaz/
+        - image: /media/assainissement-3-compressed.jpg
+          title: "Assainissement de l'air"
+          link: /fr/assainissement-de-lair/
 sections:
+  - structure: presentationtext
+    text:
+      en: "Biothermica is a leading provider of sustainable solutions for air pollution control, landfill gas services, and coal mine methane management. With a commitment to environmental stewardship and innovation, we help our clients reduce emissions, recover valuable resources, and improve safety across various industries."
+      fr: "Biothermica est un fournisseur de premier plan de solutions durables pour le contrôle de la pollution de l'air, les services de biogaz et la gestion du méthane minier. Avec un engagement envers la protection de l'environnement et l'innovation, nous aidons nos clients à réduire les émissions, à récupérer des ressources précieuses et à améliorer la sécurité dans divers secteurs."
   - structure: three-featured
   - structure: awards
   - structure: recentpostsandspotlight

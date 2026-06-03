@@ -16,17 +16,18 @@
     height: 70px;
   }
   #titleBar .title {
-    width: 360px;
-    height: 57px;
+    width: 288px;
+    height: 47px;
     background: url(/media/biothermica-logo-and-text-360x57.png) no-repeat;
-    background-size: 360px 57px;
+    background-size: 288px 47px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5px;
+    margin-top: 11px;
   }
   #titleBar .toggle:before {
     font-size: 40px;
-    padding: 10px 40px;
+    padding: 15px 40px;
+    color: #133178;
   }
 }
 /** desktop logo */
@@ -130,4 +131,10 @@
   background-image: linear-gradient(rgba(255,255,255,.95), rgba(255,255,255,0)), url('/media/flame-light-blue.png');
   background-size: 350px 553.8px;
   background-position: bottom left;
+}
+.wrapper {
+  padding: 0 !important;
+}
+.wrapper:last-of-type {
+  padding-bottom: 7em !important;
 }
