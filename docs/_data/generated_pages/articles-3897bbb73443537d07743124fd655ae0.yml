@@ -1,0 +1,34 @@
+---
+_original:
+  title: 'Offre d''emploi : Technicien en suivi environnemental'
+  title_en: 'Job Offer: Environmental Monitoring Technician'
+  mydate: "2016-01-12"
+  body: "## Technicien de suivi environnemental et op\xE9ration de r\xE9seau de captage
+    de biogaz\nCe poste a \xE9t\xE9 combl\xE9."
+  body_en: |-
+    ## Environmental monitoring technician and operation of the biogas capture network
+    This position has been filled.
+  redirects:
+  - /fr/content/offre-demploi-technicien-en-suivi-environnemental
+  redirects_en:
+  - /fr/content/offre-demploi-technicien-en-suivi-environnemental
+titles:
+  en: 'Job Offer: Environmental Monitoring Technician'
+  fr: 'Offre d''emploi : Technicien en suivi environnemental'
+mydate: "2016-01-12"
+paths:
+  en: /articles/2016-01-12/job-offer-environmental-monitoring-technician/
+  fr: /fr/articles/2016-01-12/offre-d-emploi-technicien-en-suivi-environnemental/
+tags:
+- article
+sections:
+- structure: nosidebartextwithtitle
+  text:
+    en: |-
+      ## Environmental monitoring technician and operation of the biogas capture network
+      This position has been filled.
+    fr: "## Technicien de suivi environnemental et op\xE9ration de r\xE9seau de captage
+      de biogaz\nCe poste a \xE9t\xE9 combl\xE9."
+sections_header:
+- structure: header
+...

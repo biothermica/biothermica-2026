@@ -1,0 +1,36 @@
+---
+_original:
+  title: Rapport inaugural ESG 2022
+  title_en: Inaugural ESG Report 2022
+  mydate: "2023-11-16"
+  body: Les premiers pas ESG de Biothermica
+  body_en: Biothermica's first steps in ESG
+  image:
+  - /sites/biothermica.com/files/styles/large/public/RapportInauguralESG2022_Couverture_0f943.png?itok=_KRYU7EG
+  image_en:
+  - /sites/biothermica.com/files/styles/large/public/RapportInauguralESG2022_Couverturef448.png?itok=uwpPhRKD
+  documents:
+  - /sites/biothermica.com/files/BiothermicaRapportInaugural2022_2023-11-15_RM_LG_0.pdf
+  documents_en:
+  - /sites/biothermica.com/files/BiothermicaRapportInaugural2022_en_2023-11-15_RM_LG.pdf
+  redirects:
+  - /fr/content/rapport-inaugural-esg-2022-0
+  redirects_en:
+  - /content/inaugural-esg-report-2022-0
+titles:
+  en: Inaugural ESG Report 2022
+  fr: Rapport inaugural ESG 2022
+mydate: "2023-11-16"
+paths:
+  en: /articles/2023-11-16/inaugural-esg-report-2022/
+  fr: /fr/articles/2023-11-16/rapport-inaugural-esg-2022/
+tags:
+- article
+sections:
+- structure: nosidebartextwithtitle
+  text:
+    en: Biothermica's first steps in ESG
+    fr: Les premiers pas ESG de Biothermica
+sections_header:
+- structure: header
+...

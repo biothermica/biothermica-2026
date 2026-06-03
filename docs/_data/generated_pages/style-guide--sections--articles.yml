@@ -1,0 +1,16 @@
+---
+id: /app/docs/_includes/sections/articles.html
+paths:
+  en: /style-guide/sections/articles/
+  fr: /fr/guide-style/sections/articles/
+titles:
+  en: Section articles
+  fr: Section articles
+sections_header:
+- structure: header
+template: style-guide--sections
+categories:
+- style-guide--sections
+sections:
+- structure: recentpostsandspotlight
+...
