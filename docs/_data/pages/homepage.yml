@@ -12,7 +12,7 @@ sections_header:
         - image: /media/vamox-6_upscaled.jpg
           title: "Coal Mine Methane"
           link: /content/vamox/
-        - image: /media/biogaz-9.jpg
+        - image: /media/biogaz-10.png
           title: "Landfill Gas Services"
           link: /landfill-gas/
         - image: /media/assainissement-3-compressed.jpg
@@ -22,7 +22,7 @@ sections_header:
         - image: /media/vamox-6_upscaled.jpg
           title: "Méthane minier"
           link: /fr/methane-minier/
-        - image: /media/biogaz-9.jpg
+        - image: /media/biogaz-10.png
           title: "Biogaz"
           link: /fr/biogaz/
         - image: /media/assainissement-3-compressed.jpg
