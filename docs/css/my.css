@@ -138,3 +138,6 @@
 .wrapper:last-of-type {
   padding-bottom: 7em !important;
 }
+#navPanel {
+  background: #133178 !important;
+}
