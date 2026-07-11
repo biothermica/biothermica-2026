@@ -8,12 +8,12 @@ items:
     title: More than 330 businesses call on Heads of State to make nature assessment and disclosure mandatory at COP15
     lang: en
     date: 2022-10-26
-    document: /sites/biothermica.com/files/PressRelease-MakeItMandatory_EN.pdf
+    document: /sites/biothermica.com/files/pressrelease-makeItmandatory_en.pdf
   - type: communiqué
     title: Un projet structurant aux Gonaïves
     lang: en
     date: 2022-06-06
-    document: /sites/biothermica.com/files/CommuniquePresse_MissionGonaives_2022-06-03.pdf
+    document: /sites/biothermica.com/files/communiquepresse-missiongonaives-2022-06-03.pdf
   - type: communiqué
     date: 2021-03-04
     lang: en
@@ -23,7 +23,7 @@ items:
     lang: en
     date: 2014-03-25
     title: Biothermica announces signature of electricity sales contract with Hydro-Quebec Distribution (French)
-    document: /sites/biothermica.com/files/Communiqué Projet Biomont_FINAL_2013-03-24.pdf
+    document: /sites/biothermica.com/files/communique-projet-biomont-final-2013-03-24.pdf
   - type: communiqué
     date: 2012-11-13
     lang: en
@@ -78,7 +78,7 @@ items:
     date: 2018-01-08
     lang: en
     title: Waste collection, landfilling and biogas valorisation in Gonaïves (Haïti)
-    document: /media/Gonaives-Présentation_jan_2018.pdf
+    document: /sites/biothermica.com/files/gonaives-presentation-jan-2018.pdf
   - type: présentation
     date: 2014-11-20
     lang: en
@@ -172,12 +172,12 @@ items:
     title: Prevention of psychological or sexual harassment and discrimination
     type: politique
     lang: en
-    document: /sites/biothermica.com/files/PI-020_WorkplaceHarrassmentPrevention_R0.pdf
+    document: /sites/biothermica.com/files/pi-020-workplace-harrassment-prevention-r0.pdf
   - date: 2018-01-08
     title: Collecte, enfouissement des déchets et valorisation énergétique du biogaz aux Gonaïves
     type: présentation
     lang: fr
-    document: /sites/biothermica.com/files/Gonaives-Présentation jan 2018.pdf
+    document: /sites/biothermica.com/files/gonaives-presentation-jan-2018.pdf
   - date: 2014-11-20
     title: Key Outcomes of VAM Abatement Demo Project at Walter Energy’s Mine in Alabama
     type: présentation
@@ -247,7 +247,7 @@ items:
     title: Expertise en Assainissement de l'air
     type: brochure
     lang: fr
-    document: /sites/biothermica.com/files/Leader in APC_Fr.pdf
+    document: /sites/biothermica.com/files/leader-in-apc-fr.pdf
   - date: 2013-03-04
     title: Expertise Biogaz
     type: brochure
@@ -292,52 +292,52 @@ items:
     title: Biothermica reçoit un soutien pour un projet de coopération climatique au Togo
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/Communiqué de presse - Projet TOGO.pdf
+    document: /sites/biothermica.com/files/communique-de-presse-projet-togo.pdf
   - date: 2012-11-13
     title: Biothermica, récipiendaire du prestigieux prix de la grappe mondiale des technologies propres
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2012-11-13_Prix GCCA_Communiqué.pdf
+    document: /sites/biothermica.com/files/2012-11-13-prix-gcca-communique.pdf
   - date: 2011-07-13
     title: Biothermica acquiert le contrôle de Gazmont
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2011-07-13_BT acquiert Gazmont_Communiqué.pdf
+    document: /sites/biothermica.com/files/2011-07-13-bt-acquiert-gazmont-communique.pdf
   - date: 2011-07-07
     title: Biothermica nomme Nicolas Duplessis en tant que Vice-président, Air et Méthane Minier
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2011-07-27_VP Air et Méthane Minier_Communiqué.pdf
+    document: /sites/biothermica.com/files/2011-07-27-vp-air-et-methane-minier-communique.pdf
   - date: 2010-10-10
     title: Biothermica et Walter Energy signent un accord pour le développement de projets de méthane minier
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2010-10-05_Partenariat WE_Communiqué.pdf
+    document: /sites/biothermica.com/files/2010-10-05-partenariat-we-communique.pdf
   - date: 2010-07-15
     title: Biothermica enregistre les premiers crédits générés par son projet de méthane minier aux États-Unis
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2010-06-15_Projet VAM Enregistré_Communiqué.pdf
+    document: /sites/biothermica.com/files/2010-06-15-projet-vam-enregistre-communique.pdf
   - date: 2009-10-22
     title: Biothermica rejoint le Temple canadien de l’excellence
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2009-10-22_BT rejoint Temple Excellence_Communiqué.pdf
+    document: /sites/biothermica.com/files/2009-10-22-bt-rejoint-temple-excellence-communique.pdf
   - date: 2009-04-20
     title: Projet de destruction du méthane issu d’une mine de charbon maintenant opérationnel, une première en Amérique
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2009-04-20_Projet JWR 4-9 Opérationnel_Communiqué.pdf
+    document: /sites/biothermica.com/files/2009-04-20-projet-jwr-4-9-operationnel-communique.pdf
   - date: 2008-04-28
     title: Autorisation clé obtenue pour un projet novateur de destruction des émissions de méthane
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2008-04-28_Autorisation MSHA_Communiqué.pdf
+    document: /sites/biothermica.com/files/2008-04-28-autorisation-msha-communique.pdf
   - date: 2007-02-06
     title: Biothermica vend 325 000 crédits de carbone au gouvernement du Luxembourg
     type: communiqué
     lang: fr
-    document: /sites/biothermica.com/files/2007-02-06_CERs Luxembourg_Communiqué.pdf
+    document: /sites/biothermica.com/files/2007-02-06-cers-luxembourg-communique.pdf
   - date: 2022-01-27
     title: Prévention du harcèlement psychologique ou sexuel et de la discrimination
     type: politique
