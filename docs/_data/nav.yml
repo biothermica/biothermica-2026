@@ -134,15 +134,15 @@ fr:
         title: Business Approach
       - url: /content/first-vamox-project/
         title: First Vamox Project
-  - url: /fr/content/methane-minier.html
+  - url: /fr/methane-minier/
     title: Méthane Minier
     footercol: 1
     children:
-      - url: /fr/content/methane-minier.html
+      - url: /fr/methane-minier/
         title: Modèle d'affaires
-      - url: /fr/content/vamox-rto.html
+      - url: /fr/content/vamox-rto/
         title: VAMOX® OTR
-      - url: /fr/content/ventilation-du-methane-etats-unis.html
+      - url: /fr/content/ventilation-du-methane-etats-unis/
         title: Ventilation du méthane, É.-U.
   - url: /fr/content/services-biogaz/
     title: Biogaz
