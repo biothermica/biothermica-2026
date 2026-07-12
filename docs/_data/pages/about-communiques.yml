@@ -3,9 +3,9 @@ paths:
   fr: /fr/documents/communiques/
 redirects:
   en:
-  - /documents/1.html
+  - /documents/1/
   fr:
-  - /fr/documents/53.html
+  - /fr/documents/53/
 titles:
   en: Press releases
   fr: Communiqués de presse

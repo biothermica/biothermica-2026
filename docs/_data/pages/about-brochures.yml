@@ -3,9 +3,9 @@ paths:
   fr: /fr/documents/brochures/
 redirects:
   en:
-  - /documents/4.html
+  - /documents/4/
   fr:
-  - /fr/documents/11.html
+  - /fr/documents/11/
 titles:
   en: Brochures
   fr: Brochures
