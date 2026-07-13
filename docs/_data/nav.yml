@@ -134,11 +134,11 @@ fr:
         title: Business Approach
       - url: /content/first-vamox-project/
         title: First Vamox Project
-  - url: /fr/methane-minier/
+  - url: /fr/content/methane-minier/
     title: Méthane Minier
     footercol: 1
     children:
-      - url: /fr/methane-minier/
+      - url: /fr/content/methane-minier/
         title: Modèle d'affaires
       - url: /fr/content/vamox-rto/
         title: VAMOX® OTR

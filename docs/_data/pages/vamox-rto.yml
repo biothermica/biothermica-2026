@@ -1,0 +1,62 @@
+paths:
+  en: /content/vamox-rto/
+  fr: /fr/content/vamox-rto/
+titles:
+  en: Vamox® OTR
+  fr: Vamox® OTR
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        Methane emitted by coal mines, known as coal mine methane (CMM), is a potent greenhouse gas
+        (GHG). Currently, only a portion of CMM emissions is captured for safety purposes and, in some cases,
+        used as an energy source. However, 50% to 70% of all CMM comes from mine ventilation air and
+        remains unused. Although this [ventilation air methane (VAM)](https://www.epa.gov/cmop/coal-mine-methane-sources) accounts for annual GHG emissions of
+        more than 300 million tonnes of CO₂ equivalent (tCO₂e), its low methane concentration has, until
+        now, been a barrier to its utilization.
+
+        Major advances now enable coal mines to take advantage of VAM:
+
+        - VAM destruction technology has been proven, and Biothermica's [VAMOX® system](/sites/biothermica.com/files/biothermica-vam-brochure-4.pdf) is
+          commercially available.
+        - Biothermica offers mines a range of commercial approaches, including royalty-based
+          agreements that allow VAMOX® projects to be developed without any upfront capital investment
+          by the mines.
+        - Around the world, the sale of carbon credits ensures the financial viability of emission
+          reduction projects. By securing revenue in hard currency, carbon credits provide a reliable
+          means of financing greenhouse gas emission reduction initiatives.
+
+        These projects will contribute to the fight against climate change and promote sustainable development.
+
+      fr: |
+        Le méthane émis par les mines de charbon, connu sous le nom de coal mine methane (CMM), est
+        un puissant gaz à effet de serre (GES). Actuellement, seule une fraction des émissions de CMM est
+        récupérée à des fins sécuritaires et parfois utilisée comme source d’énergie. Cependant, 50% à
+        70% de tout le CMM provient de l’air de ventilation des mines et demeure inexploité. Bien que ce
+        méthane d’air ventilé (appelé couramment [ventilation air methane ou VAM](https://www.epa.gov/cmop/coal-mine-methane-sources)) représente des
+        émissions annuelles de GES de plus de 300 millions de tonnes de CO2 équivalent (tCO2e), sa
+        faible concentration en méthane avait jusqu’à présent été une barrière à son utilisation.
+
+        Des avancées majeures permettent maintenant aux mines de charbon de mettre le VAM à profit:
+
+        - La technologie de destruction du VAM est prouvée et le [système VAMOX®](/sites/biothermica.com/files/biothermica-vam-brochure-4.pdf) de Biothermica est
+          disponible sur le marché
+        - Biothermica propose aux mines une variété d’approches commerciales, dont le versement de
+          royautés permettant le développement de projets VAMOX® sans investissement en capital de la
+          part des mines
+        - À travers le monde, la vente de crédits de carbone assure la rentabilité des projets de réduction
+          d’émissions. En sécurisant des revenus en devises courantes, les crédits de carbone offrent un
+          moyen sûr de financer des projets de réduction d’émissions de GES.
+
+        Ces projets contribueront ainsi à la lutte contre les changements climatiques et au développement durable.
