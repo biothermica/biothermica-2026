@@ -1,0 +1,42 @@
+paths:
+  en: /air-pollution-control/projects/27/45/
+  fr: /fr/assainissement/projets/27/45/
+titles:
+  en: Projects
+  fr: Projets
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/themes/biothermica/css/images/2-1.png
+        alt:
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        [Return to projects](/projects/)
+
+        ### Deschambault
+          ![Deschambault](/sites/biothermica.com/files/styles/medium/public/deschambault0c85.png)
+
+          - **Province/State:** Quebec
+          - **Country:** Canada
+          - **Capacity:** 6 000 SCFM
+          - **Industry:** Anode manufacturing plant (aluminium smelters)
+          - **Project Type:** Air Pollution Control
+
+      fr: |
+        [Retour aux projets](/fr/assainissement/projets/)
+
+        ### Deschambault
+          ![Deschambault](/sites/biothermica.com/files/styles/medium/public/deschambault0c85.png)
+
+          - **Province/État:** Quebec
+          - **Pays:** Canada
+          - **Capacité:** 6 000 SCFM
+          - **Industrie:** Usine de fabrication d’anodes (aluminerie)
+          - **Type de projet:** Air Pollution Control

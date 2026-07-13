@@ -1,0 +1,43 @@
+paths:
+  en: /air-pollution-control/projects/29/52/
+  fr: /fr/assainissement/projets/29/52/
+titles:
+  en: Projects
+  fr: Projets
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/themes/biothermica/css/images/2-1.png
+        alt:
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        [Return to projects](/projects/)
+
+        ### Napierville
+          ![Napierville](/sites//biothermica.com/files/styles/medium/public/napiervillec034.png)
+
+          - **Province/State:** Quebec
+          - **Country:** Canada
+          - **Capacity:** 3 000 SCFM
+          - **Industry:** Petrochemicals
+          - **Project Type:** Air Pollution Control
+
+      fr: |
+        [Retour aux projets](/fr/assainissement/projets/)
+
+        ### Napierville
+
+        ![Napierville](/sites/biothermica.com/files/styles/medium/public/napiervillec034.png)
+
+        - **Province/État:** Quebec
+        - **Pays:** Canada
+        - **Capacité:** 3 000 SCFM
+        - **Industrie:** Pétrochimie
+        - **Type de projet:** Air Pollution Control

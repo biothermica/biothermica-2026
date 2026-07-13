@@ -1,0 +1,56 @@
+paths:
+  en: /content/ventilation-air-methane-usa/
+  fr: /fr/content/ventilation-du-methane-etats-unis/
+titles:
+  en: Ventilation Air Methane in the USA
+  fr: Ventilation du methane, Etats-Unis
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+      fr:
+        image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
+        alt:
+
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        ![Coal mine ventilation air methane in Brookwood, Alabama](https://www.biothermica.com/sites/biothermica.com/files/styles/large/public/2010-05-10_Overview%20with%20shaft3e83.png)
+
+        Biothermica’s pioneering VAMOX® coal mine ventilation air methane (VAM) abatement system has
+        been fully operational since March 2009 at Walter Energy’s Mine No. 4 in Brookwood, Alabama.
+        This VAMOX® project represents the first VAM abatement initiative at an active mine in the USA.
+        [See the brochure by the US Environmental Protection Agency](https://www.epa.gov/sites/production/files/2017-01/documents/vam_technologies-1-2017.pdf.pdf).
+
+        Over the first four years of operation, the effective availability of the system has been 93%. As of
+        March 2013, a total of 80,766 tCO2e had been abated by the project and verified by an
+        independent third party in accordance with the requirements of the rigorous U.S. Climate Action
+        reserve standard.
+
+        Based on the success of this project, Biothermica and Walter Energy have recently partnered to
+        develop VAM abatement projects at all of Walter Energy’s suitable ventilation shafts. Future full-scale
+        VAMOX® systems will have a capacity of about 130,000 ft3/min and multiple units will be
+        installed in parallel to process greater air flows.
+
+      fr: |
+
+        ![Ventilation du méthane minier - technologie VAMOX - en Alabama](https://www.biothermica.com/sites/biothermica.com/files/styles/large/public/2010-05-10_Overview%20with%20shaft3e83.png?itok=9HnSZo_N)
+
+        Le système Vamox® de Biothermica est opérationnel depuis le mois de mars 2009 à la mine No. 4
+        de Walter Energy, en Alabama (États-Unis). Ce projet Vamox® représente la première activité de
+        destruction du méthane contenu dans l'air de ventilation d'une mine de charbon souterraine aux
+        États-Unis. [Voir la brochure du Environmental Protection Agency des États-Unis](https://www.epa.gov/sites/production/files/2017-01/documents/vam_technologies-1-2017.pdf.pdf).
+
+        Durant ses quatre premières années d'opération, la disponibilité du système fut de 93%. Au mois
+        de mars 2013, 80.766 teqCO2 en réduction d'émissions avaient été générées par le projet et
+        vérifiées par une entité indépendante en accord avec les exigences du standard Climate Action
+        Reserve (CAR) aux États-Unis.
+
+        S'appuyant sur le succès de ce projet, Biothermica et Walter Energy ont formé un partenariat pour
+        le développement de projets similaires à l'ensemble des puits de ventilation du groupe minier. Les
+        systèmes VAMOX® à venir auront une capacité d'approximativement 130,000 pi3/min et plusieurs
+        unités seront installées en parallèle pour traiter des débits plus importants.

@@ -1,0 +1,78 @@
+paths:
+  en: /air-pollution-control/projects/29/43/
+  fr: /fr/assainissement/projets/29/43/
+titles:
+  en: Projects
+  fr: Projets
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/themes/biothermica/css/images/2-1.png
+        alt:
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        [Return to projects](/projects/)
+
+        ### Drummondville
+          ![Drummondville](/sites/biothermica.com/files/styles/medium/public/drummondvillef557.png)
+
+          - **Province/State:** Quebec
+          - **Country:** Canada
+          - **Capacity:** 32 000 SCFM
+          - **Industry:** Painting booth
+          - **Project Type:** Air Pollution Control
+
+        ### Montreal
+          ![Montreal](/sites/biothermica.com/files/styles/medium/public/montreal88b4.png)
+
+          - **Province/State:** Quebec
+          - **Country:** Canada
+          - **Capacity:** 200 000 SCFM (including rotary concentrator)
+          - **Industry:** Painting booth
+          - **Project Type:** Air Pollution Control
+
+        ### Pointe-Claire
+          ![Pointe-Claire](/sites/biothermica.com/files/styles/medium/public/pointeclaireb7f1.png)
+
+          - **Province/State:** Quebec
+          - **Country:** Canada
+          - **Capacity:** 70 000 SCFM (incl. rotary concentrator)
+          - **Industry:** Painting booth
+          - **Project Type:** Air Pollution Control
+
+      fr: |
+        [Retour aux projets](/fr/assainissement/projets/)
+
+        ### Drummondville
+          ![Drummondville](/sites/biothermica.com/files/styles/medium/public/drummondvillef557.png)
+
+          - **Province/État:** Quebec
+          - **Pays:** Canada
+          - **Capacité:** 32 000 SCFM
+          - **Industrie:** Atelier de peinture
+          - **Type de projet:** Air Pollution Control
+
+        ### Montreal
+          ![Montreal](/sites/biothermica.com/files/styles/medium/public/montreal88b4.png)
+
+          - **Province/État:** Quebec
+          - **Pays:** Canada
+          - **Capacité:** 200 000 SCFM (including rotary concentrator)
+          - **Industrie:** Atelier de peinture
+          - **Type de projet:** Air Pollution Control
+
+        ### Pointe-Claire
+          ![Pointe-Claire](/sites/biothermica.com/files/styles/medium/public/pointeclaireb7f1.png)
+
+          - **Province/État:** Quebec
+          - **Pays:** Canada
+          - **Capacité:** 70 000 SCFM (incl. rotary concentrator)
+          - **Industrie:** AAtelier de peinture
+          - **Type de projet:** Air Pollution Control
