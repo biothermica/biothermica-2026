@@ -3,9 +3,9 @@ paths:
   fr: /fr/documents/publications/
 redirects:
   en:
-  - /documents/3.html
+  - /documents/3/
   fr:
-  - /fr/documents/10.html
+  - /fr/documents/10/
 titles:
   en: Publications
   fr: Publications

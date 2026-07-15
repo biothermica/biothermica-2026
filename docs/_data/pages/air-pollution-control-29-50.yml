@@ -1,0 +1,43 @@
+paths:
+  en: /air-pollution-control/projects/29/50/
+  fr: /fr/assainissement/projets/29/50/
+titles:
+  en: Projects
+  fr: Projets
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/themes/biothermica/css/images/2-1.png
+        alt:
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        [Return to projects](/projects/)
+
+        ### Presque Isle
+          ![Presque Isle](/sites/biothermica.com/files/styles/medium/public/mainebc1f.png)
+
+          - **Province/State:** Maine
+          - **Country:** USA
+          - **Capacity:** 80 000 SCFM
+          - **Industry:** Agro-food
+          - **Project Type:** Air Pollution Control
+
+      fr: |
+        [Retour aux projets](/fr/assainissement/projets/)
+
+        ### Presque Isle
+
+        ![Presque Isle](/sites/biothermica.com/files/styles/medium/public/mainebc1f.png)
+
+        - **Province/État:** Maine
+        - **Pays:** USA
+        - **Capacité:** 80 000 SCFM
+        - **Industrie:** Agro-alimentaire
+        - **Type de projet:** Air Pollution Control

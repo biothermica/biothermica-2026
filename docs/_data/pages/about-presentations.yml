@@ -3,9 +3,9 @@ paths:
   fr: /fr/documents/presentations/
 redirects:
   en:
-  - /documents/2.html
+  - /documents/2/
   fr:
-  - /fr/documents/9.html
+  - /fr/documents/9/
 titles:
   en: Presentations
   fr: Présentations

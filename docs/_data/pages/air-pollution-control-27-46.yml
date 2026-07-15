@@ -1,0 +1,42 @@
+paths:
+  en: /air-pollution-control/projects/27/46/
+  fr: /fr/assainissement/projets/27/46/
+titles:
+  en: Projects
+  fr: Projets
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/themes/biothermica/css/images/2-1.png
+        alt:
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        [Return to projects](/projects/)
+
+        ### Jonquière
+          ![Jonquière](/sites/biothermica.com/files/styles/medium/public/jonquierea510.png)
+
+          - **Province/State:** Quebec
+          - **Country:** Canada
+          - **Capacity:** 2 000 SCFM
+          - **Industry:** Brasque treatment plant
+          - **Project Type:** Air Pollution Control
+
+      fr: |
+        [Retour aux projets](/fr/assainissement/projets/)
+
+        ### Jonquière
+          ![Jonquière](/sites/biothermica.com/files/styles/medium/public/jonquierea510.png)
+
+          - **Province/État:** Quebec
+          - **Pays:** Canada
+          - **Capacité:** 2 000 SCFM
+          - **Industrie:** Usine de traitement des brasques usées
+          - **Type de projet:** Air Pollution Control

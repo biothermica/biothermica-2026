@@ -3,9 +3,9 @@ paths:
   fr: /fr/documents/politiques/
 redirects:
   en:
-  - /documents/66.html
+  - /documents/66/
   fr:
-  - /fr/documents/67.html
+  - /fr/documents/67/
 titles:
   en: Policies policies
   fr: Politiques internes

@@ -17,17 +17,17 @@ en:
       - url: /content/video-gazmont-lfg-power-plant/
         title: Video - Gazmont LFG Power Plant
         hidefromfooter: 1
-      - url: /documents/1.html
+      - url: /documents/1/
         title: Press Releases
-      - url: /documents/2.html
+      - url: /documents/2/
         title: Presentations
-      - url: /documents/3.html
+      - url: /documents/3/
         title: Publications
         hidefromfooter: 1
-      - url: /documents/4.html
+      - url: /documents/4/
         title: Brochures
         hidefromfooter: 1
-      - url: /documents/66.html
+      - url: /documents/66/
         title: Internal policies
         hidefromfooter: 1
       - url: /privacy-policy/
@@ -81,35 +81,35 @@ en:
       - url: /content/work-together/
         title: Work Together
 fr:
-  - url: /fr/content/entreprise.html
+  - url: /fr/content/entreprise/
     title: À propos
     footercol: 1
     children:
-      - url: /fr/content/entreprise.html
+      - url: /fr/content/entreprise/
         title: À propos de nous
       - url: /fr/content/historique/
         title: Historique
-      - url: /fr/content/conseil-dadministration.html
+      - url: /fr/content/conseil-dadministration/
         title: Conseil d'administration
-      - url: /fr/content/prix-distinctions.html
+      - url: /fr/content/prix-distinctions/
         title: Prix et distinctions
-      - url: /fr/content/video-corporative.html
+      - url: /fr/content/video-corporative/
         title: Vidéo Corporative
         hidefromfooter: 1
-      - url: /fr/content/video-centrale-gazmont.html
+      - url: /fr/content/video-centrale-gazmont/
         title: Vidéo - Centrale Gazmont
         hidefromfooter: 1
-      - url: /fr/documents/53.html
+      - url: /fr/documents/53/
         title: Communiqués de presse
-      - url: /fr/documents/9.html
+      - url: /fr/documents/9/
         title: Présentations
-      - url: /fr/documents/10.html
+      - url: /fr/documents/10/
         title: Publications
         hidefromfooter: 1
-      - url: /fr/documents/11.html
+      - url: /fr/documents/11/
         title: Brochures
         hidefromfooter: 1
-      - url: /fr/documents/67.html
+      - url: /fr/documents/67/
         title: Politiques internes
         hidefromfooter: 1
       - url: /fr/renseignements-personnels/
@@ -134,15 +134,15 @@ fr:
         title: Business Approach
       - url: /content/first-vamox-project/
         title: First Vamox Project
-  - url: /fr/content/methane-minier.html
+  - url: /fr/content/methane-minier/
     title: Méthane Minier
     footercol: 1
     children:
-      - url: /fr/content/methane-minier.html
+      - url: /fr/content/methane-minier/
         title: Modèle d'affaires
-      - url: /fr/content/vamox-rto.html
+      - url: /fr/content/vamox-rto/
         title: VAMOX® OTR
-      - url: /fr/content/ventilation-du-methane-etats-unis.html
+      - url: /fr/content/ventilation-du-methane-etats-unis/
         title: Ventilation du méthane, É.-U.
   - url: /fr/content/services-biogaz/
     title: Biogaz

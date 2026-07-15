@@ -1,0 +1,42 @@
+paths:
+  en: /air-pollution-control/projects/27/47/
+  fr: /fr/assainissement/projets/27/47/
+titles:
+  en: Projects
+  fr: Projets
+sections_header:
+  - structure: header
+  - structure: bannerimage
+    img:
+      en:
+        image: /sites/biothermica.com/files/styles/entete_page/public/arbre_062e2.jpg
+        alt:
+      fr:
+        image: /sites/biothermica.com/themes/biothermica/css/images/2-1.png
+        alt:
+sections:
+  - structure: nosidebartextwithtitle
+    text:
+      en: |
+        [Return to projects](/projects/)
+
+        ### Danville
+          ![Danville](/sites/biothermica.com/files/styles/medium/public/danville1e4a.png)
+
+          - **Province/State:** Quebec
+          - **Country:** Canada
+          - **Capacity:** 3 * 5 000 SCFM
+          - **Industry:** Magnesium plant
+          - **Project Type:** Air Pollution Control
+
+      fr: |
+        [Retour aux projets](/fr/assainissement/projets/)
+
+        ### Danville
+          ![Danville](/sites/biothermica.com/files/styles/medium/public/danville1e4a.png)
+
+          - **Province/État:** Quebec
+          - **Pays:** Canada
+          - **Capacité:** 3 * 5 000 SCFM
+          - **Industrie:** Usine de magnésium
+          - **Type de projet:** Air Pollution Control
