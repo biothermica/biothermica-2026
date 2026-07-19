@@ -41,15 +41,11 @@ class App {
                 'en' => [
                   'url' => $orig['url'] ?? '',
                   'frameborder' => $orig['frameborder'] ?? '',
-                  'width' => $orig['width'] ?? '',
-                  'height' => $orig['height'] ?? '',
                   'allowfullscreen' => $orig['allowfullscreen'] ?? '',
                 ],
                 'fr' => [
                   'url' => $orig['url'] ?? '',
                   'frameborder' => $orig['frameborder'] ?? '',
-                  'width' => $orig['width'] ?? '',
-                  'height' => $orig['height'] ?? '',
                   'allowfullscreen' => $orig['allowfullscreen'] ?? '',
                 ],
               ],

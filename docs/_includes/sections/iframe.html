@@ -5,25 +5,22 @@ sections:
       en:
         url: http://www.youtube.com/embed/<code>
         frameborder: "0"
-        width: "420"
-        height: "315"
         allowfullscreen: "allowfullscreen"
       fr:
         url: https://www.youtube.com/embed/<code>
         frameborder: "0"
-        width: "560"
-        height: "315"
         allowfullscreen: "allowfullscreen"
 {% endcomment %}
 <div class="content-wrapper style2">
   <div class="inner">
     <div class="container">
       <div id="content">
-        <iframe
-        src="{{ _iframedata.url }}"
-        frameborder="{{ _iframedata.frameborder }}"
-        width="{{ _iframedata.width }}"
-        height="{{ _iframedata.height }}" {{ _iframedata.allowfullscreen }} ></iframe>
+        <div class="video-container">
+          <iframe
+          src="{{ _iframedata.url }}"
+          frameborder="{{ _iframedata.frameborder }}"
+          {{ _iframedata.allowfullscreen }} ></iframe>
+        </div>
       </div>
     </div>
   </div>

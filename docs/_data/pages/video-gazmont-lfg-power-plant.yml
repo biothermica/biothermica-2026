@@ -26,12 +26,8 @@ sections:
       en:
         url: http://www.youtube.com/embed/YuBKwhUrRlw
         frameborder: "0"
-        width: "560"
-        height: "315"
         allowfullscreen: "allowfullscreen"
       fr:
         url: hthttp://www.youtube.com/embed/71iRmZ9wlW0
         frameborder: "0"
-        width: "560"
-        height: "315"
         allowfullscreen: "allowfullscreen"
