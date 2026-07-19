@@ -14,16 +14,17 @@ sections_header:
       fr:
         image: /sites/biothermica.com/files/styles/entete_page/public/default_images/2-1_04e5d.png
         alt:
+
 sections:
   - structure: iframe
-    url:
+    iframedata:
       en:
         url: http://www.youtube.com/embed/YuBKwhUrRlw
         frameborder: "0"
         width: "560"
         height: "315"
         allowfullscreen: "allowfullscreen"
-      en:
+      fr:
         url: hthttp://www.youtube.com/embed/71iRmZ9wlW0
         frameborder: "0"
         width: "560"
