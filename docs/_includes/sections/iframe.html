@@ -1,5 +1,27 @@
 {% comment %}
 sections:
   - structure: iframe
+    iframedata:
+      en:
+        url: http://www.youtube.com/embed/<code>
+        frameborder: "0"
+        allowfullscreen: "allowfullscreen"
+      fr:
+        url: https://www.youtube.com/embed/<code>
+        frameborder: "0"
+        allowfullscreen: "allowfullscreen"
 {% endcomment %}
-<iframe src="{% url %}" frameborder="{% frameborder %}" width="{% width %}" height="{% height %}" {% allowfullscreen %} ></iframe>
+<div class="content-wrapper style2">
+  <div class="inner">
+    <div class="container">
+      <div id="content">
+        <div class="video-container">
+          <iframe
+          src="{{ _iframedata.url }}"
+          frameborder="{{ _iframedata.frameborder }}"
+          {{ _iframedata.allowfullscreen }} ></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

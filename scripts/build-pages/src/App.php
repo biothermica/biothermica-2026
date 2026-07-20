@@ -35,6 +35,21 @@ class App {
                 'fr' => $orig['body'] ?? '',
               ],
             ],
+            [
+              'structure' => 'iframe',
+              'iframedata' => [
+                'en' => [
+                  'url' => $orig['url'] ?? '',
+                  'frameborder' => $orig['frameborder'] ?? '',
+                  'allowfullscreen' => $orig['allowfullscreen'] ?? '',
+                ],
+                'fr' => [
+                  'url' => $orig['url'] ?? '',
+                  'frameborder' => $orig['frameborder'] ?? '',
+                  'allowfullscreen' => $orig['allowfullscreen'] ?? '',
+                ],
+              ],
+            ],
           ],
           'sections_header' => [
             [
