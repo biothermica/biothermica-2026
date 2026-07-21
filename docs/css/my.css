@@ -417,7 +417,25 @@ p{
   color: #fff;
 }
 
+@media screen and (max-width: 10000px) {
+  #navPanel .indent-1 {
+      display: inline-block;
+      width: unset;
+  }
+}
 
+#navPanel .link.depth-1 {
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-left: 10px;
+  line-height: 25px;
+}
+
+@media screen and (max-width: 10000px) {
+  #navPanel .depth-0 {
+    padding-top: 10px;
+  }
+}
 
 /* Tablet */
 @media screen and (max-width: 992px) {
