@@ -247,10 +247,6 @@ a:hover{
   display: none;
 }
 
-article{
-  animation:fade .8s ease;
-}
-
 @keyframes fade{
   from{
     opacity:0;
@@ -323,7 +319,9 @@ dl.contact dd {
 }
 
 #navPanel .link {
-  display: table;
+  display: flex;
+  height: auto;
+  min-height: 44px;
 }
 
 #navPanel {
@@ -404,12 +402,6 @@ th{
   padding:14px;
   border-bottom:1px solid #ddd;
 }
-
-
-.wrapper{
-  animation: fade .6s ease;
-}
-
 
 article{
   font-size:1.06rem;
