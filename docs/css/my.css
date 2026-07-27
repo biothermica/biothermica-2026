@@ -600,3 +600,11 @@ p{
   line-height: 1;
   font-weight: 100;
 }
+
+.breadcrumbs-wrapper {
+  padding-bottom: 15px;
+}
+
+.breadcrumbs-wrapper a {
+  font-weight: 600;
+}
