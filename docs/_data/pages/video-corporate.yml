@@ -29,7 +29,7 @@ sections:
   - structure: iframe
     iframedata:
       en:
-        url: http://www.youtube.com/embed/oSSl68LELhs
+        url: //www.youtube.com/embed/oSSl68LELhs
         frameborder: "0"
         allowfullscreen: "allowfullscreen"
       fr:
