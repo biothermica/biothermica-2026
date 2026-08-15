@@ -564,3 +564,9 @@ p{
       font-size: 10pt !important;
   }
 }
+
+/* Keep banner above the decorative .hexagon divs injected into #main-wrapper */
+.banner-image-wrapper {
+  position: relative;
+  z-index: 1;
+}
