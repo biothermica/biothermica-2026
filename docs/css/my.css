@@ -565,8 +565,52 @@ p{
   }
 }
 
+
 /* Keep banner above the decorative .hexagon divs injected into #main-wrapper */
 .banner-image-wrapper {
   position: relative;
   z-index: 1;
+}
+
+#titleBar {
+  display: grid;
+  grid-template-columns: 1fr auto 0fr;
+  padding: 0 1rem;
+}
+
+#titleBar > .toggle {
+  justify-self: start;
+}
+
+#titleBar > a[href="/"] {
+  justify-self: center;
+}
+
+#language-selector-wrapper {
+  align-content: center;
+  justify-self: end;
+  padding: 1rem 1.5rem;
+  white-space: nowrap;
+}
+
+#language-selector-wrapper a {
+  text-decoration: none;
+}
+
+#language-selector-wrapper a.active {
+  font-weight: 600;
+}
+
+
+#language-selector-wrapper a {
+  line-height: 1;
+  font-weight: 100;
+}
+
+.breadcrumbs-wrapper {
+  padding-bottom: 15px;
+}
+
+.breadcrumbs-wrapper a {
+  font-weight: 600;
 }

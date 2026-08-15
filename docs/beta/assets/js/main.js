@@ -45,6 +45,9 @@
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
 					'<a href="' + __home + '"><span class="title">' + $('#logo').html() + '</span></a>' +
+					'<div id="language-selector-wrapper">' +
+					  $('#language-selector').html() +
+				    '</div>' +
 				'</div>'
 			)
 				.appendTo($body);

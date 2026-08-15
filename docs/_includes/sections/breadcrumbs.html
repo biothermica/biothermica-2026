@@ -1,0 +1,12 @@
+{% assign _lang = page.lang %}
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a class="first-link" href="{% if _lang == 'fr' %}/fr/{% else %}/{% endif %}">
+    {% if _lang == 'fr' %} Accueil {% else %} Home {% endif %}
+    <span class="separator"> ›› </span>
+  </a>
+
+  {% if page.title %}
+    <span aria-current="page">{{ page.title }}</span>
+  {% endif %}
+</nav>
