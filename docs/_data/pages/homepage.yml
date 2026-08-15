@@ -32,8 +32,8 @@ sections:
   - structure: bannerimage
     img:
       en:
-        image: /media/salon-affaires-municipales-2026.png
-        alt: "Biothermica exhibitor at Salon Affaires Municipales 2026 - September 24-25 - Québec City Convention Centre"
+        image: /media/salon-affaires-municipales-2026-en.png
+        alt: "Biothermica exhibitor at the Municipal Affairs Show 2026 - September 24-25 - Québec City Convention Centre"
       fr:
         image: /media/salon-affaires-municipales-2026.png
         alt: "Biothermica exposant au Salon Affaires Municipales 2026 - 24 et 25 septembre - Centre des congrès de Québec"
