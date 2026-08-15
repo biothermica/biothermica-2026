@@ -566,6 +566,12 @@ p{
 }
 
 
+/* Keep banner above the decorative .hexagon divs injected into #main-wrapper */
+.banner-image-wrapper {
+  position: relative;
+  z-index: 1;
+}
+
 #titleBar {
   display: grid;
   grid-template-columns: 1fr auto 0fr;

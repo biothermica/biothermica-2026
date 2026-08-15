@@ -29,6 +29,18 @@ sections_header:
           title: "Assainissement de l'air"
           link: /fr/assainissement-de-lair/
 sections:
+  - structure: bannerimage
+    img:
+      en:
+        image: /media/salon-affaires-municipales-2026-en.png
+        alt: "Biothermica exhibitor at the Municipal Affairs Show 2026 - September 24-25 - Québec City Convention Centre"
+      fr:
+        image: /media/salon-affaires-municipales-2026.png
+        alt: "Biothermica exposant au Salon Affaires Municipales 2026 - 24 et 25 septembre - Centre des congrès de Québec"
+    link:
+      en: https://fqm.ca/evenements/congres-fqm/le-salon-affaires-municipales/
+      fr: https://fqm.ca/evenements/congres-fqm/le-salon-affaires-municipales/
+    img_style: "max-width: 67%; margin: 3em auto 0; display: block;"
   - structure: presentationtext
     text:
       en: "Biothermica is a leading provider of sustainable solutions for air pollution control, landfill gas services, and coal mine methane management. With a commitment to environmental stewardship and innovation, we help our clients reduce emissions, recover valuable resources, and improve safety across various industries."
