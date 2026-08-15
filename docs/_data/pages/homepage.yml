@@ -40,6 +40,7 @@ sections:
     link:
       en: https://fqm.ca/evenements/congres-fqm/le-salon-affaires-municipales/
       fr: https://fqm.ca/evenements/congres-fqm/le-salon-affaires-municipales/
+    img_style: "max-width: 67%; margin: 3em auto 0; display: block;"
   - structure: presentationtext
     text:
       en: "Biothermica is a leading provider of sustainable solutions for air pollution control, landfill gas services, and coal mine methane management. With a commitment to environmental stewardship and innovation, we help our clients reduce emissions, recover valuable resources, and improve safety across various industries."

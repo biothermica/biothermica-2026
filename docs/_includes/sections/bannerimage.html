@@ -11,10 +11,11 @@ sections:
     link:
       en: https://example.com
       fr: https://example.com
+    img_style: "max-width: 67%; margin: 3em auto 0; display: block;"
 {% endcomment %}
 
 <section class="{{ spacing_classes }} banner-image-wrapper">
   {% if _link %}<a href="{{ _link }}">{% endif %}
-  <img src="{{ _img.image }}" alt="{{ _img.alt }}" />
+  <img src="{{ _img.image }}" alt="{{ _img.alt }}"{% if _block.img_style %} style="{{ _block.img_style }}"{% endif %} />
   {% if _link %}</a>{% endif %}
 </section>
