@@ -44,7 +44,7 @@ sections:
       fr:
         image: /media/biothermica-au-congres-genial-de-lAIMQ.jpeg
         alt: "Biothermica au Congres Genial! de l'AIMQ"
-    img_style: "max-width: 67%; margin: 3em auto 0; display: block;"
+    img_style: "max-width: 62%; margin: 3em auto 0; display: block;"
   - structure: bannerimage
     img:
       en:
