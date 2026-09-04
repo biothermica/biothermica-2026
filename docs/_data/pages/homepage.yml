@@ -33,7 +33,7 @@ sections:
     text:
       en: 'Biothermica is partnering with the AIMQ “Genial!” Congress, taking place September 20–23, 2026, at the Palais des congrès de Gatineau.
           On Tuesday, September 22 at 8:30 a.m., Guillaume St-Laurent, P.Eng., from the City of Gatineau, will present a conference on:
-          <strong>"Rehabilitation of a biogas collection system at a former landfill: technical challenges and environmental benefits."</strong>
+          **"Rehabilitation of a biogas collection system at a former landfill: technical challenges and environmental benefits."**
           Biothermica is proud to support the conference as a break partner, highlighting a Gatineau project that benefited local residents and where Biothermica’s technical expertise contributed to the project’s success.'
       fr: ""
   - structure: bannerimage
@@ -44,7 +44,10 @@ sections:
       fr:
         image: /media/biothermica-au-congres-genial-de-lAIMQ.jpeg
         alt: "Biothermica au Congres Genial! de l'AIMQ"
-    img_style: "max-width: 45%; margin: 3em auto 0; display: block;"
+    link:
+      en: ""
+      fr: ""
+    img_style: "max-width: 67%; margin: 0 auto 0; display: block;"
   - structure: bannerimage
     img:
       en:
