@@ -3,8 +3,10 @@ sections:
   - structure: text
     text: |
       Your text here.
+    wrapper_class: ""
 {% endcomment %}
-<div class="wrapper">
+
+<div class="wrapper {% if _block.wrapper_class %} {{ _block.wrapper_class }} {% endif %}">
   <div class="inner">
     <!-- Feature 1 -->
       <section class="container box feature1">

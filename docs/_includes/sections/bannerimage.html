@@ -16,6 +16,6 @@ sections:
 
 <section class="{{ spacing_classes }} banner-image-wrapper">
   {% if _link %}<a href="{{ _link }}">{% endif %}
-  <img src="{{ _img.image }}" alt="{{ _img.alt }}"{% if _block.img_style %} style="{{ _block.img_style }}"{% endif %} />
+  <img src="{{ _img.image }}" alt="{{ _img.alt }}" class="bannerimage-img" {% if _block.img_style %} style="{{ _block.img_style }}"{% endif %} />
   {% if _link %}</a>{% endif %}
 </section>
