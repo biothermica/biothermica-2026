@@ -36,6 +36,7 @@ sections:
           **"Rehabilitation of a biogas collection system at a former landfill: technical challenges and environmental benefits."**
           Biothermica is proud to support the conference as a break partner, highlighting a Gatineau project that benefited local residents and where Biothermica’s technical expertise contributed to the project’s success.'
       fr: ""
+    data_hide_me_on: "2026-09-24"
   - structure: bannerimage
     img:
       en:
@@ -48,6 +49,7 @@ sections:
       en: ""
       fr: ""
     img_style: "max-width: 67%; margin: 0 auto 0; display: block;"
+    data_hide_me_on: "2026-09-24"
   - structure: bannerimage
     img:
       en:
@@ -60,6 +62,7 @@ sections:
       en: https://fqm.ca/evenements/congres-fqm/le-salon-affaires-municipales/
       fr: https://fqm.ca/evenements/congres-fqm/le-salon-affaires-municipales/
     img_style: "max-width: 67%; margin: 3em auto 0; display: block;"
+    data_hide_me_on: "2026-09-26"
   - structure: presentationtext
     text:
       en: "Biothermica is a leading provider of sustainable solutions for air pollution control, landfill gas services, and coal mine methane management. With a commitment to environmental stewardship and innovation, we help our clients reduce emissions, recover valuable resources, and improve safety across various industries."

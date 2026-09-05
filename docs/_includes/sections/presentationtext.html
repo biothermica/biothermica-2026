@@ -3,8 +3,16 @@ sections:
   - structure: text
     text: |
       Your text here.
+    data_hide_me_on: "2026-09-24"
 {% endcomment %}
-<div class="wrapper">
+
+<div class="wrapper"
+
+{% if _block.data_hide_me_on %}
+  data-hide-me-on="{{ _block.data_hide_me_on }}"
+{% endif %}
+
+>
   <div class="inner">
     <!-- Feature 1 -->
       <section class="container box feature1">
