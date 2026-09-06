@@ -614,3 +614,25 @@ p{
 .breadcrumbs-wrapper a {
   font-weight: 600;
 }
+
+.bannerimage-img {
+  max-width: 67%;
+  margin: 0 auto 0;
+  display: block;
+}
+
+.homepage-presentationtext {
+  padding: 1em 20px 0em 20px;
+}
+
+@media screen and (max-width: 767px) {
+  .homepage-presentationtext {
+    padding: 1em 20px 0em 20px;
+  }
+  .bannerimage-img {
+    max-width: 90%;
+  }
+  .wrapper {
+    padding: 0 1em 0 1em;
+  }
+}
