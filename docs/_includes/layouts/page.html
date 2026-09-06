@@ -135,6 +135,8 @@
 			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/util.js"></script>
 			<script src="{{ site.data.config.betaTemplatePath }}/assets/js/main.js?token={{ site.time | date: '%s' }}"></script>
 			<script src="/js/my.js?token={{ site.time | date: '%s' }}"></script>
+			<!-- script hides the html element when data-hide-me-on attribute date got expired. -->
+			<script src="/js/hide-content-on-date.js?token={{ site.time | date: '%s' }}"></script>
 			{% assign lib_phase = 'js' %}
 			{% include libraries/all.html %}
 	</body>

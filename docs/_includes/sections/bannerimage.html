@@ -12,9 +12,16 @@ sections:
       en: https://example.com
       fr: https://example.com
     img_style: "max-width: 67%; margin: 3em auto 0; display: block;"
+    data_hide_me_on: "2026-09-24"
 {% endcomment %}
 
-<section class="{{ spacing_classes }} banner-image-wrapper">
+<section class="{{ spacing_classes }} banner-image-wrapper"
+
+{% if _block.data_hide_me_on %}
+  data-hide-me-on="{{ _block.data_hide_me_on }}"
+{% endif %}
+
+>
   {% if _link %}<a href="{{ _link }}">{% endif %}
   <img src="{{ _img.image }}" alt="{{ _img.alt }}" class="bannerimage-img" {% if _block.img_style %} style="{{ _block.img_style }}"{% endif %} />
   {% if _link %}</a>{% endif %}
