@@ -4,13 +4,14 @@ sections:
     text: |
       Your text here.
     data_hide_me_on: "2026-09-24"
+    wrapper_class: ""
 {% endcomment %}
 
-<div class="wrapper"
+<div class="wrapper {% if _block.wrapper_class %} {{ _block.wrapper_class }} {% endif %}"
 
-{% if _block.data_hide_me_on %}
-  data-hide-me-on="{{ _block.data_hide_me_on }}"
-{% endif %}
+  {% if _block.data_hide_me_on %}
+    data-hide-me-on="{{ _block.data_hide_me_on }}"
+  {% endif %}
 
 >
   <div class="inner">
