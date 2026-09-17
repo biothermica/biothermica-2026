@@ -9,4 +9,4 @@ for i in {1..20}; do
 done
 echo "Finished checking"
 
-docker run --rm --network biothermica-site-2026 dcycle/broken-link-checker:3 http://jekyll:4312
+docker run --rm --network biothermica-site-2026 dcycle/broken-link-checker:3 http://jekyll:4000
