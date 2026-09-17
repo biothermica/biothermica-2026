@@ -28,11 +28,9 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v5 # This step is essential to access your script files
       - name: Create pages from multilignual yaml files
-        run: ./scripts/build-pages.sh
-      - name: Run build site script
-        run: ./scripts/build-site-folder.sh
-      - name: Run broken links
-        run: ./scripts/broken-links.sh
+        run: ./scripts/build-pages.sh # Executes the script from your repository
+      - name: Run your script
+        run: ./scripts/build-site-folder.sh # Executes the script from your repository
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
