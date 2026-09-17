@@ -9,25 +9,25 @@ sections_header:
   - structure: carousel
     slides:
       en:
-        - image: /media/methane-minier.png
+        - image: /media/methane-minier.webp
           title: "Coal Mine Methane"
           link: /content/vamox/
-        - image: /media/biogaz.png
+        - image: /media/biogaz.webp
           title: "Landfill Gas Services"
           link: /landfill-gas/
-        - image: /media/flotte-camion-panoramique.png
+        - image: /media/flotte-camion-panoramique.webp
           title: "Air Pollution Control"
           link: /air-pollution-control/
       fr:
-        - image: /media/methane-minier.png
+        - image: /media/methane-minier.webp
           title: "Méthane minier"
           link: /fr/content/methane-minier/
-        - image: /media/biogaz.png
+        - image: /media/biogaz.webp
           title: "Biogaz"
           link: /fr/content/services-biogaz/
-        - image: /media/flotte-camion-panoramique.png
+        - image: /media/flotte-camion-panoramique.webp
           title: "Assainissement de l'air"
-          link: /fr/content/oxydation-thermique-regenerative/
+          link: /fr/assainissement-air/
 sections:
   - structure: presentationtext
     text:
