@@ -21,13 +21,13 @@ sections_header:
       fr:
         - image: /media/methane-minier.png
           title: "Méthane minier"
-          link: /fr/content/vamox/
+          link: /fr/content/methane-minier/
         - image: /media/biogaz.png
           title: "Biogaz"
           link: /fr/content/services-biogaz/
         - image: /media/flotte-camion-panoramique.png
           title: "Assainissement de l'air"
-          link: /fr/assainissement-air/
+          link: /fr/content/oxydation-thermique-regenerative/
 sections:
   - structure: presentationtext
     text:
