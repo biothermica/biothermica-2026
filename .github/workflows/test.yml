@@ -1,4 +1,4 @@
-name: Run test Script on PR
+name: Test Broken Links
 
 on:
   pull_request:
@@ -7,18 +7,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out the repository
+      - name: Check out repository
         uses: actions/checkout@v5
 
-      - name: Create pages from multilingual yaml files
-        run: ./scripts/build-pages.sh
+      - name: Start Docker Compose
+        run: docker compose up -d
 
-      - name: Run build site script
-        run: ./scripts/build-site-folder.sh
+      - name: Wait for services
+        run: sleep 40
 
-      - name: Run broken links
+      - name: Run broken links test
         run: ./scripts/broken-links.sh
+
+      - name: Stop Docker Compose
+        if: always()
+        run: docker compose down
