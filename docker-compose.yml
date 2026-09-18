@@ -8,6 +8,6 @@ services:
     volumes:
       - ./docs:/srv/jekyll
 
-networks:
-  default:
-    name: biothermica-site-2026
+# networks:
+#   default:
+#     name: biothermica-site-2026
