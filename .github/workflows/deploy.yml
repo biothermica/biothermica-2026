@@ -33,29 +33,6 @@ jobs:
         run: |
           docker compose up -d jekyll
 
-      - name: Wait for Jekyll
-        run: |
-          echo "Waiting for Jekyll..."
-
-          for i in {1..30}; do
-            if docker run --rm \
-              --network biothermica-site-2026 \
-              curlimages/curl:latest \
-              -fsS http://jekyll/ > /dev/null 2>&1
-            then
-              echo "Jekyll is ready!"
-              exit 0
-            fi
-
-            echo "Waiting... ($i/30)"
-            sleep 2
-          done
-
-          echo "Jekyll failed to start."
-          docker compose ps
-          docker compose logs jekyll
-          exit 1
-
       - name: Check broken links
         run: |
           docker run --rm \
