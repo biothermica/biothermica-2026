@@ -1,0 +1,89 @@
+name: Run Script test on Push, then build GH pages
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+  workflow_dispatch:
+
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: write
+
+# concurrency:
+#   group: "pages"
+#   cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v5
+
+      - name: run tests
+        run: ./scripts/test.sh
+
+      # - name: Start Jekyll
+      #   run: |
+      #     docker compose up -d jekyll
+
+      # - name: Wait for Jekyll
+      #   run: |
+      #     echo "Waiting for Jekyll..."
+
+      #     for i in {1..30}; do
+      #       if docker run --rm \
+      #         --network biothermica-site-2026 \
+      #         curlimages/curl:latest \
+      #         -fsS http://jekyll/ > /dev/null 2>&1
+      #       then
+      #         echo "Jekyll is ready!"
+      #         exit 0
+      #       fi
+
+      #       echo "Waiting... ($i/30)"
+      #       sleep 2
+      #     done
+
+      #     echo "Jekyll failed to start."
+      #     docker compose ps
+      #     docker compose logs jekyll
+      #     exit 1
+
+      # - name: Check broken links
+      #   run: |
+      #     docker run --rm \
+      #       --network biothermica-site-2026 \
+      #       dcycle/broken-link-checker:3 \
+      #       http://jekyll
+
+      # - name: Stop Jekyll
+      #   if: always()
+      #   run: docker compose down
+
+      # - name: Build site folder
+      #   run: ./scripts/build-site-folder.sh
+
+      # - name: Upload artifact
+      #   uses: actions/upload-pages-artifact@v4
+      #   with:
+      #     path: 'docs/_site'
+
+  # deploy:
+  #   if: github.event_name != 'pull_request'
+
+  #   environment:
+  #     name: github-pages
+  #     url: ${{ steps.deployment.outputs.page_url }}
+
+  #   runs-on: ubuntu-latest
+
+  #   needs: build
+
+  #   steps:
+  #     - name: Deploy to GitHub Pages
+  #       id: deployment
+  #       uses: actions/deploy-pages@v4
