@@ -3,7 +3,7 @@ services:
     image: jekyll/minimal:3.8
     command: jekyll serve --watch --force_polling --verbose
     ports:
-      - 4312:4000
+      - 4312:80
     volumes:
       - ./docs:/srv/jekyll
 networks:
