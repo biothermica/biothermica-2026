@@ -17,8 +17,40 @@ jobs:
       - name: Start Docker Compose
         run: docker compose up -d
 
-      - name: Wait for services
-        run: sleep 40
+      - name: Check Docker containers
+        run: docker compose ps
+
+      - name: Show Jekyll logs
+        run: docker compose logs jekyll
+
+      - name: Debug Docker network
+        run: |
+          docker ps
+          docker network ls
+          docker network inspect biothermica-site-2026
+
+      - name: Wait for Jekyll
+        run: |
+          for i in {1..60}; do
+            if curl -fsS http://localhost:4312/ > /dev/null; then
+              echo "Jekyll is ready"
+              exit 0
+            fi
+
+            echo "Waiting for Jekyll... ($i/60)"
+            sleep 2
+          done
+
+          echo "Jekyll did not start"
+          docker compose logs jekyll
+          exit 1
+
+      - name: Check Jekyll hostname from Docker network
+        run: |
+          docker run --rm \
+            --network biothermica-site-2026 \
+            curlimages/curl:latest \
+            http://jekyll:4000/
 
       - name: Run broken links test
         run: ./scripts/broken-links.sh
