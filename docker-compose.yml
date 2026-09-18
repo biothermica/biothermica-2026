@@ -1,11 +1,13 @@
 services:
   jekyll:
     image: jekyll/minimal:3.8
+    user: root
     command: jekyll serve --host 0.0.0.0 --port 80 --watch --force_polling --verbose
     ports:
-      - 4312:80
+      - "4312:80"
     volumes:
       - ./docs:/srv/jekyll
+
 networks:
   default:
     name: biothermica-site-2026
