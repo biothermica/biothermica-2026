@@ -9,31 +9,14 @@ echo "=========================================="
 
 echo ""
 echo "=========================================="
-echo "Starting Jekyll..."
-echo "=========================================="
-
-docker compose up -d jekyll
-
-echo ""
-echo "=========================================="
 echo "Waiting for Jekyll..."
 echo "=========================================="
 
-for i in {1..30}; do
-    if curl -fsS http://localhost:4312 > /dev/null 2>&1; then
-        echo "Jekyll is ready!"
-        break
-    fi
-
-    echo "Waiting... ($i/30)"
-    sleep 2
+echo "Allowing time to build the site..."
+for i in {1..20}; do
+    echo "Waiting... ($i/20)"
+    sleep 1
 done
-
-if ! curl -fsS http://localhost:4312 > /dev/null 2>&1; then
-    echo "ERROR: Jekyll did not start."
-    docker compose logs jekyll
-    exit 1
-fi
 
 echo ""
 echo "=========================================="
@@ -53,5 +36,3 @@ echo ""
 echo "=========================================="
 echo "Onclick link check completed successfully!"
 echo "=========================================="
-
-docker compose down

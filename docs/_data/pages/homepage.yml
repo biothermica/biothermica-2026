@@ -21,13 +21,13 @@ sections_header:
       fr:
         - image: /media/vamox-6_upscaled.jpg
           title: "Méthane minier"
-          link: /fr/content/methane-minier/
+          link: /fr/methane-minier/
         - image: /media/biogaz-10.png
           title: "Biogaz"
-          link: /fr/content/services-biogaz/
+          link: /fr/biogaz/
         - image: /media/assainissement-3-compressed.jpg
           title: "Assainissement de l'air"
-          link: /fr/assainissement-air/
+          link: /fr/assainissement-de-lair/
 sections:
   - structure: presentationtext
     text:
