@@ -58,6 +58,12 @@ jobs:
             --ignore-url "css/images/" \
             http://jekyll:4000
 
+      # ==========================================
+      # onclick="window.location.href=..."
+      # ==========================================
+      - name: Run onclick link checker
+        run: ./scripts/check-onclick-links.sh
+
       - name: Stop Jekyll
         if: always()
         run: docker compose down
