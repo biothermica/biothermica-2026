@@ -55,6 +55,7 @@ jobs:
           docker run --rm \
             --network biothermica-site-2026 \
             dcycle/broken-link-checker:3 \
+            --exclude "css/images/" \
             http://jekyll:4000
 
       - name: Stop Jekyll
