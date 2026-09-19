@@ -62,7 +62,15 @@ jobs:
       # onclick="window.location.href=..."
       # ==========================================
       - name: Run onclick link checker
-        run: ./scripts/check-onclick-links.sh
+        run: |
+          docker run --rm \
+              --network biothermica-site-2026 \
+              -v "$(pwd)/docs/_site:/site:ro" \
+              -v "$(pwd)/scripts/check-onclick-links.py:/check-onclick-links.py:ro" \
+              python:3.12-slim \
+              python /check-onclick-links.py \
+                  /site \
+                  --base-url http://jekyll:4000/
 
       - name: Stop Jekyll
         if: always()
