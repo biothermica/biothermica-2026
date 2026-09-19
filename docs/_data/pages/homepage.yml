@@ -21,7 +21,7 @@ sections_header:
       fr:
         - image: /media/vamox-6_upscaled.jpg
           title: "Méthane minier"
-          link: fr/content/methane-minier/
+          link: /fr/content/methane-minier/
         - image: /media/biogaz-10.png
           title: "Biogaz"
           link: /fr/content/services-biogaz/
