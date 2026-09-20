@@ -2414,7 +2414,7 @@ input, select, textarea {
 			}
 
 				#banner h2 {
-					font-size: 18pt !important;
+					font-size: 30pt !important;
 				}
 
 		/* Sidebar */
@@ -2425,11 +2425,14 @@ input, select, textarea {
 
 		/* Footer */
 
-			#copyright {
-				margin-top: 0;
-				padding: 3em 0 1em 0;
-			}
+		#copyright {
+			margin-top: 0;
+			padding: 3em 0 1em 0;
+		}
 
+		#banner h2 {
+			margin: 0 0 2.5em 0;
+		}
 	}
 
 	.awards-logos {
